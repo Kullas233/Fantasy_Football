@@ -1,0 +1,87 @@
+.tablerow{
+    cursor:pointer;
+}
+    
+.highlight{
+    background-color: lightskyblue;
+}
+
+.button{
+    padding:5px;
+    margin:5px;
+}
+.input{
+    padding:5px;
+    margin:5px;
+    margin-left: 33px;
+    position: sticky;
+}
+
+.Pname{
+    left: 170px;
+    width: 400px;
+}
+.position{
+    left: 600px;
+    width: 150px;
+}
+.team{
+    left: 0px;
+    width: 100px; 
+}
+.bye{
+    left: 0px;
+    width: 150px;
+}
+
+.topbar{
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    z-index: 3;
+}
+.title{
+    position: sticky;
+    top: 70px;
+    z-index: 3;
+}
+.blockbox{
+    position: fixed;
+    width: 100%;
+    height: 108px;
+    background-color: white;
+    z-index: 2;
+}
+
+.has-details {
+    position: relative;
+}
+  
+.details {
+    position: absolute;
+    top: 0;
+    transform: translateY(70%) scale(0);
+    transition: transform 0.1s ease-in;
+    transform-origin: left;
+    display: inline;
+    background: white;
+    z-index: 20;
+    min-width: 100%;
+    padding: 1rem;
+    border: 1px solid black;
+}
+  
+  .has-details:hover span {
+    transform: translateY(70%) scale(1);
+}
+  
+td {
+    padding: 1rem;
+    background: whitesmoke;
+    border: 1px solid black;
+}
+  
+table {
+    border-collapse: collapse;
+}
