@@ -1,0 +1,251 @@
+https://www.thescore.com/news/2563174
+1	Justin Jefferson	MIN	WR
+2	Ja'Marr Chase	CIN	WR
+3	Cooper Kupp	LAR	WR
+4	Christian McCaffrey	SF	RB
+5	Austin Ekeler	LAC	RB
+6	Tyreek Hill	MIA	WR
+7	Travis Kelce	KC	TE
+8	Stefon Diggs	BUF	WR
+9	CeeDee Lamb	DAL	WR
+10	Bijan Robinson	ATL	RB
+11	A.J. Brown	PHI	WR
+12	Tony Pollard	DAL	RB
+13	Garrett Wilson	NYJ	WR
+14	Davante Adams	LV	WR
+15	Amon-Ra St. Brown	DET	WR
+16	Nick Chubb	CLE	RB
+17	Saquon Barkley	NYG	RB
+18	Chris Olave	NO	WR
+19	Jaylen Waddle	MIA	WR
+20	Tee Higgins	CIN	WR
+21	DeVonta Smith	PHI	WR
+22	DK Metcalf	SEA	WR
+23	Mark Andrews	BAL	TE
+24	Rhamondre Stevenson	NE	RB
+25	Derrick Henry	TEN	RB
+26	Jonathan Taylor (INJ)	IND	RB
+27	Jahmyr Gibbs	DET	RB
+28	Jalen Hurts	PHI	QB
+29	Patrick Mahomes II	KC	QB
+30	Josh Allen	BUF	QB
+31	Josh Jacobs	LV	RB
+32	Breece Hall (INJ)	NYJ	RB
+33	Amari Cooper	CLE	WR
+34	Calvin Ridley	JAC	WR
+35	Keenan Allen	LAC	WR
+36	Travis Etienne Jr.	JAC	RB
+37	Lamar Jackson	BAL	QB
+38	Najee Harris	PIT	RB
+39	Aaron Jones	GB	RB
+40	DJ Moore	CHI	WR
+41	Brandon Aiyuk	SF	WR
+42	Alexander Mattison	MIN	RB
+43	Deebo Samuel	SF	WR
+44	Jerry Jeudy	DEN	WR
+45	Joe Mixon	CIN	RB
+46	Terry McLaurin	WAS	WR
+47	Mike Williams	LAC	WR
+48	Chris Godwin	TB	WR
+49	DeAndre Hopkins	TEN	WR
+50	Miles Sanders	CAR	RB
+51	Christian Kirk	JAC	WR
+52	T.J. Hockenson	MIN	TE
+53	Justin Fields	CHI	QB
+54	George Kittle	SF	TE
+55	Darren Waller	NYG	TE
+56	Marquise Brown	ARI	WR
+57	Drake London	ATL	WR
+58	Jahan Dotson	WAS	WR
+59	George Pickens	PIT	WR
+60	Christian Watson	GB	WR
+61	Mike Evans	TB	WR
+62	Tyler Lockett	SEA	WR
+63	Diontae Johnson	PIT	WR
+64	Cam Akers	LAR	RB
+65	Kenneth Walker III (INJ)	SEA	RB
+66	Kyle Pitts	ATL	TE
+67	Michael Pittman Jr.	IND	WR
+68	Jaxon Smith-Njigba	SEA	WR
+69	Treylon Burks	TEN	WR
+70	James Conner	ARI	RB
+71	J.K. Dobbins (INJ)	BAL	RB
+72	Dameon Pierce	HOU	RB
+73	David Montgomery	DET	RB
+74	James Cook	BUF	RB
+75	Joe Burrow (INJ)	CIN	QB
+76	Elijah Moore	CLE	WR
+77	Isiah Pacheco	KC	RB
+78	Rachaad White	TB	RB
+79	Justin Herbert	LAC	QB
+80	Javonte Williams (INJ)	DEN	RB
+81	Alvin Kamara	NO	RB
+82	D'Andre Swift	PHI	RB
+83	Gabe Davis	BUF	WR
+84	Rashaad Penny	PHI	RB
+85	Dalvin Cook	FA	RB
+86	De'Von Achane	MIA	RB
+87	Dallas Goedert	PHI	TE
+88	Jordan Addison	MIN	WR
+89	Courtland Sutton	DEN	WR
+90	Rashod Bateman	BAL	WR
+91	Trevor Lawrence	JAC	QB
+92	Brandin Cooks	DAL	WR
+93	Anthony Richardson	IND	QB
+94	Antonio Gibson	WAS	RB
+95	Brian Robinson Jr.	WAS	RB
+96	Zach Charbonnet	SEA	RB
+97	AJ Dillon	GB	RB
+98	Samaje Perine	DEN	RB
+99	Quentin Johnston	LAC	WR
+100	Khalil Herbert	CHI	RB
+101	Zay Flowers	BAL	WR
+102	Odell Beckham Jr.	BAL	WR
+103	Skyy Moore	KC	WR
+104	Geno Smith	SEA	QB
+105	Deshaun Watson	CLE	QB
+106	Michael Thomas	NO	WR
+107	JuJu Smith-Schuster	NE	WR
+108	Jerick McKinnon	KC	RB
+109	Raheem Mostert	MIA	RB
+110	Nico Collins	HOU	WR
+111	Jonathan Mingo	CAR	WR
+112	Kadarius Toney (INJ)	KC	WR
+113	Evan Engram	JAC	TE
+114	David Njoku	CLE	TE
+115	Dalton Kincaid	BUF	TE
+116	Jamaal Williams	NO	RB
+117	Romeo Doubs	GB	WR
+118	Rondale Moore	ARI	WR
+119	Jakobi Meyers	LV	WR
+120	Damien Harris	BUF	RB
+121	Devin Singletary	HOU	RB
+122	Jaylen Warren	PIT	RB
+123	Elijah Mitchell (INJ)	SF	RB
+124	Tyjae Spears	TEN	RB
+125	Roschon Johnson	CHI	RB
+126	Tank Bigsby	JAC	RB
+127	Zamir White	LV	RB
+128	Chuba Hubbard	CAR	RB
+129	Daniel Jones	NYG	QB
+130	Greg Dulcich	DEN	TE
+131	Jameson Williams*	DET	WR
+132	Kendre Miller	NO	RB
+133	Pat Freiermuth	PIT	TE
+134	Dalton Schultz	HOU	TE
+135	Tyler Higbee	LAR	TE
+136	Allen Lazard	NYJ	WR
+137	Jayden Reed	GB	WR
+138	Darnell Mooney	CHI	WR
+139	DJ Chark Jr.	CAR	WR
+140	Rashee Rice	KC	WR
+141	Darius Slayton	NYG	WR
+142	Tyler Allgeier	ATL	RB
+143	Zay Jones	JAC	WR
+144	Marvin Mims Jr.	DEN	WR
+145	D'Onta Foreman	CHI	RB
+146	Jerome Ford (INJ)	CLE	RB
+147	Ezekiel Elliott	FA	RB
+148	Leonard Fournette	FA	RB
+149	Jeff Wilson Jr.	MIA	RB
+150	Kenneth Gainwell	PHI	RB
+151	Sam LaPorta	DET	TE
+152	Gus Edwards	BAL	RB
+153	Tua Tagovailoa	MIA	QB
+154	Kirk Cousins	MIN	QB
+155	Dak Prescott	DAL	QB
+156	Michael Carter	NYJ	RB
+157	Joshua Kelley	LAC	RB
+158	Michael Gallup	DAL	WR
+159	Parris Campbell	NYG	WR
+160	Van Jefferson	LAR	WR
+161	Tyler Boyd	CIN	WR
+162	Aaron Rodgers	NYJ	QB
+163	Keaontay Ingram	ARI	RB
+164	Kareem Hunt	FA	RB
+165	Chase Brown	CIN	RB
+166	Robert Woods	HOU	WR
+167	Adam Thielen	CAR	WR
+168	Ty Chandler	MIN	RB
+169	Russell Wilson	DEN	QB
+170	Jared Goff	DET	QB
+171	Brock Purdy (INJ)	SF	QB
+172	Chigoziem Okonkwo	TEN	TE
+173	DeVante Parker	NE	WR
+174	Zach Evans	LAR	RB
+175	Evan Hull	IND	RB
+176	Trayveon Williams	CIN	RB
+177	Rico Dowdle	DAL	RB
+178	Jordan Mason	SF	RB
+179	Malik Davis	DAL	RB
+180	Tyrion Davis-Price	SF	RB
+181	Cordarrelle Patterson	ATL	RB
+182	Clyde Edwards-Helaire	KC	RB
+183	Corey Davis	NYJ	WR
+184	K.J. Osborn	MIN	WR
+185	Alec Pierce	IND	WR
+186	Curtis Samuel	WAS	WR
+187	Isaiah Hodgins	NYG	WR
+188	John Metchie III	HOU	WR
+189	Matthew Stafford	LAR	QB
+190	Ryan Tannehill	TEN	QB
+191	Cole Kmet	CHI	TE
+192	Gerald Everett	LAC	TE
+193	Tyler Conklin	NYJ	TE
+194	Bryce Young	CAR	QB
+195	Irv Smith Jr.	CIN	TE
+196	Pierre Strong Jr.	NE	RB
+197	Derek Carr	NO	QB
+198	Kenny Pickett	PIT	QB
+199	Jordan Love	GB	QB
+200	Sam Howell	WAS	QB
+201	Juwan Johnson	NO	TE
+202	Hayden Hurst	CAR	TE
+203	Rashid Shaheed	NO	WR
+204	Donovan Peoples-Jones	CLE	WR
+205	Marquez Valdes-Scantling	KC	WR
+206	Mecole Hardman Jr.	NYJ	WR
+207	Josh Reynolds	DET	WR
+208	C.J. Stroud	HOU	QB
+209	Kyler Murray (INJ)	ARI	QB
+210	Chase Edmonds	TB	RB
+211	Mack Hollins	ATL	WR
+212	Jelani Woods	IND	TE
+213	Jake Ferguson	DAL	TE
+214	Hunter Henry	NE	TE
+215	Jalin Hyatt	NYG	WR
+216	Matt Breida	NYG	RB
+217	Israel Abanikanda	NYJ	RB
+218	Deneric Prince	KC	RB
+219	Kyren Williams	LAR	RB
+220	Josh Downs	IND	WR
+221	Khalil Shakir	BUF	WR
+222	Chase Claypool	CHI	WR
+223	Michael Wilson	ARI	WR
+224	Joshua Palmer	LAC	WR
+225	Tank Dell	HOU	WR
+226	Tyler Scott	CHI	WR
+227	Puka Nacua	LAR	WR
+228	Latavius Murray	BUF	RB
+229	Michael Mayer	LV	TE
+230	Luke Musgrave	GB	TE
+231	Trey McBride	ARI	TE
+232	Noah Fant	SEA	TE
+233	Cade Otton	TB	TE
+234	Dawson Knox	BUF	TE
+235	Logan Thomas (INJ)	WAS	TE
+236	Justyn Ross	KC	WR
+237	Zonovan Knight	NYJ	RB
+238	Craig Reynolds	DET	RB
+239	Zack Moss (INJ)	IND	RB
+240	Eric Gray	NYG	RB
+241	DeWayne McBride	MIN	RB
+242	Ke'Shawn Vaughn	TB	RB
+243	Isaiah Spiller	LAC	RB
+244	Kenny McIntosh (INJ)	SEA	RB
+245	Ty Montgomery (INJ)	NE	RB
+246	Kenyan Drake	IND	RB
+247	Hunter Renfrow	LV	WR
+248	Allen Robinson II	PIT	WR
+249	Greg Dortch	ARI	WR
+250	Sean Tucker	TB	RB
