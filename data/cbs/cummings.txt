@@ -1,201 +1,201 @@
 https://www.cbssports.com/fantasy/football/rankings/
-1	C. McCaffrey RB $34 
-2	C. Lamb WR $29 
-3	B. Hall RB $25
-4	B. Robinson RB $24
-5	T. Hill WR $25
-6	A. St. Brown WR $25
-7	J. Jefferson WR $26
-8	J. Chase WR $25  
-9	A. Brown WR $24
-10	J. Taylor RB $21
-11	G. Wilson WR $20
-12	K. Williams RB $18
-13	J. Cook RB $18
-14	T. Etienne RB $18
-15	M. Harrison Jr. WR $20
-16	P. Nacua WR $20 
-17	J. Gibbs RB $18  
-18	M. Evans WR $20
-19	S. Barkley RB $17
-20	R. White RB $16
-21	I. Pacheco RB $16
-22	J. Waddle WR $18 
-23	M. Pittman WR $18
-24	C. Olave WR $17
-25	C. Kupp WR $16
-26	P. Mahomes QB $14
-27	J. Hurts QB $13
-28	T. McBride TE $14
-29	J. Jacobs RB $14
-30	M. Andrews TE $14
-31	S. LaPorta TE $14 
-32	T. Kelce TE $14
-33	L. Jackson QB $9
-34	J. Allen QB $9
-35	D. Metcalf WR $15
-36	D. London WR $15
-37	T. Higgins WR $16
-38	N. Collins WR $16
-39	G. Pickens WR $16
-40	D. Samuel WR $16
-41	B. Aiyuk WR $16
-42	A. Cooper WR $15
-43	D. Moore WR $15
-44	D. Adams WR $16 
-45	R. Rice WR $8
-46	D. Achane RB $13
-47	A. Kamara RB $13 
-48	K. Walker III RB $10
-49	D. Henry RB $10
-50	C. Kirk WR $15
-51	T. Dell WR $15
-52	D. Smith WR $13
-53	C. Ridley WR $13
-54	J. Mixon RB $14
-55	S. Diggs WR $10
-56	C. Godwin WR $10
-57	G. Kittle TE $10
-58	J. Burrow QB $4
-59	J. Williams RB $6
-60	T. Pollard RB $10
-61	Z. White RB $10
-62	R. Stevenson RB $10
-63	T. McLaurin WR $8
-64	Z. Flowers WR $8
-65	C. Watson WR $7
-66	J. Reed WR $8
-67	D. Kincaid TE $6
-68	K. Pitts TE $6
-69	D. Swift RB $6
-70	D. Montgomery RB $3
-71	J. Warren RB $9
-72	N. Harris RB $6
-73	J. Conner RB $6
-74	J. Brooks RB $5 
-75	D. Johnson WR $7
-76	E. Engram TE $5
-77	K. Murray QB $2
-78	A. Richardson QB $2
-79	M. Nabers WR $6  
-80	D. Prescott QB $3  
-81	C. Stroud QB $3
-82	A. Jones RB $3
-83	R. Mostert RB $3
-84	D. Singletary RB $3
-85	K. Allen WR $6
-86	C. Sutton WR $6
-87	M. Brown WR $8  
-88	T. Spears RB $2
-89	J. Ferguson TE $1
-90	X. Worthy WR $4
-91	B. Thomas Jr. WR $4
-92	L. McConkey WR $6 
-93	J. Addison WR $1
-94	T. Benson RB $2
-95	J. Palmer WR $2
-96	J. Smith-Njigba WR $2
-97	R. Odunze WR $2
-98	Z. Moss RB $3
-99	C. Brown RB $1
-100	Z. Charbonnet RB $2
-101	T. Lockett WR $2
-102	K. Coleman WR $2
-103	K. Shakir WR $1 
-104	D. Hopkins WR $7 
-105	J. Williams WR $1
-106	J. Daniels QB $1
-107	C. Williams QB $1
-108	J. Ford RB $1
-109	D. Goedert TE $1
-110	D. Njoku TE $1
-111	B. Robinson Jr. RB $1
-112	J. Love QB $1
-113	T. Tagovailoa QB $1
-114	T. Lawrence QB $1
-115	E. Elliott RB $1
-116	A. Ekeler RB $1
-117	N. Chubb RB $1 
-118	T. Hockenson TE $1 
-119	A. Gibson RB $1
-120	R. Dowdle RB $1
-121	G. Edwards RB $1
-122	J. Dobbins RB $1
-123	J. McLaughlin RB $1
-124	J. Wright RB $1
-125	B. Corum RB $1
-126	B. Purdy QB $1
-127	C. Hubbard RB $1
-128	T. Chandler RB $1
-129	T. Tracy Jr. RB $1  
-130	D. Mooney WR $1
-131	J. Meyers WR $1
-132	R. Shaheed WR $1  
-133	B. Irving RB $0
-134	T. Allgeier RB $0
-135	J. Downs WR $0 
-136	D. Douglas WR $0 
-137	J. Polk WR $0
-138	R. Davis RB $0 
-139	B. Allen RB $0
-140	P. Freiermuth TE $1
-141	B. Bowers TE $1
-142	J. Goff QB $1
-143	M. Lloyd RB $0  
-144	K. Mitchell RB $1 
-145	E. Mitchell RB $0 
-146	A. Iosivas WR $0
-147	R. Doubs WR $0
-148	A. Thielen WR $0
-149	C. Samuel WR $0
-150	M. Williams WR $0 
-151	X. Legette WR $0
-152	M. Wilson WR $0
-153	R. Wilson WR $0 
-154	T. Sermon RB $0 
-155	J. Hill RB $0
-156	J. Dotson WR $0
-157	M. Mims WR $0
-158	G. Davis WR $0
-159	K. Bourne WR $0 
-160	R. Bateman WR $0
-161	N. Fant TE $0 
-162	D. Schultz TE $0
-163	R. Pearsall WR $0 
-164	C. Edwards-Helaire RB $0 
-165	B. Cooks WR $0
-166	J. Mason RB $0
-167	A. Dillon RB $0
-168	A. Estime RB $0
-169	K. Vidal RB $0
-170	J. Jeudy WR $0 
-171	A. Rodgers QB $1
-172	W. Robinson WR $0
-173	J. Hyatt WR $0
-174	D. Wicks WR $0
-175	T. Franklin WR $0
-176	G. Dortch WR $0
-177	J. Herbert QB $1 
-178	M. Corley WR $0
-179	Q. Johnston WR $0
-180	J. Burton WR $0
-181	J. Baker WR $0
-182	C. Kmet TE $0
-183	L. Musgrave TE $0
-184	H. Henry TE $0 
-185	D. Pierce RB $0
-186	K. Gainwell RB $0
-187	J. Williams RB $0
-188	W. Shipley RB $0
-189	K. Herbert RB $0
-190	R. Johnson RB $0
-191	T. Conklin TE $0
-192	T. Bigsby RB $0
-193	K. Miller RB $0 
-194	D. Chark WR $0
-195	T. Boyd WR $0
-196	J. McMillan WR $0
-197	A. Pierce WR $0
-198	E. Moore WR $0
-199	A. Perry WR $0 
-200	D. Watson QB $0
+1	C. McCaffrey RB $32 	9
+2	B. Hall RB $25	12
+3	B. Robinson RB $24	12
+4	T. Hill WR $25 	6
+5	C. Lamb WR $29 	7
+6	A. St. Brown WR $25	5
+7	J. Chase WR $25  	12
+8	A. Brown WR $24	5
+9	J. Jefferson WR $24	6
+10	G. Wilson WR $20	12
+11	J. Taylor RB $21	14
+12	K. Williams RB $18	6
+13	J. Cook RB $18	12
+14	T. Etienne RB $18	12
+15	M. Harrison Jr. WR $20	11
+16	P. Nacua WR $20 	6
+17	J. Gibbs RB $18  	5
+18	M. Evans WR $20	11
+19	J. Waddle WR $18  	6
+20	S. Barkley RB $17	5
+21	R. White RB $16	11
+22	I. Pacheco RB $16	6
+23	C. Olave WR $17	12
+24	P. Mahomes QB $14	6
+25	J. Hurts QB $13	5
+26	T. McBride TE $14	11
+27	J. Jacobs RB $14	10
+28	M. Andrews TE $14 	14
+29	S. LaPorta TE $14  	5
+30	T. Kelce TE $14	6
+31	L. Jackson QB $9	14
+32	J. Allen QB $9	12
+33	D. Metcalf WR $15	10
+34	R. Rice WR $15	6
+35	D. London WR $15	12
+36	C. Kupp WR $15	6
+37	M. Pittman WR $18	14
+38	T. Higgins WR $15	12
+39	N. Collins WR $15	14
+40	D. Samuel WR $15	9
+41	B. Aiyuk WR $15	9
+42	G. Pickens WR $15	9
+43	D. Moore WR $15	7
+44	K. Walker III RB $10	10
+45	D. Achane RB $13	6
+46	A. Cooper WR $15	10
+47	D. Adams WR $15 	10
+48	A. Kamara RB $13 	12
+49	D. Henry RB $10	14
+50	T. Dell WR $15	14
+51	D. Smith WR $13	5
+52	C. Godwin WR $10	11
+53	J. Mixon RB $10	14
+54	C. Ridley WR $13 	5
+55	C. Kirk WR $13  	12
+56	S. Diggs WR $10	14
+57	G. Kittle TE $10	9
+58	J. Burrow QB $4	12
+59	J. Williams RB $9	14
+60	T. Pollard RB $9 	5
+61	T. McLaurin WR $8	14
+62	Z. White RB $9	10
+63	R. Stevenson RB $9 	14
+64	Z. Flowers WR $8	14
+65	C. Watson WR $8	10
+66	J. Reed WR $8	10
+67	D. Kincaid TE $6	12
+68	K. Pitts TE $6	12
+69	M. Nabers WR $7	11
+70	N. Harris RB $6	9
+71	D. Swift RB $6	7
+72	D. Montgomery RB $6	5
+73	J. Conner RB $6	11
+74	J. Brooks RB $5  	11
+75	K. Murray QB $2	11
+76	A. Richardson QB $2	14
+77	D. Johnson WR $7	11
+78	E. Engram TE $5	12
+79	D. Prescott QB $2	7
+80	C. Stroud QB $2	14
+81	A. Jones RB $3	6
+82	R. Mostert RB $3	6
+83	C. Sutton WR $6	14
+84	B. Thomas Jr. WR $4	12
+85	X. Worthy WR $4	6
+86	R. Odunze WR $2	7
+87	K. Allen WR $6	7
+88	D. Singletary RB $3	11
+89	M. Brown WR $4 	6
+90	J. Warren RB $3 	9
+91	T. Spears RB $2 	5
+92	J. Ferguson TE $1 	7
+93	L. McConkey WR $4	5
+94	J. Palmer WR $2	5
+95	J. Smith-Njigba WR $2	10
+96	T. Benson RB $2	11
+97	J. Addison WR $2 	6
+98	Z. Moss RB $2	12
+99	C. Brown RB $1	12
+100	K. Coleman WR $2	12
+101	K. Shakir WR $1	12
+102	D. Hopkins WR $1 	5
+103	T. Lockett WR $1 	10
+104	J. Williams WR $1	5
+105	J. Daniels QB $1	14
+106	C. Williams QB $1	7
+107	J. Ford RB $1	10
+108	B. Robinson Jr. RB $1	14
+109	D. Njoku TE $1  	10
+110	D. Goedert TE $1 	5
+111	J. Love QB $1	10
+112	E. Elliott RB $1	7
+113	A. Ekeler RB $1	14
+114	N. Chubb RB $1  	10
+115	T. Hockenson TE $1 	6
+116	R. Dowdle RB $1	7
+117	G. Edwards RB $1	5
+118	J. Dobbins RB $1	5
+119	Z. Charbonnet RB $1 	10
+120	J. McLaughlin RB $1	14
+121	C. Hubbard RB $1	11
+122	T. Chandler RB $1	6
+123	B. Corum RB $1	6
+124	J. Wright RB $1	6
+125	T. Tagovailoa QB $1	6
+126	T. Lawrence QB $1	12
+127	B. Purdy QB $1	9
+128	D. Mooney WR $1	12
+129	J. Meyers WR $1	10
+130	R. Shaheed WR $1  	12
+131	B. Irving RB $0	11
+132	T. Tracy Jr. RB $1 	11
+133	A. Gibson RB $1 	14
+134	T. Allgeier RB $0	12
+135	J. Downs WR $0  	14
+136	D. Douglas WR $0 	14
+137	J. Polk WR $0 	14
+138	R. Davis RB $0	12
+139	B. Allen RB $0	12
+140	B. Bowers TE $1 	10
+141	J. Goff QB $1	5
+142	M. Lloyd RB $0 	10
+143	K. Mitchell RB $0 	14
+144	J. Mason RB $0	9
+145	E. Mitchell RB $0	9
+146	A. Iosivas WR $0	12
+147	R. Doubs WR $0	10
+148	A. Thielen WR $0	11
+149	C. Samuel WR $0 	12
+150	L. McCaffrey WR $0	14
+151	M. Williams WR $0 	12
+152	X. Legette WR $0	11
+153	M. Wilson WR $0	11
+154	R. Wilson WR $0 	9
+155	T. Sermon RB $0  	14
+156	J. Hill RB $0	14
+157	M. Mims WR $0	14
+158	G. Davis WR $0	12
+159	D. Schultz TE $1	14
+160	P. Freiermuth TE $1	9
+161	R. Bateman WR $0	14
+162	N. Fant TE $0 	10
+163	R. Pearsall WR $0  	9
+164	C. Edwards-Helaire RB $0 	6
+165	B. Cooks WR $0 	7
+166	K. Vidal RB $0	5
+167	K. Herbert RB $0	7
+168	A. Dillon RB $0 	10
+169	A. Estime RB $0 	14
+170	G. Dortch WR $0	11
+171	J. Jeudy WR $0	10
+172	A. Rodgers QB $1	12
+173	W. Robinson WR $0	11
+174	J. Hyatt WR $0	11
+175	D. Wicks WR $0	10
+176	J. Herbert QB $1 	5
+177	M. Corley WR $0	12
+178	Q. Johnston WR $0	5
+179	J. Burton WR $0	12
+180	J. Baker WR $0 	14
+181	C. Kmet TE $0	7
+182	L. Musgrave TE $0	10
+183	H. Henry TE $0  	14
+184	D. Pierce RB $0	14
+185	K. Gainwell RB $0	5
+186	J. Williams RB $0 	12
+187	W. Shipley RB $0	5
+188	R. Johnson RB $0	7
+189	G. Dulcich TE $0	14
+190	T. Conklin TE $0	12
+191	T. Bigsby RB $0	12
+192	K. Miller RB $0  	12
+193	D. Chark WR $0 	5
+194	T. Boyd WR $0 	5
+195	J. McMillan WR $0	11
+196	J. Dotson WR $0	5
+197	V. Jefferson WR $0	9
+198	K. Bourne WR $0 	14
+199	T. Franklin WR $0	14
+200	A. Perry WR $0 	12
