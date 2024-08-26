@@ -1,88 +1,88 @@
 Rank,Name,Pos,Team,Cost
-1,Christian McCaffrey,RB,SF,-1
-2,CeeDee Lamb,WR,DAL,-1
-3,Tyreek Hill,WR,MIA,-1
-4,Ja'Marr Chase,WR,CIN,-1
-5,Bijan Robinson,RB,ATL,-1
-6,Breece Hall,RB,NYJ,-1
-7,A.J. Brown,WR,PHI,-1
-8,Amon-Ra St. Brown,WR,DET,-1
-9,Garrett Wilson,WR,NYJ,-1
+1,Tyreek Hill,WR,MIA,-1
+2,Christian McCaffrey,RB,SF,-1
+3,CeeDee Lamb,WR,DAL,-1
+4,Bijan Robinson,RB,ATL,-1
+5,Breece Hall,RB,NYJ,-1
+6,Amon-Ra St. Brown,WR,DET,-1
+7,Ja'Marr Chase,WR,CIN,-1
+8,Garrett Wilson,WR,NYJ,-1
+9,A.J. Brown,WR,PHI,-1
 10,Justin Jefferson,WR,MIN,-1
-11,Davante Adams,WR,LV,-1
-12,Saquon Barkley,RB,PHI,-1
-13,Isiah Pacheco,RB,KC,-1
+11,Saquon Barkley,RB,PHI,-1
+12,Jahmyr Gibbs,RB,DET,-1
+13,Kyren Williams,RB,LAR,-1
 14,De'Von Achane,RB,MIA,-1
-15,Jahmyr Gibbs,RB,DET,-1
-16,Kyren Williams,RB,LAR,-1
-17,Cooper Kupp,WR,LAR,-1
-18,Amari Cooper,WR,CLE,-1
-19,Drake London,WR,ATL,-1
-20,DeVonta Smith,WR,PHI,-1
+15,Davante Adams,WR,LV,-1
+16,Isiah Pacheco,RB,KC,-1
+17,Jonathan Taylor,RB,IND,-1
+18,Derrick Henry,RB,BAL,-1
+19,Puka Nacua,WR,LAR,-1
+20,Cooper Kupp,WR,LAR,-1
 21,Marvin Harrison Jr.,WR,ARI,-1
-22,Keenan Allen,WR,CHI,-1
-23,Mike Evans,WR,TB,-1
-24,Josh Allen,QB,BUF,-1
-25,Jalen Hurts,QB,PHI,-1
-26,Sam LaPorta,TE,DET,-1
-27,Travis Kelce,TE,KC,-1
-28,Derrick Henry,RB,BAL,-1
-29,Jonathan Taylor,RB,IND,-1
-30,Chris Olave,WR,NO,-1
-31,Jayden Reed,WR,GB,-1
-32,Michael Pittman Jr.,WR,IND,-1
-33,Deebo Samuel Sr.,WR,SF,-1
-34,Malik Nabers,WR,NYG,-1
-35,Puka Nacua,WR,LAR,-1
-36,Patrick Mahomes II,QB,KC,-1
-37,Lamar Jackson,QB,BAL,-1
-38,Stefon Diggs,WR,HOU,-1
-39,Terry McLaurin,WR,WAS,-1
-40,Nico Collins,WR,HOU,-1
-41,Kenneth Walker III,RB,SEA,-1
-42,James Cook,RB,BUF,-1
-43,Josh Jacobs,RB,GB,-1
-44,Alvin Kamara,RB,NO,-1
-45,Christian Kirk,WR,JAX,-1
-46,Rhamondre Stevenson,RB,NE,-1
-47,Jaylen Waddle,WR,MIA,-1
-48,Rashee Rice,WR,KC,-1
-49,Javonte Williams,RB,DEN,-1
-50,Joe Mixon,RB,HOU,-1
-51,DJ Moore,WR,CHI,-1
-52,DK Metcalf,WR,SEA,-1
-53,Tee Higgins,WR,CIN,-1
-54,Brandon Aiyuk,WR,SF,-1
-55,George Pickens,WR,PIT,-1
-56,Trey McBride,TE,ARI,-1
-57,Travis Etienne Jr.,RB,JAX,-1
-58,C.J. Stroud,QB,HOU,-1
-59,Dak Prescott,QB,DAL,-1
-60,Jordan Love,QB,GB,-1
-61,Joe Burrow,QB,CIN,-1
-62,Caleb Williams,QB,CHI,-1
-63,Mark Andrews,TE,BAL,-1
-64,Jake Ferguson,TE,DAL,-1
-65,Jameson Williams,WR,DET,-1
-66,Rachaad White,RB,TB,-1
-67,Tank Dell,WR,HOU,-1
-68,DeAndre Hopkins,WR,TEN,-1
-69,Keon Coleman,WR,BUF,-1
-70,Aaron Jones,RB,MIN,-1
-71,Evan Engram,TE,JAX,-1
-72,Brian Robinson Jr.,RB,WAS,-1
-73,James Conner,RB,ARI,-1
-74,Najee Harris,RB,PIT,-1
-75,Nick Chubb,RB,CLE,-1
-76,Zay Flowers,WR,BAL,-1
-77,Gabe Davis,WR,JAX,-1
-78,Zamir White,RB,LV,-1
-79,D'Andre Swift,RB,CHI,-1
-80,Anthony Richardson,QB,IND,-1
-81,Tua Tagovailoa,QB,MIA,-1
-82,Jordan Addison,WR,MIN,-1
-83,Zack Moss,RB,CIN,-1
-84,Chris Godwin,WR,TB,-1
+22,Nico Collins,WR,HOU,-1
+23,Amari Cooper,WR,CLE,-1
+24,Drake London,WR,ATL,-1
+25,DeVonta Smith,WR,PHI,-1
+26,Keenan Allen,WR,CHI,-1
+27,Mike Evans,WR,TB,-1
+28,Josh Allen,QB,BUF,-1
+29,Jalen Hurts,QB,PHI,-1
+30,Sam LaPorta,TE,DET,-1
+31,Travis Kelce,TE,KC,-1
+32,Jaylen Waddle,WR,MIA,-1
+33,Chris Olave,WR,NO,-1
+34,Michael Pittman Jr.,WR,IND,-1
+35,Deebo Samuel Sr.,WR,SF,-1
+36,Jayden Reed,WR,GB,-1
+37,Malik Nabers,WR,NYG,-1
+38,Patrick Mahomes II,QB,KC,-1
+39,Lamar Jackson,QB,BAL,-1
+40,Brandon Aiyuk,WR,SF,-1
+41,Stefon Diggs,WR,HOU,-1
+42,Terry McLaurin,WR,WAS,-1
+43,Tank Dell,WR,HOU,-1
+44,Kenneth Walker III,RB,SEA,-1
+45,James Cook,RB,BUF,-1
+46,Josh Jacobs,RB,GB,-1
+47,Alvin Kamara,RB,NO,-1
+48,Christian Kirk,WR,JAX,-1
+49,Rhamondre Stevenson,RB,NE,-1
+50,Rashee Rice,WR,KC,-1
+51,Javonte Williams,RB,DEN,-1
+52,Joe Mixon,RB,HOU,-1
+53,DJ Moore,WR,CHI,-1
+54,DK Metcalf,WR,SEA,-1
+55,Tee Higgins,WR,CIN,-1
+56,George Pickens,WR,PIT,-1
+57,Jameson Williams,WR,DET,-1
+58,Trey McBride,TE,ARI,-1
+59,Travis Etienne Jr.,RB,JAX,-1
+60,C.J. Stroud,QB,HOU,-1
+61,Dak Prescott,QB,DAL,-1
+62,Jordan Love,QB,GB,-1
+63,Joe Burrow,QB,CIN,-1
+64,Caleb Williams,QB,CHI,-1
+65,Mark Andrews,TE,BAL,-1
+66,Jake Ferguson,TE,DAL,-1
+67,Rachaad White,RB,TB,-1
+68,Chris Godwin,WR,TB,-1
+69,Zay Flowers,WR,BAL,-1
+70,DeAndre Hopkins,WR,TEN,-1
+71,Keon Coleman,WR,BUF,-1
+72,Aaron Jones,RB,MIN,-1
+73,Evan Engram,TE,JAX,-1
+74,Brian Robinson Jr.,RB,WAS,-1
+75,James Conner,RB,ARI,-1
+76,Najee Harris,RB,PIT,-1
+77,Nick Chubb,RB,CLE,-1
+78,Jordan Addison,WR,MIN,-1
+79,Gabe Davis,WR,JAX,-1
+80,Zamir White,RB,LV,-1
+81,D'Andre Swift,RB,CHI,-1
+82,Anthony Richardson,QB,IND,-1
+83,Tua Tagovailoa,QB,MIA,-1
+84,Zack Moss,RB,CIN,-1
 85,Jayden Daniels,QB,WAS,-1
 86,George Kittle,TE,SF,-1
 87,Kyle Pitts,TE,ATL,-1
@@ -173,7 +173,7 @@ Rank,Name,Pos,Team,Cost
 172,Chiefs Defense,DST,KC,-1
 173,DeMario Douglas,WR,NE,-1
 174,Xavier Legette,WR,CAR,-1
-175,Jahan Dotson,WR,WAS,-1
+175,Jahan Dotson,WR,PHI,-1
 176,Tyler Conklin,TE,NYJ,-1
 177,Will Levis,QB,TEN,-1
 178,Marvin Mims Jr.,WR,DEN,-1
