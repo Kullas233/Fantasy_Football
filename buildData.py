@@ -105,7 +105,7 @@ def PlayerMatch(player1, player2):
     
     if((len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3) and player1['Name'].split(" ")[1]+ " " + player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+ " " + player2['Name'].split(" ")[2]):
         return Ask(player1, player2)
-      
+        
     return False
 
 def AddRank(combinedData, newPlayer):

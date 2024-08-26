@@ -36,6 +36,10 @@ for line in file:
 newFile = "Rank,Name,Pos,Team,Cost\n"
 for player in players:
 
+    #Hollywood Handling
+    if(player[1] == "Hollywood Brown"):
+        player[1] = "Marquise Brown"
+
     #Team Name Handling
     if(player[2] == 'JAC'):
         player[2] = 'JAX'
