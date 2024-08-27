@@ -104,8 +104,17 @@ for csv_name in all_csv_files:
         # print(row['Rank'], row['Name'])
         AddRank(combinedData, row)
 
-# print(combinedData) # HAS ALL PLAYERS WITH ALL RANKS AND COSTS HERE
+for player in combinedData:
+    player['ADP'] = -1
+adpfile = pd.read_csv("adp\data.csv")
+for index, row in adpfile.iterrows():
+    for player in combinedData:
+        if(PlayerMatch(row, player)):
+            player['ADP'] = row['ADP']
+    
 
+# print(combinedData) # HAS ALL PLAYERS WITH ALL RANKS AND COSTS HERE
+# exit()
 
 def buildTeams(teams):
     csv = pd.read_csv('teams\data.csv')
@@ -152,7 +161,7 @@ count = 1
 for player in combinedData:
     # if(player['Team'] == "-1"):
     # print(player)
-    text.append('<tr class="clickable-row tablerow"id="player'+ str(count) +'"data-href="http://tutorialsplane.com"><td class="has-details">' +str(CalculateRank(player['Ranks']))[:5]+ '<span class="details">'+str(player['Ranks'])+'</span></td><td>' +player['Name']+ '</td><td>' +player['Pos']+ '</td><td class="has-details">' +player['Team']+ '<span class="details">SOS: '+str(teamsSOS[player['Team']]['SOS'])+' Line: '+str(teamsSOS[player['Team']]['Line'])+'</span></td><td>'+str(byeWeeks[player['Team']])+'</td><td class="has-details">'+str(CalculateCost(player['Costs']))[:5]+'<span class="details">'+str(player['Costs'])+'</span></td></tr>\n')
+    text.append('<tr class="clickable-row tablerow"id="player'+ str(count) +'"data-href="http://tutorialsplane.com"><td class="has-details">' +str(CalculateRank(player['Ranks']))[:5]+ '<span class="details">'+str(player['Ranks'])+'</span></td><td class="has-details">' +player['Name']+ '<span class="details">ADP: '+str(player['ADP'])+'</span></td><td>' +player['Pos']+ '</td><td class="has-details">' +player['Team']+ '<span class="details">SOS: '+str(teamsSOS[player['Team']]['SOS'])+' Line: '+str(teamsSOS[player['Team']]['Line'])+'</span></td><td>'+str(byeWeeks[player['Team']])+'</td><td class="has-details">'+str(CalculateCost(player['Costs']))[:5]+'<span class="details">'+str(player['Costs'])+'</span></td></tr>\n')
     count += 1
 
 bubbleSort(text)
