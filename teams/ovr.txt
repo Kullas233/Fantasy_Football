@@ -1,0 +1,33 @@
+https://www.sharpfootballanalysis.com/analysis/nfl-strength-of-schedule/
+1	Atlanta Falcons	9.5	-140	9.8
+2	Los Angeles Chargers	8.5	-160	8.9
+3	Chicago Bears	8.5	-130	8.7
+4	New York Jets	9.5	-115	9.55
+5	New Orleans Saints	7.5	-120	7.6
+6	Cincinnati Bengals	10.5	-120	10.6
+7	Indianapolis Colts	8.5	+110	8.3
+8	Miami Dolphins	9.5	-145	9.85
+9	Philadelphia Eagles	10.5	+105	10.35
+10	Carolina Panthers	4.5	-135	4.75
+11	Tampa Bay Buccaneers	8.5	+125	8.15
+12	Kansas City Chiefs	11.5	-110	11.5
+13	Washington Commanders	6.5	-120	6.6
+14	Jacksonville Jaguars	8.5	-125	8.65
+15	Seattle Seahawks	7.5	-110	7.5
+16	Arizona Cardinals	6.5	-120	6.6
+17	Los Angeles Rams	8.5	-110	8.5
+18	San Francisco 49ers	11.5	+125	11.15
+19	Green Bay Packers	10.5	+130	10.1
+20	New York Giants	6.5	+115	6.25
+21	Detroit Lions	10.5	-110	10.5
+22	Dallas Cowboys	10.5	+100	10.4
+23	Buffalo Bills	10.5	-120	10.6
+24	Las Vegas Raiders	6.5	-135	6.75
+25	Denver Broncos	5.5	-135	5.75
+26	Houston Texans	9.5	-140	9.8
+27	Tennessee Titans	6.5	+125	6.15
+28	Minnesota Vikings	6.5	-135	6.75
+29	Baltimore Ravens	11.5	+110	11.3
+30	Cleveland Browns	8.5	-130	8.7
+31	New England Patriots	4.5	-150	4.87
+32	Pittsburgh Steelers	8.5	-120	8.6
