@@ -2,9 +2,9 @@
 
 # FIX JR TO JR. AND ST TO ST.
 
-file = open('data/cbs/cummings.txt', "r")
-# file = open('data/cbs/eisenberg.txt', "r")
-# file = open('data/cbs/richard.txt', "r")
+# file = open('cummings.txt', "r")
+# file = open('eisenberg.txt', "r")
+file = open('richard.txt', "r")
 
 lineNum=0
 players = []
@@ -38,7 +38,7 @@ for player in players:
     newFile += "\n"
 
 file.close()
-file = open('data/cbs/c_data.csv', "w")
-# file = open('data/cbs/e_data.csv', "w")
-# file = open('data/cbs/r_data.csv', "w")
+# file = open('c_data.csv', "w")
+# file = open('e_data.csv', "w")
+file = open('r_data.csv', "w")
 file.write(newFile)

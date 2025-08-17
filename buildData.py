@@ -21,71 +21,97 @@ print(all_csv_files)
 # data = Merge_CSV(all_csv_files, 'data.csv')Start the response with Yes or No
 
 def Ask(player1, player2):
-    print(player1['Name']+' '+player1['Team']+' '+player1['Pos'])
-    print(player2['Name']+' '+player2['Team']+' '+player2['Pos'])
+    print(player1)
+    print(" ")
+    print(player2)
+
     match = input("DO THEY MATCH? (y or n): ")
     if(match == 'n' or match == 'N'):
         return False
     return True
 
 def PlayerMatch(player1, player2):
+    res = PlayerMatchRun(player1, player2)
+    if res == 0:
+        if player1['Name'].__contains__("Jr") or player1['Name'].__contains__("JR") or player2['Name'].__contains__("Jr") or player2['Name'].__contains__("JR"):
+            return Ask(player1, player2)
+        else:
+            return True
+    elif res == 1:
+        if player1['Name'].__contains__("Jr") or player1['Name'].__contains__("JR") or player2['Name'].__contains__("Jr") or player2['Name'].__contains__("JR"):
+            if Ask(player1, player2):
+                player1['Name'] = player2['Name']
+                return True
+        else:
+            player1['Name'] = player2['Name']
+            return True
+
+    return False
 
 
+def PlayerMatchRun(player1, player2):
 
     if(player1['Name'] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-        return True
+        return 0
     elif(player1['Name'] == player2['Name'] and player1['Pos'] == player2['Pos'] and (player1['Team'] == "Dumb" or player2['Team'] == "Dumb")):
-        return True
+        return 0
     elif(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-        return True
+        return 0
     elif(player1['Name'] == player2['Name'].split(" ")[0][0] + " " + player2['Name'].split(" ")[1] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-        player1['Name'] = player2['Name']
-        return True
+        return 1
     elif(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1] == player2['Name'] and (player1['Team'] == "Dumb" or player2['Team'] == "Dumb") and player1['Pos'] == player2['Pos']):
         # Ask(player1, player2)
-        return True
+        return 0
     elif(player1['Name'] == player2['Name'].split(" ")[0][0] + " " + player2['Name'].split(" ")[1] and (player1['Team'] == "Dumb" or player2['Team'] == "Dumb") and player1['Pos'] == player2['Pos']):
         # Ask(player1, player2)
-        return True
+        return 0
     
     if(len(player1['Name'].split(" ")) == 2 and len(player2['Name'].split(" ")) == 2):
         if(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
             # Ask(player1, player2)
-            return True
+            return 0
         elif(player1['Name'] == player2['Name'].split(" ")[0][0] + " " + player2['Name'].split(" ")[1] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-            player1['Name'] = player2['Name']
+            # player1['Name'] = player2['Name']
             # Ask(player1, player2)
-            return True
+            return 1
         
     if(len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3):
         if(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1]+ " " + player1['Name'].split(" ")[2] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
             # Ask(player1, player2)
-            return True
+            return 0
         elif(player1['Name'] == player2['Name'].split(" ")[0][0] + " " + player2['Name'].split(" ")[1]+ " " + player2['Name'].split(" ")[2] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-            player1['Name'] = player2['Name']
+            # player1['Name'] = player2['Name']
             # Ask(player1, player2)
-            return True
+            return 1
     
     if(len(player1['Name'].split(" ")) == 3 and player1['Name'].split(" ")[0]+ " " + player1['Name'].split(" ")[1] == player2['Name']):
-        return True
+        return 0
     elif(len(player2['Name'].split(" ")) == 3 and player1['Name'] == player2['Name'].split(" ")[0]+ " " + player2['Name'].split(" ")[1]):
-        return True #Ask(player1, player2)
+        return 0 #Ask(player1, player2)
     
     if((len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3) and ((player1['Name'].split(" ")[1]+'. '+player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+' '+player2['Name'].split(" ")[2]) or (player1['Name'].split(" ")[1]+' '+player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+'. '+player2['Name'].split(" ")[2]))):
-        return True #Ask(player1, player2)
+        return 0 #Ask(player1, player2)
     
     if(len(player1['Name'].split(" ")) == 3 and player1['Name'].split(" ")[0]+ " " + player1['Name'].split(" ")[1] == player2['Name'].split(" ")[0]+ " " + player2['Name'].split(" ")[1]+ "."):
-        return True
+        return 0
     elif(len(player2['Name'].split(" ")) == 3 and player1['Name'].split(" ")[0]+ " " + player1['Name'].split(" ")[1]+ "." == player2['Name'].split(" ")[0]+ " " + player2['Name'].split(" ")[1]):
-        return True #Ask(player1, player2) 
+        return 0 #Ask(player1, player2) 
     
     if((len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3) and player1['Name'].split(" ")[1]+ " " + player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+ " " + player2['Name'].split(" ")[2]+ "."):
-        return True #Ask(player1, player2)
+        return 0 #Ask(player1, player2)
     
     if((len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3) and player1['Name'].split(" ")[1]+ " " + player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+ " " + player2['Name'].split(" ")[2]):
         return Ask(player1, player2)
         
-    return False
+    return 2
+
+def print2():
+    count = 0
+    for player in combinedData:
+        if count == 1:
+            print(player)
+            return
+        count+=1
 
 def AddRank(combinedData, newPlayer):
     for player in combinedData:
@@ -101,12 +127,11 @@ combinedData = []
 for csv_name in all_csv_files:
     csv = pd.read_csv(csv_name)
     for index, row in csv.iterrows():
-        # print(row['Rank'], row['Name'])
         AddRank(combinedData, row)
 
 for player in combinedData:
     player['ADP'] = -1
-adpfile = pd.read_csv("adp\data.csv")
+adpfile = pd.read_csv("adp//data.csv")
 for index, row in adpfile.iterrows():
     for player in combinedData:
         if(PlayerMatch(row, player)):
@@ -117,7 +142,7 @@ for index, row in adpfile.iterrows():
 # exit()
 
 def buildTeams(teams):
-    csv = pd.read_csv('teams\data.csv')
+    csv = pd.read_csv('teams//data.csv')
     for index, row in csv.iterrows():
         teams[row["Team"]] = {'SOS':row["SOS"], 'Line':row["Line"]}
 
@@ -142,6 +167,16 @@ def CalculateCost(costs):
         return 'N/A'    
     return sum/count
 
+
+
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# NEED TO BE UPDATED  SHOULD UPDATE DATA BEFORE DRAFT TOO
 byeWeeks = { "ARI":11, "ATL":12, "BAL":14, "BUF":12, "CAR":11, "CHI":7, "CIN":12, "CLE":10, "DAL":7, "DEN":14, "DET":5, "Dumb":0, "FA":0, "GB":10, "HOU":14, "IND":14, "JAX":12, "KC":6, "LAC":5, "LAR":6, "LV":10, "MIA":6, "MIN":6, "NE":14, "NO":12, "NYG":11, "NYJ":12, "PHI":5, "PIT":9, "SEA":10, "SF":9, "TB":11, "TEN":5, "WAS":14 }
 # byeWeeks23 = { "ARI":14, "ATL":11, "BAL":13, "BUF":13, "CAR":7, "CHI":13, "CIN":7, "CLE":5, "DAL":7, "DEN":9, "DET":9, "Dumb":0, "FA":0, "GB":6, "HOU":7, "IND":11, "JAC":9, "KC":10, "LAC":5, "LAR":10, "LV":13, "MIA":10, "MIN":13, "NE":11, "NO":11, "NYG":13, "NYJ":7, "PHI":10, "PIT":6, "SEA":5, "SF":9, "TB":5, "TEN":7, "WAS":14 }
 

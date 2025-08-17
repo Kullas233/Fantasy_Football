@@ -1,81 +1,81 @@
-https://g.espncdn.com/s/ffldraftkit/24/NFL24_CS_PPR300.pdf?adddata=2024CS_PPR300
-1. (RB1) Christian McCaffrey, SF $57 9 81. (WR38) Courtland Sutton, DEN $4 14 161. (WR70) Tre Tucker, LV $0 10 241. (RB70) Chase Edmonds, TB $0 11
-2. (RB2) Bijan Robinson, ATL $56 12 82. (WR39) Christian Watson, GB $4 10 162. (WR71) Demarcus Robinson, LAR $0 6 242. (RB71) Samaje Perine, DEN $0 14
-3. (RB3) Breece Hall, NYJ $55 12 83. (WR40) Jayden Reed, GB $4 10 163. (QB19) Tua Tagovailoa, MIA $0 6 243. (RB72) Roschon Johnson, CHI $0 7
-4. (WR1) CeeDee Lamb, DAL $55 7 84. (WR41) Jordan Addison, MIN $4 6 164. (QB20) Jared Goff, DET $0 5 244. (RB73) Eric Gray, NYG $0 11
-5. (WR2) Tyreek Hill, MIA $54 6 85. (WR42) Xavier Worthy, KC $4 6 165. (TE17) Taysom Hill, NO $0 12 245. (RB74) Isaiah Davis, NYJ $0 12
-6. (WR3) Amon-Ra St. Brown, DET $53 5 86. (WR43) Rome Odunze, CHI $4 7 166. (TE18) Chigoziem Okonkwo, TEN $0 5 246. (RB75) Nyheim Hines, CLE $0 10
-7. (WR4) Ja'Marr Chase, CIN $53 12 87. (RB28) Tyjae Spears, TEN $3 5 167. (TE19) Hunter Henry, NE $0 14 247. (RB76) Michael Carter, ARI $0 11
-8. (WR5) Justin Jefferson, MIN $52 6 88. (RB29) Tony Pollard, TEN $3 5 168. (TE20) Cole Kmet, CHI $0 7 248. (RB77) Trey Sermon, IND $0 14
-9. (RB4) Jonathan Taylor, IND $51 14 89. (RB30) Austin Ekeler, WAS $3 14 169. (DST1) Browns D/ST, CLE $0 10 249. (RB78) Royce Freeman, DAL $0 7
-10. (RB5) Saquon Barkley, PHI $50 5 90. (RB31) Devin Singletary, NYG $3 11 170. (DST2) Cowboys D/ST, DAL $0 7 250. (RB79) D'Ernest Johnson, JAC $0 12
-11. (WR6) A.J. Brown, PHI $48 5 91. (QB9) Kyler Murray, ARI $3 11 171. (DST3) Jets D/ST, NYJ $0 12 251. (RB80) Trayveon Williams, CIN $0 12
-12. (WR7) Puka Nacua, LAR $46 6 92. (QB10) Jordan Love, GB $3 10 172. (DST4) Ravens D/ST, BAL $0 14 252. (WR91) Kalif Raymond, DET $0 5
-13. (WR8) Garrett Wilson, NYJ $45 12 93. (QB11) Brock Purdy, SF $3 9 173. (DST5) 49ers D/ST, SF $0 9 253. (WR92) Andrei Iosivas, CIN $0 12
-14. (RB6) Jahmyr Gibbs, DET $43 5 94. (WR44) Ladd McConkey, LAC $3 5 174. (DST6) Steelers D/ST, PIT $0 9 254. (DST15) Seahawks D/ST, SEA $0 10
-15. (RB7) Kyren Williams, LAR $42 6 95. (WR45) Keon Coleman, BUF $3 12 175. (DST7) Dolphins D/ST, MIA $0 6 255. (DST16) Colts D/ST, IND $0 14
-16. (RB8) Isiah Pacheco, KC $40 6 96. (WR46) Brian Thomas Jr., JAC $2 12 176. (DST8) Saints D/ST, NO $0 12 256. (K15) Eddy Pineiro, CAR $0 11
-17. (RB9) Travis Etienne Jr., JAC $38 12 97. (WR47) Jakobi Meyers, LV $2 10 177. (DST9) Jaguars D/ST, JAC $0 12 257. (K16) Chase McLaughlin, TB $0 11
-18. (WR9) Chris Olave, NO $37 12 98. (WR48) Mike Williams, NYJ $2 12 178. (DST10) Bengals D/ST, CIN $0 12 258. (TE27) Isaiah Likely, BAL $0 14
-19. (WR10) Davante Adams, LV $36 10 99. (QB12) Jayden Daniels, WAS $2 14 179. (DST11) Chiefs D/ST, KC $0 6 259. (TE28) Jonnu Smith, MIA $0 6
-20. (WR11) Michael Pittman Jr., IND $35 14 100. (TE9) David Njoku, CLE $2 10 180. (DST12) Lions D/ST, DET $0 5 260. (TE29) Dawson Knox, BUF $0 12
-21. (WR12) Mike Evans, TB $34 11 101. (TE10) Jake Ferguson, DAL $2 7 181. (K1) Harrison Butker, KC $0 6 261. (WR93) Ray-Ray McCloud III, ATL $0 12
-22. (WR13) Marvin Harrison Jr., ARI $33 11 102. (RB32) Raheem Mostert, MIA $2 6 182. (K2) Brandon Aubrey, DAL $0 7 262. (WR94) Ricky Pearsall, SF $0 9
-23. (WR14) Drake London, ATL $32 12 103. (RB33) Ezekiel Elliott, DAL $2 7 183. (K3) Justin Tucker, BAL $0 14 263. (WR95) Dyami Brown, WAS $0 14
-24. (RB10) Derrick Henry, BAL $32 14 104. (RB34) Chase Brown, CIN $2 12 184. (K4) Jake Elliott, PHI $0 5 264. (WR96) Van Jefferson, PIT $0 9
-25. (RB11) Rachaad White, TB $31 11 105. (RB35) Zack Moss, CIN $2 12 185. (K5) Greg Zuerlein, NYJ $0 12 265. (RB81) Evan Hull, IND $0 14
-26. (WR15) Nico Collins, HOU $30 14 106. (RB36) Jonathon Brooks, CAR $2 11 186. (K6) Ka'imi Fairbairn, HOU $0 14 266. (RB82) AJ Dillon, GB $0 10
-27. (WR16) Malik Nabers, NYG $30 11 107. (WR49) Marquise Brown, KC $2 6 187. (K7) Evan McPherson, CIN $0 12 267. (QB28) Bo Nix, DEN $0 14
-28. (RB12) Alvin Kamara, NO $29 12 108. (WR50) Tyler Lockett, SEA $2 10 188. (K8) Jake Moody, SF $0 9 268. (QB29) Derek Carr, NO $0 12
-29. (RB13) James Cook, BUF $28 12 109. (WR51) DeAndre Hopkins, TEN $2 5 189. (K9) Cameron Dicker, LAC $0 5 269. (QB30) Drake Maye, NE $0 14
-30. (RB14) Joe Mixon, HOU $27 14 110. (TE11) Dallas Goedert, PHI $2 5 190. (K10) Cairo Santos, CHI $0 7 270. (QB31) Sam Darnold, MIN $0 6
-31. (WR17) DK Metcalf, SEA $26 10 111. (TE12) Brock Bowers, LV $2 10 191. (K11) Younghoe Koo, ATL $0 12 271. (WR97) Cedric Tillman, CLE $0 10
-32. (WR18) Deebo Samuel Sr., SF $25 9 112. (TE13) T.J. Hockenson, MIN $2 6 192. (K12) Jake Bates, DET $0 5 272. (WR98) Jonathan Mingo, CAR $0 11
-33. (WR19) DJ Moore, CHI $24 7 113. (RB37) J.K. Dobbins, LAC $2 5 193. (TE21) Juwan Johnson, NO $0 12 273. (WR99) Nelson Agholor, BAL $0 14
-34. (WR20) Brandon Aiyuk, SF $23 9 114. (RB38) Gus Edwards, LAC $2 5 194. (WR72) Kendrick Bourne, NE $0 14 274. (WR100) Elijah Moore, CLE $0 10
-35. (QB1) Josh Allen, BUF $22 12 115. (RB39) Chuba Hubbard, CAR $2 11 195. (RB58) Braelon Allen, NYJ $0 12 275. (WR101) Xavier Gipson, NYJ $0 12
-36. (TE1) Sam LaPorta, DET $22 5 116. (RB40) Nick Chubb, CLE $2 10 196. (RB59) Rico Dowdle, DAL $0 7 276. (RB83) Chris Rodriguez Jr., WAS $0 14
-37. (TE2) Travis Kelce, KC $22 6 117. (RB41) Jerome Ford, CLE $2 10 197. (QB21) Matthew Stafford, LAR $0 6 277. (RB84) Ameer Abdullah, LV $0 10
-38. (QB2) Jalen Hurts, PHI $21 5 118. (QB13) Aaron Rodgers, NYJ $2 12 198. (QB22) Bryce Young, CAR $0 11 278. (RB85) Kimani Vidal, LAC $0 5
-39. (RB15) Josh Jacobs, GB $21 10 119. (QB14) Justin Herbert, LAC $2 5 199. (QB23) Daniel Jones, NYG $0 11 279. (RB86) Audric Estime, DEN $0 14
-40. (RB16) Kenneth Walker III, SEA $20 10 120. (QB15) Kirk Cousins, ATL $2 12 200. (QB24) Baker Mayfield, TB $0 11 280. (RB87) Cordarrelle Patterson, PIT $0 9
-41. (RB17) De'Von Achane, MIA $19 6 121. (RB42) Zach Charbonnet, SEA $1 10 201. (WR73) Wan'Dale Robinson, NYG $0 11 281. (RB88) Dare Ogunbowale, HOU $0 14
-42. (WR21) DeVonta Smith, PHI $19 5 122. (RB43) Tyler Allgeier, ATL $1 12 202. (WR74) DJ Chark Jr., LAC $0 5 282. (RB89) Julius Chestnut, TEN $0 5
-43. (WR22) Stefon Diggs, HOU $18 14 123. (RB44) Ty Chandler, MIN $1 6 203. (WR75) Tyler Boyd, TEN $0 5 283. (RB90) Kenny McIntosh, SEA $0 10
-44. (WR23) Jaylen Waddle, MIA $17 6 124. (RB45) Trey Benson, ARI $1 11 204. (WR76) Jalin Hyatt, NYG $0 11 284. (WR102) Olamide Zaccheaus, WAS $0 14
-45. (WR24) Cooper Kupp, LAR $17 6 125. (WR52) Darnell Mooney, ATL $1 12 205. (WR77) Rashod Bateman, BAL $0 14 285. (DST17) Bills D/ST, BUF $0 12
-46. (WR25) Calvin Ridley, TEN $15 5 126. (WR53) Jerry Jeudy, CLE $1 10 206. (TE22) Tucker Kraft, GB $0 10 286. (DST18) Texans D/ST, HOU $0 14
-47. (WR26) Zay Flowers, BAL $15 14 127. (WR54) Gabe Davis, JAC $1 12 207. (TE23) Luke Musgrave, GB $0 10 287. (K17) Jason Sanders, MIA $0 6
-48. (WR27) Tee Higgins, CIN $14 12 128. (WR55) Adam Thielen, CAR $1 11 208. (WR78) Jalen Tolbert, DAL $0 7 288. (K18) Nick Folk, TEN $0 5
-49. (QB3) Lamar Jackson, BAL $13 14 129. (WR56) Curtis Samuel, BUF $1 12 209. (WR79) Darius Slayton, NYG $0 11 289. (TE30) Theo Johnson, NYG $0 11
-50. (QB4) Patrick Mahomes, KC $13 6 130. (WR57) Jameson Williams, DET $1 5 210. (WR80) Tim Patrick, DEN $0 14 290. (TE31) Ben Sinnott, WAS $0 14
-51. (TE3) Mark Andrews, BAL $12 14 131. (WR58) Rashid Shaheed, NO $1 12 211. (WR81) Jalen McMillan, TB $0 11 291. (TE32) Gerald Everett, CHI $0 7
-52. (WR28) George Pickens, PIT $11 9 132. (QB16) Caleb Williams, CHI $1 7 212. (RB60) Keaton Mitchell, BAL $0 14 292. (TE33) Colby Parkinson, LAR $0 6
-53. (WR29) Chris Godwin, TB $11 11 133. (QB17) Deshaun Watson, CLE $1 10 213. (RB61) Jamaal Williams, NO $0 12 293. (TE34) Greg Dulcich, DEN $0 14
-54. (WR30) Tank Dell, HOU $10 14 134. (QB18) Trevor Lawrence, JAC $1 12 214. (RB62) Tank Bigsby, JAC $0 12 294. (WR103) Greg Dortch, ARI $0 11
-55. (WR31) Amari Cooper, CLE $10 10 135. (TE14) Pat Freiermuth, PIT $1 9 215. (TE24) Noah Fant, SEA $0 10 295. (WR104) Jahan Dotson, PHI $0 5
-56. (TE4) Trey McBride, ARI $10 11 136. (TE15) Dalton Schultz, HOU $1 14 216. (TE25) Cade Otton, TB $0 11 296. (QB32) Gardner Minshew II, LV $0 10
-57. (TE5) Evan Engram, JAC $10 12 137. (TE16) Tyler Conklin, NYJ $1 12 217. (TE26) Hayden Hurst, LAC $0 5 297. (DST19) Packers D/ST, GB $0 10
-58. (QB5) Anthony Richardson, IND $9 14 138. (WR59) DeMario Douglas, NE $1 14 218. (QB25) Geno Smith, SEA $0 10 298. (DST20) Vikings D/ST, MIN $0 6
-59. (QB6) C.J. Stroud, HOU $9 14 139. (WR60) Khalil Shakir, BUF $1 12 219. (QB26) Will Levis, TEN $0 5 299. (DST21) Eagles D/ST, PHI $0 5
-60. (QB7) Joe Burrow, CIN $9 12 140. (WR61) Ja'Lynn Polk, NE $1 14 220. (QB27) Russell Wilson, PIT $0 9 300. (DST22) Panthers D/ST, CAR $0 11
-61. (QB8) Dak Prescott, DAL $8 7 141. (WR62) Adonai Mitchell, IND $1 14 221. (RB63) Kenneth Gainwell, PHI $0 5
-62. (RB18) Rhamondre Stevenson, NE $8 14 142. (RB46) Antonio Gibson, NE $1 14 222. (RB64) Tyrone Tracy Jr., NYG $0 11
-63. (RB19) D'Andre Swift, CHI $8 7 143. (RB47) Blake Corum, LAR $1 6 223. (RB65) Bucky Irving, TB $0 11
-64. (RB20) James Conner, ARI $7 11 144. (RB48) Kendre Miller, NO $1 12 224. (WR82) Odell Beckham Jr., MIA $0 6
-65. (RB21) Aaron Jones, MIN $7 6 145. (RB49) MarShawn Lloyd, GB $1 10 225. (RB66) Justice Hill, BAL $0 14
-66. (RB22) Zamir White, LV $7 10 146. (RB50) Jaleel McLaughlin, DEN $1 14 226. (RB67) D'Onta Foreman, CLE $0 10
-67. (WR32) Diontae Johnson, CAR $7 11 147. (WR63) Xavier Legette, CAR $1 11 227. (WR83) Zay Jones, ARI $0 11
-68. (WR33) Keenan Allen, CHI $6 7 148. (WR64) Joshua Palmer, LAC $1 5 228. (WR84) Marvin Mims Jr., DEN $0 14
-69. (WR34) Rashee Rice, KC $6 6 149. (WR65) Michael Wilson, ARI $1 11 229. (WR85) Luke McCaffrey, WAS $0 14 7
-70. (WR35) Christian Kirk, JAC $6 12 150. (WR66) Brandin Cooks, DAL $1 7 230. (WR86) Quentin Johnston, LAC $0 5 9
-71. (WR36) Terry McLaurin, WAS $6 14 151. (WR67) Romeo Doubs, GB $1 10 231. (WR87) Jermaine Burton, CIN $0 12
-72. (WR37) Jaxon Smith-Njigba, SEA $6 10 152. (WR68) Dontayvion Wicks, GB $1 10 232. (WR88) Trey Palmer, TB $0 11
-73. (TE6) George Kittle, SF $6 9 153. (RB51) Miles Sanders, CAR $1 11 233. (WR89) Malachi Corley, NYJ $0 12
-74. (TE7) Dalton Kincaid, BUF $5 12 154. (RB52) Khalil Herbert, CHI $1 7 234. (WR90) Josh Reynolds, DEN $0 14
-75. (TE8) Kyle Pitts, ATL $5 12 155. (RB53) Ray Davis, BUF $1 12 235. (DST13) Bears D/ST, CHI $0 7
-76. (RB23) Brian Robinson Jr., WAS $5 14 156. (RB54) Jaylen Wright, MIA $1 6 236. (DST14) Falcons D/ST, ATL $0 12
-77. (RB24) Najee Harris, PIT $5 9 157. (RB55) Alexander Mattison, LV $1 10 237. (K13) Dustin Hopkins, CLE $0 10
-78. (RB25) David Montgomery, DET $4 5 158. (RB56) Elijah Mitchell, SF $1 9 238. (K14) Matt Gay, IND $0 14
-79. (RB26) Jaylen Warren, PIT $4 9 159. (RB57) Clyde Edwards-Helaire, KC $1 6 239. (RB68) Dameon Pierce, HOU $0 14
-80. (RB27) Javonte Williams, DEN $4 14 160. (WR69) Josh Downs, IND $1 14 240. (RB69) Ty Johnson, BUF $0 12
+https://g.espncdn.com/s/ffldraftkit/25/NFL25_CS_PPR300.pdf?adddata=2025CS_PPR300
+1. (WR1) Ja'Marr Chase, CIN $57 10 81. (RB28) Jaylen Warren, PIT $4 5 161. (RB56) Justice Hill, BAL $0 7 241. (RB70) Raheem Mostert, LV $0 8
+2. (RB1) Bijan Robinson, ATL $56 5 82. (RB29) Kaleb Johnson, PIT $4 5 162. (RB57) MarShawn Lloyd, GB $0 5 242. (RB71) Trevor Etienne, CAR $0 14
+3. (WR2) Justin Jefferson, MIN $55 6 83. (TE6) Travis Kelce, KC $4 10 163. (WR68) Michael Wilson, ARI $0 8 243. (RB72) Jarquez Hunter, LAR $0 8
+4. (RB2) Saquon Barkley, PHI $55 9 84. (TE7) David Njoku, CLE $4 9 164. (WR69) Jack Bech, LV $0 8 244. (RB73) Ty Johnson, BUF $0 7
+5. (RB3) Jahmyr Gibbs, DET $54 8 85. (TE8) Mark Andrews, BAL $4 7 165. (TE18) Chigoziem Okonkwo, TEN $0 10 245. (RB74) Elijah Mitchell, KC $0 10
+6. (WR3) CeeDee Lamb, DAL $53 10 86. (TE9) Evan Engram, DEN $4 12 166. (TE19) Darren Waller, MIA $0 12 246. (RB75) Clyde Edwards-Helaire, NO $0 11
+7. (RB4) Christian McCaffrey, SF $53 14 87. (QB8) Bo Nix, DEN $3 12 167. (TE20) Zach Ertz, WAS $0 12 247. (RB76) Kyle Monangai, CHI $0 5
+8. (WR4) Puka Nacua, LAR $52 8 88. (QB9) Kyler Murray, ARI $3 8 168. (TE21) Jonnu Smith, PIT $0 5 248. (RB77) Ollie Gordon II, MIA $0 12
+9. (WR5) Malik Nabers, NYG $51 14 89. (QB10) Brock Purdy, SF $3 14 169. (DST1) Texans D/ST, HOU $0 6 249. (RB78) Sean Tucker, TB $0 9
+10. (WR6) Amon-Ra St. Brown, DET $50 8 90. (RB30) Joe Mixon, HOU $3 6 170. (DST2) Steelers D/ST, PIT $0 5 250. (RB79) Isaiah Davis, NYJ $0 9
+11. (RB5) Ashton Jeanty, LV $48 8 91. (RB31) Quinshon Judkins, CLE $3 9 171. (DST3) Broncos D/ST, DEN $0 12 251. (RB80) Keaton Mitchell, BAL $0 7
+12. (RB6) De'Von Achane, MIA $46 12 92. (RB32) Brian Robinson Jr., WAS $3 12 172. (DST4) Vikings D/ST, MIN $0 6 252. (WR91) Noah Brown, WAS $0 12
+13. (WR7) Nico Collins, HOU $45 6 93. (RB33) J.K. Dobbins, DEN $3 12 173. (DST5) Seahawks D/ST, SEA $0 8 253. (WR92) Allen Lazard, NYJ $0 9
+14. (WR8) Brian Thomas Jr., JAC $43 8 94. (RB34) Rhamondre Stevenson, NE $3 14 174. (DST6) Ravens D/ST, BAL $0 7 254. (DST15) Cardinals D/ST, ARI $0 8
+15. (WR9) A.J. Brown, PHI $42 9 95. (RB35) Javonte Williams, DAL $3 10 175. (DST7) Patriots D/ST, NE $0 14 255. (DST16) Packers D/ST, GB $0 5
+16. (WR10) Drake London, ATL $40 5 96. (WR42) Khalil Shakir, BUF $2 7 176. (DST8) Lions D/ST, DET $0 8 256. (K15) Brandon McManus, GB $0 5
+17. (RB7) Jonathan Taylor, IND $38 11 97. (WR43) Jauan Jennings, SF $2 14 177. (DST9) Eagles D/ST, PHI $0 9 257. (K16) Evan McPherson, CIN $0 10
+18. (RB8) Josh Jacobs, GB $37 5 98. (WR44) Deebo Samuel Sr., WAS $2 12 178. (DST10) Bills D/ST, BUF $0 7 258. (TE27) Elijah Arroyo, SEA $0 8
+19. (RB9) Derrick Henry, BAL $36 7 99. (WR45) Ricky Pearsall, SF $2 14 179. (DST11) Colts D/ST, IND $0 11 259. (TE28) Mike Gesicki, CIN $0 10
+20. (TE1) Brock Bowers, LV $35 8 100. (WR46) Keon Coleman, BUF $2 7 180. (DST12) Jets D/ST, NYJ $0 9 260. (TE29) Tyler Higbee, LAR $0 8
+21. (TE2) Trey McBride, ARI $34 8 101. (WR47) Michael Pittman Jr., IND $2 11 181. (K1) Jake Bates, DET $0 8 261. (WR93) Alec Pierce, IND $0 11
+22. (RB10) Bucky Irving, TB $33 9 102. (WR48) Jayden Reed, GB $2 5 182. (K2) Chase McLaughlin, TB $0 9 262. (WR94) KaVontae Turpin, DAL $0 10
+23. (RB11) Chase Brown, CIN $32 10 103. (QB11) Justin Herbert, LAC $2 12 183. (K3) Cameron Dicker, LAC $0 12 263. (WR95) Andrei Iosivas, CIN $0 10
+24. (WR11) Tee Higgins, CIN $32 10 104. (QB12) Caleb Williams, CHI $2 5 184. (K4) Brandon Aubrey, DAL $0 10 264. (WR96) Jalen Tolbert, DAL $0 10
+25. (WR12) Tyreek Hill, MIA $31 12 105. (QB13) Dak Prescott, DAL $2 10 185. (K5) Jason Sanders, MIA $0 12 265. (RB81) Devin Neal, NO $0 11
+26. (WR13) Ladd McConkey, LAC $30 12 106. (QB14) Justin Fields, NYJ $2 9 186. (K6) Tyler Bass, BUF $0 7 266. (RB82) Kyle Juszczyk, SF $0 14
+27. (WR14) Davante Adams, LAR $30 8 107. (WR49) Keenan Allen, LAC $2 12 187. (K7) Jake Elliott, PHI $0 9 267. (QB28) Sam Darnold, SEA $0 8
+28. (QB1) Josh Allen, BUF $29 7 108. (WR50) Darnell Mooney, ATL $2 5 188. (K8) Chris Boswell, PIT $0 5 268. (QB29) Aaron Rodgers, PIT $0 5
+29. (QB2) Lamar Jackson, BAL $28 7 109. (WR51) Josh Downs, IND $2 11 189. (K9) Harrison Butker, KC $0 10 269. (QB30) Russell Wilson, NYG $0 14
+30. (QB3) Jayden Daniels, WAS $27 12 110. (WR52) Rashid Shaheed, NO $2 11 190. (K10) Cairo Santos, CHI $0 5 270. (QB31) Tyler Shough, NO $0 11
+31. (QB4) Jalen Hurts, PHI $26 9 111. (WR53) Jayden Higgins, HOU $2 6 191. (K11) Tyler Loop, BAL $0 7 271. (WR97) Jalen Coker, CAR $0 14
+32. (RB12) Kyren Williams, LAR $25 8 112. (WR54) Emeka Egbuka, TB $2 9 192. (K12) Matt Gay, WAS $0 12 272. (WR98) Tre Tucker, LV $0 8
+33. (RB13) James Cook, BUF $24 7 113. (TE10) Tucker Kraft, GB $2 5 193. (WR70) Kyle Williams, NE $0 14 273. (WR99) Van Jefferson, TEN $0 10
+34. (WR15) Jaxon Smith-Njigba, SEA $23 8 114. (RB36) Austin Ekeler, WAS $2 12 194. (WR71) Romeo Doubs, GB $0 5 274. (WR100) Greg Dortch, ARI $0 8
+35. (WR16) Terry McLaurin, WAS $22 12 115. (RB37) Cam Skattebo, NYG $2 14 195. (RB58) Roschon Johnson, CHI $0 5 275. (WR101) Jordan Whittington, LAR $0 8
+36. (WR17) Garrett Wilson, NYJ $22 9 116. (RB38) Travis Etienne Jr., JAC $2 8 196. (RB59) Dylan Sampson, CLE $0 9 276. (RB83) Emari Demercado, ARI $0 8
+37. (RB14) Omarion Hampton, LAC $22 12 117. (RB39) Tyjae Spears, TEN $2 10 197. (WR72) Tyler Lockett, TEN $0 10 277. (RB84) Chris Brooks, GB $0 5
+38. (RB15) Kenneth Walker III, SEA $21 8 118. (RB40) Tank Bigsby, JAC $2 8 198. (QB22) Trevor Lawrence, JAC $0 8 278. (RB85) Alec Ingold, MIA $0 12
+39. (QB5) Joe Burrow, CIN $21 10 119. (RB41) Jordan Mason, MIN $2 6 199. (QB23) Cameron Ward, TEN $0 10 279. (RB86) Sincere McCormick, LV $0 8
+40. (TE3) George Kittle, SF $20 14 120. (RB42) Rachaad White, TB $2 9 200. (QB24) Michael Penix Jr., ATL $0 5 280. (RB87) Dare Ogunbowale, HOU $0 6
+41. (RB16) Alvin Kamara, NO $19 11 121. (QB15) Drake Maye, NE $1 14 201. (WR73) Nick Westbrook-Ikhine, MIA $0 12 281. (RB88) Tahj Brooks, CIN $0 10
+42. (RB17) Chuba Hubbard, CAR $19 14 122. (QB16) Jordan Love, GB $1 5 202. (WR74) Joshua Palmer, BUF $0 7 282. (RB89) Brashard Smith, KC $0 10
+43. (RB18) James Conner, ARI $18 8 123. (QB17) Jared Goff, DET $1 8 203. (WR75) Diontae Johnson, CLE $0 9 283. (RB90) Jordan James, SF $0 14
+44. (RB19) TreVeyon Henderson, NE $17 14 124. (QB18) J.J. McCarthy, MIN $1 6 204. (WR76) Brandin Cooks, NO $0 11 284. (WR102) Jalen Nailor, MIN $0 6
+45. (WR18) Mike Evans, TB $17 9 125. (TE11) Colston Loveland, CHI $1 5 205. (WR77) Darius Slayton, NYG $0 14 285. (DST17) Chiefs D/ST, KC $0 10
+46. (WR19) Marvin Harrison Jr., ARI $15 8 126. (TE12) Tyler Warren, IND $1 11 206. (TE22) Brenton Strange, JAC $0 8 286. (DST18) Bears D/ST, CHI $0 5
+47. (WR20) Xavier Worthy, KC $15 10 127. (TE13) Dallas Goedert, PHI $1 9 207. (TE23) Mason Taylor, NYJ $0 9 287. (K17) Jason Myers, SEA $0 8
+48. (WR21) DK Metcalf, PIT $14 5 128. (TE14) Jake Ferguson, DAL $1 10 208. (WR78) DeAndre Hopkins, BAL $0 7 288. (K18) Wil Lutz, DEN $0 12
+49. (WR22) DJ Moore, CHI $13 5 129. (TE15) Dalton Kincaid, BUF $1 7 209. (WR79) Pat Bryant, DEN $0 12 289. (TE30) Theo Johnson, NYG $0 14
+50. (WR23) Rashee Rice, KC $13 10 130. (RB43) Trey Benson, ARI $1 8 210. (WR80) Quentin Johnston, LAC $0 12 290. (TE31) Isaiah Likely, BAL $0 7
+51. (RB20) Breece Hall, NYJ $12 9 131. (RB44) Zach Charbonnet, SEA $1 8 211. (WR81) Dont'e Thornton Jr., LV $0 8 291. (TE32) Juwan Johnson, NO $0 11
+52. (RB21) D'Andre Swift, CHI $11 5 132. (RB45) Jaydon Blue, DAL $1 10 212. (RB60) Woody Marks, HOU $0 6 292. (TE33) Ja'Tavion Sanders, CAR $0 14
+53. (WR24) Zay Flowers, BAL $11 7 133. (RB46) Tyler Allgeier, ATL $1 5 213. (RB61) Kareem Hunt, KC $0 10 293. (TE34) Michael Mayer, LV $0 8
+54. (WR25) Courtland Sutton, DEN $10 12 134. (RB47) Jaylen Wright, MIA $1 12 214. (RB62) Blake Corum, LAR $0 8 294. (WR103) Devaughn Vele, DEN $0 12
+55. (WR26) Calvin Ridley, TEN $10 10 135. (RB48) Braelon Allen, NYJ $1 9 215. (TE24) Cade Otton, TB $0 9 295. (WR104) Jaylin Noel, HOU $0 6
+56. (WR27) DeVonta Smith, PHI $10 9 136. (WR55) Adam Thielen, CAR $1 14 216. (TE25) Pat Freiermuth, PIT $0 5 296. (QB32) Daniel Jones, IND $0 11
+57. (WR28) Jaylen Waddle, MIA $10 12 137. (WR56) Xavier Legette, CAR $1 14 217. (TE26) Dalton Schultz, HOU $0 6 297. (DST19) Rams D/ST, LAR $0 8
+58. (WR29) Jerry Jeudy, CLE $9 9 138. (WR57) Cedric Tillman, CLE $1 9 218. (QB25) Bryce Young, CAR $0 14 298. (DST20) 49ers D/ST, SF $0 14
+59. (WR30) Jameson Williams, DET $9 8 139. (WR58) Hollywood Brown, KC $1 10 219. (QB26) Geno Smith, LV $0 8 299. (DST21) Dolphins D/ST, MIA $0 12
+60. (WR31) George Pickens, DAL $9 10 140. (WR59) Brandon Aiyuk, SF $1 14 220. (QB27) Anthony Richardson, IND $0 11 300. (DST22) Chargers D/ST, LAC $0 12
+61. (TE4) Sam LaPorta, DET $8 8 141. (TE16) Hunter Henry, NE $1 14 221. (RB63) Kendre Miller, NO $0 11
+62. (QB6) Patrick Mahomes, KC $8 10 142. (TE17) Kyle Pitts, ATL $1 5 222. (RB64) Rico Dowdle, CAR $0 14
+63. (QB7) Baker Mayfield, TB $8 9 143. (QB19) Tua Tagovailoa, MIA $1 12 223. (RB65) Jacory Croskey-Merritt, WAS $0 12
+64. (WR32) Rome Odunze, CHI $7 5 144. (QB20) Matthew Stafford, LAR $1 8 224. (WR82) Adonai Mitchell, IND $0 11
+65. (WR33) Tetairoa McMillan, CAR $7 14 145. (QB21) C.J. Stroud, HOU $1 6 225. (RB66) Miles Sanders, DAL $0 10
+66. (WR34) Travis Hunter, JAC $7 8 146. (RB49) Jerome Ford, CLE $1 9 226. (RB67) DJ Giddens, IND $0 11
+67. (RB22) David Montgomery, DET $7 8 147. (RB50) Najee Harris, LAC $1 12 227. (WR83) Amari Cooper, FA $0 0
+68. (RB23) Aaron Jones, MIN $6 6 148. (RB51) Bhayshul Tuten, JAC $1 8 228. (WR84) Gabe Davis, FA $0 0
+69. (TE5) T.J. Hockenson, MIN $6 6 149. (RB52) Isaac Guerendo, SF $1 14 229. (WR85) Ray-Ray McCloud III, ATL $0 5
+70. (RB24) Tony Pollard, TEN $6 10 150. (RB53) Ray Davis, BUF $1 7 230. (WR86) Josh Reynolds, NYJ $0 9
+71. (RB25) RJ Harvey, DEN $6 12 151. (RB54) Will Shipley, PHI $1 9 231. (WR87) Dyami Brown, JAC $0 8
+72. (RB26) Isiah Pacheco, KC $6 10 152. (WR60) Wan'Dale Robinson, NYG $1 14 232. (WR88) Tutu Atwell, LAR $0 8
+73. (WR35) Chris Godwin, TB $6 9 153. (WR61) Marvin Mims Jr., DEN $1 12 233. (WR89) Calvin Austin III, PIT $0 5
+74. (WR36) Jakobi Meyers, LV $5 8 154. (WR62) Christian Kirk, HOU $1 6 234. (WR90) Christian Watson, GB $0 5
+75. (WR37) Chris Olave, NO $5 11 155. (WR63) Rashod Bateman, BAL $1 7 235. (DST13) Giants D/ST, NYG $0 14
+76. (WR38) Cooper Kupp, SEA $5 8 156. (WR64) DeMario Douglas, NE $1 14 236. (DST14) Buccaneers D/ST, TB $0 9
+77. (WR39) Stefon Diggs, NE $5 14 157. (WR65) Luther Burden III, CHI $1 5 237. (K13) Ka'imi Fairbairn, HOU $0 6
+78. (WR40) Matthew Golden, GB $4 5 158. (WR66) Jalen McMillan, TB $1 9 238. (K14) Joshua Karty, LAR $0 8
+79. (WR41) Jordan Addison, MIN $4 6 159. (WR67) Tre Harris, LAC $1 12 239. (RB68) Samaje Perine, CIN $0 10
+80. (RB27) Tyrone Tracy Jr., NYG $4 14 160. (RB55) Nick Chubb, HOU $1 6 240. (RB69) Kenneth Gainwell, PIT $0 5 
