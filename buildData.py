@@ -8,6 +8,7 @@ EXT = "*.csv"
 all_csv_files = [file
                  for path, subdir, files in os.walk(PATH)
                  for file in glob(os.path.join(path, EXT))]
+all_csv_files.insert(0, all_csv_files.pop(4)) #IMPORTANT - BRINGS FP TO FRONT OF LIST
 print(all_csv_files)
 
 
@@ -21,6 +22,9 @@ print(all_csv_files)
 # data = Merge_CSV(all_csv_files, 'data.csv')Start the response with Yes or No
 
 def Ask(player1, player2):
+
+    return True # REMOVE BAD REMOVE BAD REMOVE BAD REMOVE BAD B+REMOVE BAD
+
     print(player1)
     print(" ")
     print(player2)
@@ -45,6 +49,8 @@ def PlayerMatch(player1, player2):
         else:
             player1['Name'] = player2['Name']
             return True
+    elif res == 2:
+        return True
 
     return False
 
@@ -52,11 +58,11 @@ def PlayerMatch(player1, player2):
 def PlayerMatchRun(player1, player2):
 
     if(player1['Name'] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-        return 0
+        return 2
     elif(player1['Name'] == player2['Name'] and player1['Pos'] == player2['Pos'] and (player1['Team'] == "Dumb" or player2['Team'] == "Dumb")):
-        return 0
+        return 2
     elif(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1] == player2['Name'] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
-        return 0
+        return 1
     elif(player1['Name'] == player2['Name'].split(" ")[0][0] + " " + player2['Name'].split(" ")[1] and player1['Team'] == player2['Team'] and player1['Pos'] == player2['Pos']):
         return 1
     elif(player1['Name'].split(" ")[0][0] + " " + player1['Name'].split(" ")[1] == player2['Name'] and (player1['Team'] == "Dumb" or player2['Team'] == "Dumb") and player1['Pos'] == player2['Pos']):
@@ -103,7 +109,7 @@ def PlayerMatchRun(player1, player2):
     if((len(player1['Name'].split(" ")) == 3 and len(player2['Name'].split(" ")) == 3) and player1['Name'].split(" ")[1]+ " " + player1['Name'].split(" ")[2] == player2['Name'].split(" ")[1]+ " " + player2['Name'].split(" ")[2]):
         return Ask(player1, player2)
         
-    return 2
+    return 3
 
 def print2():
     count = 0
@@ -136,6 +142,14 @@ for index, row in adpfile.iterrows():
     for player in combinedData:
         if(PlayerMatch(row, player)):
             player['ADP'] = row['ADP']
+
+for player in combinedData:
+    count = 1
+    while count <= len(player["Costs"]):
+        if player["Costs"][count-1] == -1:
+            del player["Costs"][count-1]
+            count-=1
+        count+=1
     
 
 # print(combinedData) # HAS ALL PLAYERS WITH ALL RANKS AND COSTS HERE
@@ -177,7 +191,8 @@ def CalculateCost(costs):
 # AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 # AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 # NEED TO BE UPDATED  SHOULD UPDATE DATA BEFORE DRAFT TOO
-byeWeeks = { "ARI":11, "ATL":12, "BAL":14, "BUF":12, "CAR":11, "CHI":7, "CIN":12, "CLE":10, "DAL":7, "DEN":14, "DET":5, "Dumb":0, "FA":0, "GB":10, "HOU":14, "IND":14, "JAX":12, "KC":6, "LAC":5, "LAR":6, "LV":10, "MIA":6, "MIN":6, "NE":14, "NO":12, "NYG":11, "NYJ":12, "PHI":5, "PIT":9, "SEA":10, "SF":9, "TB":11, "TEN":5, "WAS":14 }
+byeWeeks = { "ARI":8, "ATL":5, "BAL":7, "BUF":7, "CAR":14, "CHI":5, "CIN":10, "CLE":9, "DAL":10, "DEN":12, "DET":8, "Dumb":0, "FA":0, "GB":5, "HOU":6, "IND":11, "JAX":8, "JAC":8, "KC":10, "LAC":12, "LAR":8, "LV":8, "MIA":12, "MIN":6, "NE":14, "NO":11, "NYG":14, "NYJ":9, "PHI":9, "PIT":5, "SEA":8, "SF":14, "TB":9, "TEN":10, "WAS":12 }
+# byeWeeks24 = { "ARI":11, "ATL":12, "BAL":14, "BUF":12, "CAR":11, "CHI":7, "CIN":12, "CLE":10, "DAL":7, "DEN":14, "DET":5, "Dumb":0, "FA":0, "GB":10, "HOU":14, "IND":14, "JAX":12, "JAC":12, "KC":6, "LAC":5, "LAR":6, "LV":10, "MIA":6, "MIN":6, "NE":14, "NO":12, "NYG":11, "NYJ":12, "PHI":5, "PIT":9, "SEA":10, "SF":9, "TB":11, "TEN":5, "WAS":14 }
 # byeWeeks23 = { "ARI":14, "ATL":11, "BAL":13, "BUF":13, "CAR":7, "CHI":13, "CIN":7, "CLE":5, "DAL":7, "DEN":9, "DET":9, "Dumb":0, "FA":0, "GB":6, "HOU":7, "IND":11, "JAC":9, "KC":10, "LAC":5, "LAR":10, "LV":13, "MIA":10, "MIN":13, "NE":11, "NO":11, "NYG":13, "NYJ":7, "PHI":10, "PIT":6, "SEA":5, "SF":9, "TB":5, "TEN":7, "WAS":14 }
 
 def bubbleSort(text):

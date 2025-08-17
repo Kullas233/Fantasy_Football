@@ -13,7 +13,7 @@ Rank,Name,Pos,Team,Cost
 12,P Nacua,WR,Dumb,23
 13,A Jeanty,RB,Dumb,26
 14,D Henry,RB,Dumb,26
-15,B Thomas Jr,WR,Dumb,23
+15,B Thomas Jr.,WR,Dumb,23
 16,A Brown,WR,Dumb,22
 17,J Jacobs,RB,Dumb,23
 18,C Brown,RB,Dumb,22
@@ -39,7 +39,7 @@ Rank,Name,Pos,Team,Cost
 38,C Hubbard,RB,Dumb,15
 39,J Conner,RB,Dumb,15
 40,G Kittle,TE,Dumb,12
-41,M Harrison Jr,WR,Dumb,14
+41,M Harrison Jr.,WR,Dumb,14
 42,G Wilson,WR,Dumb,14
 43,M Evans,WR,Dumb,13
 44,D Metcalf,WR,Dumb,14
@@ -78,7 +78,7 @@ Rank,Name,Pos,Team,Cost
 77,A Jones,RB,Dumb,6
 78,J Meyers,WR,Dumb,6
 79,D Samuel,WR,Dumb,5
-80,T Tracy Jr,RB,Dumb,5
+80,T Tracy Jr.,RB,Dumb,5
 81,C Kupp,WR,Dumb,5
 82,K Coleman,WR,Dumb,5
 83,K Johnson,RB,Dumb,5
@@ -89,7 +89,7 @@ Rank,Name,Pos,Team,Cost
 88,J Warren,RB,Dumb,5
 89,T Warren,TE,Dumb,4
 90,C Godwin,WR,Dumb,4
-91,B Robinson Jr,RB,Dumb,5
+91,B Robinson Jr.,RB,Dumb,5
 92,J Jennings,WR,Dumb,4
 93,C Kirk,WR,Dumb,4
 94,J Downs,WR,Dumb,3
@@ -177,9 +177,9 @@ Rank,Name,Pos,Team,Cost
 176,D Slayton,WR,Dumb,0
 177,R Johnson,RB,Dumb,0
 178,M Stafford,QB,Dumb,0
-179,M Penix Jr,QB,Dumb,0
+179,M Penix Jr.,QB,Dumb,0
 180,W Robinson,WR,Dumb,0
-181,D Thornton Jr,WR,Dumb,0
+181,D Thornton Jr.,WR,Dumb,0
 182,C Okonkwo,TE,Dumb,0
 183,P Washington,WR,Dumb,0
 184,A Thielen,WR,Dumb,0
