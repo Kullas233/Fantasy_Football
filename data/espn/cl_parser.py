@@ -62,6 +62,9 @@ for line in lines:
 
 newFile = "Rank,Name,Pos,Team,Cost\n"
 for player in players:
+    #Team Name Handling
+    if(player[2] == 'JAC'):
+        player[2] = 'JAX'
     print(player)
     newFile += player[0] + "," + player[1] + "," + player[3] + "," + player[2] + ",-1"
     newFile += "\n"

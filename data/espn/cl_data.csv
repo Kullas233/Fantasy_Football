@@ -12,7 +12,7 @@ Rank,Name,Pos,Team,Cost
 11,Ashton Jeanty,RB,LV,-1
 12,De'Von Achane,RB,MIA,-1
 13,Nico Collins,WR,HOU,-1
-14,Brian Thomas Jr.,WR,JAC,-1
+14,Brian Thomas Jr.,WR,JAX,-1
 15,A.J. Brown,WR,PHI,-1
 16,Drake London,WR,ATL,-1
 17,Jonathan Taylor,RB,IND,-1
@@ -64,7 +64,7 @@ Rank,Name,Pos,Team,Cost
 63,Baker Mayfield,QB,TB,-1
 64,Rome Odunze,WR,CHI,-1
 65,Tetairoa McMillan,WR,CAR,-1
-66,Travis Hunter,WR,JAC,-1
+66,Travis Hunter,WR,JAX,-1
 67,David Montgomery,RB,DET,-1
 68,Aaron Jones,RB,MIN,-1
 69,T.J. Hockenson,TE,MIN,-1
@@ -114,9 +114,9 @@ Rank,Name,Pos,Team,Cost
 113,Tucker Kraft,TE,GB,-1
 114,Austin Ekeler,RB,WAS,-1
 115,Cam Skattebo,RB,NYG,-1
-116,Travis Etienne Jr.,RB,JAC,-1
+116,Travis Etienne Jr.,RB,JAX,-1
 117,Tyjae Spears,RB,TEN,-1
-118,Tank Bigsby,RB,JAC,-1
+118,Tank Bigsby,RB,JAX,-1
 119,Jordan Mason,RB,MIN,-1
 120,Rachaad White,RB,TB,-1
 121,Drake Maye,QB,NE,-1
@@ -146,7 +146,7 @@ Rank,Name,Pos,Team,Cost
 145,C.J. Stroud,QB,HOU,-1
 146,Jerome Ford,RB,CLE,-1
 147,Najee Harris,RB,LAC,-1
-148,Bhayshul Tuten,RB,JAC,-1
+148,Bhayshul Tuten,RB,JAX,-1
 149,Isaac Guerendo,RB,SF,-1
 150,Ray Davis,RB,BUF,-1
 151,Will Shipley,RB,PHI,-1
@@ -196,6 +196,6 @@ Rank,Name,Pos,Team,Cost
 195,Roschon Johnson,RB,CHI,-1
 196,Dylan Sampson,RB,CLE,-1
 197,Tyler Lockett,WR,TEN,-1
-198,Trevor Lawrence,QB,JAC,-1
+198,Trevor Lawrence,QB,JAX,-1
 199,Cameron Ward,QB,TEN,-1
 200,Michael Penix Jr.,QB,ATL,-1
