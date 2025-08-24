@@ -48,7 +48,12 @@ for line in file:
 
 newFile = "Name,Pos,Team,ADP\n"
 for player in players:
-    newFile += player[0] + "," + player[2] + "," + player[1] + ', ' + player[3]
+
+    #Hollywood Handling
+    if(player[0] == "Hollywood Brown"):
+        player[0] = "Marquise Brown"
+    
+    newFile += player[0] + "," + player[2] + "," + player[1] + ',' + player[3]
     newFile += "\n"
 
 file.close()
