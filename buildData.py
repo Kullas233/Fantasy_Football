@@ -23,7 +23,8 @@ print(all_csv_files)
 
 def Ask(player1, player2):
 
-    return True # REMOVE BAD REMOVE BAD REMOVE BAD REMOVE BAD B+REMOVE BAD
+    if(player1['Name'] != "Equanimeous St. Brown" and player2['Name'] != "Equanimeous St. Brown"):
+        return True
 
     print(player1)
     print(" ")
@@ -202,7 +203,7 @@ count = 1
 for player in combinedData:
     # if(player['Team'] == "-1"):
     # print(player)
-    text.append('<tr class="clickable-row tablerow"id="player'+ str(count) +'"data-href="http://tutorialsplane.com"><td class="has-details">' +str(CalculateRank(player['Ranks']))[:5]+ '<span class="details">'+str(player['Ranks'])+'</span></td><td class="has-details">' +player['Name']+ '<span class="details">ADP: '+str(player['ADP'])+'</span></td><td>' +player['Pos']+ '</td><td class="has-details">' +player['Team']+ '<span class="details">SOS: '+str(teamsSOS[player['Team']]['SOS'])+' Line: '+str(teamsSOS[player['Team']]['Line'])+'</span></td><td>'+str(byeWeeks[player['Team']])+'</td><td class="has-details">'+str(CalculateCost(player['Costs']))[:5]+'<span class="details">'+str(player['Costs'])+'</span></td></tr>\n')
+    text.append('        <tr class="clickable-row tablerow"id="player'+ str(count) +'"data-href="http://tutorialsplane.com"><td class="has-details">' +str(CalculateRank(player['Ranks']))[:5]+ '<span class="details">'+str(player['Ranks'])+'</span></td><td class="has-details">' +player['Name']+ '<span class="details">ADP: '+str(player['ADP'])+'</span></td><td>' +player['Pos']+ '</td><td class="has-details">' +player['Team']+ '<span class="details">SOS: '+str(teamsSOS[player['Team']]['SOS'])+' Line: '+str(teamsSOS[player['Team']]['Line'])+'</span></td><td>'+str(byeWeeks[player['Team']])+'</td><td class="has-details">'+str(CalculateCost(player['Costs']))[:5]+'<span class="details">'+str(player['Costs'])+'</span></td></tr>\n')
     count += 1
 
 bubbleSort(text)
