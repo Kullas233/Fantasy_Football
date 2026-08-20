@@ -8,7 +8,19 @@ EXT = "*.csv"
 all_csv_files = [file
                  for path, subdir, files in os.walk(PATH)
                  for file in glob(os.path.join(path, EXT))]
-all_csv_files.insert(0, all_csv_files.pop(4)) #IMPORTANT - BRINGS FP TO FRONT OF LIST
+all_csv_files.sort()  # deterministic order regardless of filesystem walk order
+
+# IMPORTANT - FP must be processed first so its full player names win when
+# other sources (which use abbreviated "F. Last" names) are merged in.
+# Find it by path instead of a hardcoded index, since the index shifts any
+# time a source folder is added/removed/renamed.
+fp_files = [f for f in all_csv_files if os.sep + "fp" + os.sep in f]
+if len(fp_files) != 1:
+    raise ValueError(
+        f"Expected exactly one CSV under a 'fp' folder, found {len(fp_files)}: {fp_files}"
+    )
+all_csv_files.remove(fp_files[0])
+all_csv_files.insert(0, fp_files[0])
 print(all_csv_files)
 
 
@@ -43,12 +55,16 @@ def PlayerMatch(player1, player2):
         else:
             return True
     elif res == 1:
+        # Always keep the fuller (longer) name - PlayerMatchRun returns 1
+        # for a match in EITHER direction (player1 abbreviated vs player2
+        # full, or vice versa), so we can't assume player2 is the fuller one.
+        longer_name = player2['Name'] if len(player2['Name']) > len(player1['Name']) else player1['Name']
         if player1['Name'].__contains__("Jr") or player1['Name'].__contains__("JR") or player2['Name'].__contains__("Jr") or player2['Name'].__contains__("JR"):
             if Ask(player1, player2):
-                player1['Name'] = player2['Name']
+                player1['Name'] = longer_name
                 return True
         else:
-            player1['Name'] = player2['Name']
+            player1['Name'] = longer_name
             return True
     elif res == 2:
         return True
@@ -138,7 +154,7 @@ for csv_name in all_csv_files:
 
 for player in combinedData:
     player['ADP'] = -1
-adpfile = pd.read_csv("adp//data.csv")
+adpfile = pd.read_csv("adp/data.csv")
 for index, row in adpfile.iterrows():
     for player in combinedData:
         if(PlayerMatch(row, player)):

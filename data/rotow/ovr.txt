@@ -1,1 +1,101 @@
 https://www.rotowire.com/football/cheatsheet-ppr.php
+1	Jahmyr Gibbs	DET	RB	6	1	1	1	1	2	2	2	1	Projections are a RotoWire premium feature.Subscribe to view		
+2	Bijan Robinson	ATL	RB	11	2	2	2	2	1	1	1	3		
+3	Puka Nacua	LAR	WR	11	4	4	5	4	4	4	4	5	Ques	Groin
+4	Ja'Marr Chase	CIN	WR	6	3	3	4	3	3	3	3	4		
+5	Christian McCaffrey	SF	RB	8	6	7	3	5	8	10	5	8	Ques	Undisclosed
+6	Jaxon Smith-Njigba	SEA	WR	11	5	5	6	6	5	6	8	7		
+7	Jonathan Taylor	IND	RB	13	8	10	11	13	9	12	6	11		
+8	Amon-Ra St. Brown	DET	WR	6	7	6	7	10	6	7	7	10		
+9	James Cook	BUF	RB	7	11	8	9	14	7	11	14	26		
+10	CeeDee Lamb	DAL	WR	14	12	15	17	11	12	14	9	21		
+11	De'Von Achane	MIA	RB	6		
+12	Justin Jefferson	MIN	WR	6		
+13	Chase Brown	CIN	RB	6		
+14	Ashton Jeanty	LV	RB	13		
+15	Omarion Hampton	LAC	RB	7		
+16	A.J. Brown	NE	WR	11		
+17	Brock Bowers	LV	TE	13		
+18	Kenneth Walker	KC	RB	5		
+19	Saquon Barkley	PHI	RB	10		
+20	Trey McBride	ARI	TE	14		
+21	Drake London	ATL	WR	11		
+22	Nico Collins	HOU	WR	8		
+23	Derrick Henry	BAL	RB	13		
+24	Josh Allen	BUF	QB	7		
+25	George Pickens	DAL	WR	14		
+26	Jeremiyah Love	ARI	RB	14	Ques	Ankle
+27	Kyren Williams	LAR	RB	11		
+28	Breece Hall	NYJ	RB	13	Ques	Groin
+29	Lamar Jackson	BAL	QB	13		
+30	Chris Olave	NO	WR	8		
+31	Tee Higgins	CIN	WR	6		
+32	Rashee Rice	KC	WR	5		
+33	Josh Jacobs	GB	RB	11	Ques	Groin
+34	Zay Flowers	BAL	WR	13		
+35	Javonte Williams	DAL	RB	14		
+36	DeVonta Smith	PHI	WR	10	Ques	Hamstring
+37	Colston Loveland	CHI	TE	10		
+38	Malik Nabers	NYG	WR	8	Ques	Knee - ACL
+39	Cam Skattebo	NYG	RB	8		
+40	Drake Maye	NE	QB	11		
+41	Ladd McConkey	LAC	WR	7		
+42	Garrett Wilson	NYJ	WR	13		
+43	Jaylen Waddle	DEN	WR	10		
+44	Bucky Irving	TB	RB	10		
+45	Luther Burden	CHI	WR	10	Ques	Groin
+46	Travis Etienne	NO	RB	8		
+47	Tetairoa McMillan	CAR	WR	5		
+48	David Montgomery	HOU	RB	8		
+49	Tyler Warren	IND	TE	13	Ques	Groin
+50	TreVeyon Henderson	NE	RB	11		
+51	Joe Burrow	CIN	QB	6		
+52	Sam LaPorta	DET	TE	6		
+53	D'Andre Swift	CHI	RB	10		
+54	Emeka Egbuka	TB	WR	10	Ques	Toe
+55	Tucker Kraft	GB	TE	11	Ques	Knee - ACL
+56	Jaylen Warren	PIT	RB	9		
+57	Terry McLaurin	WAS	WR	7		
+58	Jayden Daniels	WAS	QB	7		
+59	Davante Adams	LAR	WR	11		
+60	Jalen Hurts	PHI	QB	10		
+61	Jameson Williams	DET	WR	6		
+62	Quinshon Judkins	CLE	RB	11	Ques	Undisclosed
+63	Mike Evans	SF	WR	8	Ques	Quadriceps
+64	Harold Fannin	CLE	TE	11		
+65	Bhayshul Tuten	JAX	RB	7		
+66	Jadarian Price	SEA	RB	11		
+67	Caleb Williams	CHI	QB	10		
+68	Christian Watson	GB	WR	11		
+69	Parker Washington	JAX	WR	7	Ques	Undisclosed
+70	Dak Prescott	DAL	QB	14		
+71	Rico Dowdle	PIT	RB	9		
+72	Kyle Pitts	ATL	TE	11		
+73	DJ Moore	BUF	WR	7	Ques	Lower Body
+74	Rome Odunze	CHI	WR	10		
+75	Malik Willis	MIA	QB	6		
+76	George Kittle	SF	TE	8	PUP-P	Achilles
+77	Jaxson Dart	NYG	QB	8		
+78	C.J. Stroud	HOU	QB	8		
+79	Carnell Tate	TEN	WR	9	Ques	Undisclosed
+80	RJ Harvey	DEN	RB	10		
+81	Rhamondre Stevenson	NE	RB	11		
+82	Marvin Harrison	ARI	WR	14		
+83	Justin Herbert	LAC	QB	7		
+84	Trevor Lawrence	JAX	QB	7		
+85	DK Metcalf	PIT	WR	9	Ques	Undisclosed
+86	Sam Darnold	SEA	QB	11		
+87	Brian Thomas	JAX	WR	7		
+88	Brock Purdy	SF	QB	8		
+89	Dalton Kincaid	BUF	TE	7		
+90	Travis Kelce	KC	TE	5		
+91	Michael Wilson	ARI	WR	14		
+92	Jayden Reed	GB	WR	11		
+93	Tyler Shough	NO	QB	8		
+94	Chuba Hubbard	CAR	RB	5	Ques	Hamstring
+95	Tony Pollard	TEN	RB	9		
+96	Patrick Mahomes	KC	QB	5	Ques	Knee - ACL
+97	Jordan Mason	MIN	RB	6		
+98	Gunnar Helm	TEN	TE	9		
+99	Rachaad White	WAS	RB	7	Ques	Hamstring
+100	Aaron Jones	MIN	RB	6	
