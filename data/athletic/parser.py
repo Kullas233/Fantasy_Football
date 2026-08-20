@@ -1,4 +1,4 @@
-﻿file = open('ovr.txt', "r")
+﻿file = open('Fantasy_Football_26/data/athletic/ovr.txt', "r")
 
 lineNum=0
 players = []
@@ -48,5 +48,5 @@ for player in players:
     newFile += "\n"
 
 file.close()
-file = open('data.csv', "w")
+file = open('Fantasy_Football_26/data/athletic/data.csv', "w")
 file.write(newFile)
