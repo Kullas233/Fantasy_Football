@@ -1,2247 +1,2277 @@
-https://fantasy.espn.com/football/livedraftresults
+
 1
-Ja'Marr ChaseJa'Marr Chase
-Ja'Marr Chase
-Cin
-WR
+Jahmyr GibbsJahmyr Gibbs
+Jahmyr Gibbs
+DET
+RB
 1.5
 0.0
-64.0
-+4.0
+64.2
+0.0
 99.9
 2
 Bijan RobinsonBijan Robinson
 Bijan Robinson
-Atl
+ATL
 RB
-3.0
-+0.2
-60.9
-+4.3
+2.6
+0.0
+62.7
+0.0
 99.9
 3
-Saquon BarkleySaquon Barkley
-Saquon Barkley
-Phi
-RB
-3.6
-0.0
-61.0
-+3.7
+Ja'Marr ChaseJa'Marr Chase
+Ja'Marr Chase
+CIN
+WR
+4.2
++0.1
+58.0
+-0.1
 99.9
 4
-Justin JeffersonJustin Jefferson
-Justin Jefferson
-Min
-WR
-4.8
--0.1
-58.4
-+3.3
-99.9
-5
-Jahmyr GibbsJahmyr Gibbs
-Jahmyr Gibbs
-Det
-RB
-5.3
-+0.1
-58.4
-+3.7
-99.9
-6
-CeeDee LambCeeDee Lamb
-CeeDee Lamb
-Dal
-WR
-6.9
-+0.1
-55.4
-+3.4
-99.9
-7
-Christian McCaffreyChristian McCaffrey
-Christian McCaffrey
-SF
-RB
-8.0
-+0.3
-53.6
-+3.4
-99.9
-8
 Puka NacuaPuka Nacua
 Puka Nacua
+Q
 LAR
 WR
-10.3
+4.6
 -0.1
-49.5
-+1.8
+56.9
+-0.3
 99.9
-9
+5
+Jaxon Smith-NjigbaJaxon Smith-Njigba
+Jaxon Smith-Njigba
+SEA
+WR
+5.9
+0.0
+54.8
+-0.1
+99.9
+6
+Christian McCaffreyChristian McCaffrey
+Christian McCaffrey
+Q
+SF
+RB
+6.7
+-0.1
+52.6
+-0.1
+99.8
+7
+Jonathan TaylorJonathan Taylor
+Jonathan Taylor
+IND
+RB
+8.0
+0.0
+51.4
+-0.1
+99.8
+8
 Amon-Ra St. BrownAmon-Ra St. Brown
 Amon-Ra St. Brown
-Det
+DET
 WR
-10.4
+8.4
 0.0
-51.2
-+3.0
+52.1
+-0.1
 99.9
-10
-Malik NabersMalik Nabers
-Malik Nabers
-NYG
+9
+CeeDee LambCeeDee Lamb
+CeeDee Lamb
+DAL
 WR
-11.9
--0.2
-49.4
-+1.9
+10.7
+0.0
+47.6
+-0.1
+99.8
+10
+De'Von AchaneDe'Von Achane
+De'Von Achane
+MIA
+RB
+12.1
+0.0
+45.9
+-0.1
 99.8
 11
+Justin JeffersonJustin Jefferson
+Justin Jefferson
+MIN
+WR
+12.2
+0.0
+46.3
+-0.2
+99.8
+12
+James Cook IIIJames Cook III
+James Cook III
+BUF
+RB
+12.9
+0.0
+44.7
+0.0
+99.8
+13
+Saquon BarkleySaquon Barkley
+Saquon Barkley
+PHI
+RB
+16.3
++0.1
+38.3
+0.0
+99.7
+14
 Ashton JeantyAshton Jeanty
 Ashton Jeanty
 LV
 RB
-12.5
-+1.4
-48.6
-+3.9
+17.2
++0.2
+39.3
++0.3
 99.6
-12
+15
+Drake LondonDrake London
+Drake London
+ATL
+WR
+18.9
+0.0
+37.1
+0.0
+99.6
+16
+Jeremiyah LoveJeremiyah Love
+Jeremiyah Love
+Q
+ARI
+RB
+18.9
+-0.3
+37.4
+-0.5
+99.2
+17
 Derrick HenryDerrick Henry
 Derrick Henry
-Bal
+BAL
 RB
-15.2
-+0.3
-44.4
-+4.5
-99.9
-13
-Nico CollinsNico Collins
-Nico Collins
-Hou
-WR
-15.4
-+0.5
-45.1
-+3.3
-99.8
-14
-De'Von AchaneDe'Von Achane
-De'Von Achane
-Mia
-RB
-16.3
--2.0
-42.6
-0.0
-99.7
-15
-Brian Thomas Jr.Brian Thomas Jr.
-Brian Thomas Jr.
-Jax
-WR
-18.8
+19.8
 +0.1
-41.4
-+2.2
-99.7
-16
-Jonathan TaylorJonathan Taylor
-Jonathan Taylor
-Ind
-RB
-19.0
-+0.5
-39.2
-+2.8
-99.7
-17
-A.J. BrownA.J. Brown
-A.J. Brown
-Phi
-WR
-19.2
--0.2
-39.8
-+1.8
-99.8
+34.6
++0.1
+99.6
 18
-Josh JacobsJosh Jacobs
-Josh Jacobs
-GB
-RB
-19.9
-+0.5
-37.8
-+2.6
+Trey McBrideTrey McBride
+Trey McBride
+ARI
+TE
+20.0
+-0.1
+34.5
+-0.2
 99.8
 19
 Josh AllenJosh Allen
 Josh Allen
-Buf
+BUF
 QB
-20.9
+22.1
 0.0
-35.3
-+4.4
+30.1
+-0.1
 99.9
 20
-Brock BowersBrock Bowers
-Brock Bowers
-LV
-TE
-20.9
--0.1
-35.2
-+1.2
-99.9
-21
-Drake LondonDrake London
-Drake London
-Atl
-WR
-22.0
-+0.3
-38.1
-+2.3
-99.5
-22
-Lamar JacksonLamar Jackson
-Lamar Jackson
-Bal
-QB
-23.1
--1.0
-33.8
-+3.3
-99.9
-23
-Bucky IrvingBucky Irving
-Bucky Irving
-TB
-RB
-24.5
-+0.7
-34.3
-+2.7
-99.5
-24
-Trey McBrideTrey McBride
-Trey McBride
-Ari
-TE
-26.6
--0.4
-30.1
-+0.5
-99.8
-25
-Chase BrownChase Brown
-Chase Brown
-Cin
-RB
-27.2
-+3.5
-33.6
-+5.0
-98.6
-26
-Tee HigginsTee Higgins
-Tee Higgins
-Cin
-WR
-28.1
-+0.2
-28.9
-+1.3
-99.5
-27
-Jayden DanielsJayden Daniels
-Jayden Daniels
-Wsh
-QB
-28.4
--0.2
-28.5
-+2.3
-99.8
-28
-Jalen HurtsJalen Hurts
-Jalen Hurts
-Phi
-QB
-29.6
-0.0
-27.2
-+2.6
-99.8
-29
-Ladd McConkeyLadd McConkey
-Ladd McConkey
-LAC
-WR
-30.9
-+1.7
-29.1
-+2.0
-98.9
-30
-Tyreek HillTyreek Hill
-Tyreek Hill
-Mia
-WR
-31.0
--0.5
-29.5
-+1.7
-99.1
-31
-Kyren WilliamsKyren Williams
-Kyren Williams
-LAR
-RB
-31.8
--1.4
-29.0
-+1.0
-99.1
-32
-James CookJames Cook
-James Cook
-Buf
-RB
-33.2
-+1.6
-26.3
-+3.5
-99.1
-33
-Joe BurrowJoe Burrow
-Joe Burrow
-Cin
-QB
-33.9
--0.3
-24.1
-+3.0
-99.7
-34
-Davante AdamsDavante Adams
-Davante Adams
-LAR
-WR
-35.8
-0.0
-25.0
-+0.2
-98.8
-35
-George KittleGeorge Kittle
-George Kittle
-SF
-TE
-36.4
--0.4
-20.5
-+1.4
-99.8
-36
-Jaxon Smith-NjigbaJaxon Smith-Njigba
-Jaxon Smith-Njigba
-Sea
-WR
-39.1
--0.2
-21.5
-+1.0
-98.5
-37
-Terry McLaurinTerry McLaurin
-Terry McLaurin
-Wsh
-WR
-40.2
-+7.5
-19.8
-+1.9
-97.8
-38
-Kenneth Walker IIIKenneth Walker III
-Kenneth Walker III
-Sea
-RB
-42.5
-+0.5
-21.1
-+1.6
-97.9
-39
-Alvin KamaraAlvin Kamara
-Alvin Kamara
-NO
-RB
-42.8
-+1.0
-19.5
-+1.8
-97.9
-40
-Omarion HamptonOmarion Hampton
-Omarion Hampton
-LAC
-RB
-43.5
-+3.1
-23.0
-+3.3
-96.3
-41
-Garrett WilsonGarrett Wilson
-Garrett Wilson
-NYJ
-WR
-45.7
--1.1
-18.5
-+0.2
-97.4
-42
-Mike EvansMike Evans
-Mike Evans
-TB
-WR
-46.1
-+0.4
-18.1
-+2.0
-98.0
-43
-Chuba HubbardChuba Hubbard
-Chuba Hubbard
-Car
-RB
-48.8
-+1.5
-17.7
-+1.0
-96.5
-44
-Patrick MahomesPatrick Mahomes
-Patrick Mahomes
-KC
-QB
-49.4
-+1.3
-13.0
-+2.4
-96.9
-45
-Marvin Harrison Jr.Marvin Harrison Jr.
-Marvin Harrison Jr.
-Ari
-WR
-50.5
-+0.1
-16.5
-+1.8
-96.9
-46
-DK MetcalfDK Metcalf
-DK Metcalf
-Pit
-WR
-50.7
--1.3
-14.3
-+0.7
-97.6
-47
-Sam LaPortaSam LaPorta
-Sam LaPorta
-Det
-TE
-51.2
--2.0
-10.2
-+0.7
-99.1
-48
-Xavier WorthyXavier Worthy
-Xavier Worthy
-KC
-WR
-51.8
-+4.7
-13.1
-+1.9
-97.0
-49
-TreVeyon HendersonTreVeyon Henderson
-TreVeyon Henderson
-NE
-RB
-53.0
-+18.5
-17.6
-+7.7
-91.7
-50
-James ConnerJames Conner
-James Conner
-Ari
-RB
-53.2
-+2.0
-16.6
-+1.4
-95.6
-51
-Breece HallBreece Hall
-Breece Hall
-NYJ
-RB
-57.6
--1.7
-14.3
--0.6
-95.6
-52
-Baker MayfieldBaker Mayfield
-Baker Mayfield
-TB
-QB
-58.0
-+1.5
-10.2
-+1.6
-95.5
-53
-DJ MooreDJ Moore
-DJ Moore
-Chi
-WR
-60.6
-+1.7
-11.1
-+0.4
-94.9
-54
-D'Andre SwiftD'Andre Swift
-D'Andre Swift
-Chi
-RB
-61.7
-+3.7
-11.4
-+1.5
-93.1
-55
-Zay FlowersZay Flowers
-Zay Flowers
-Bal
-WR
-61.7
-+1.6
-10.4
-+0.8
-95.0
-56
-T.J. HockensonT.J. Hockenson
-T.J. Hockenson
-Min
-TE
-62.0
-+1.1
-7.2
-+0.9
-96.0
-57
-Travis KelceTravis Kelce
-Travis Kelce
-KC
-TE
-64.1
-+0.6
-7.5
-+0.9
-96.0
-58
-Courtland SuttonCourtland Sutton
-Courtland Sutton
-Den
-WR
-66.0
-+3.1
-10.5
-+1.5
-92.9
-59
 Rashee RiceRashee Rice
 Rashee Rice
 KC
 WR
-66.8
-+2.0
-10.1
-+0.3
-93.8
-60
-David MontgomeryDavid Montgomery
-David Montgomery
-Det
-RB
-67.1
-+4.6
-8.7
-+1.4
-93.2
-61
-Calvin RidleyCalvin Ridley
-Calvin Ridley
-Ten
-WR
-71.2
-+1.2
-9.3
-+1.0
-91.2
-62
-DeVonta SmithDeVonta Smith
-DeVonta Smith
-Phi
-WR
-71.6
--0.5
-9.1
-+0.7
-92.3
-63
-George PickensGeorge Pickens
-George Pickens
-Dal
-WR
-75.0
-+2.9
-8.9
-+1.4
-91.7
-64
-Jaylen WaddleJaylen Waddle
-Jaylen Waddle
-Mia
-WR
-75.2
-+5.3
-7.8
-+0.8
-90.6
-65
-Jerry JeudyJerry Jeudy
-Jerry Jeudy
-Cle
-WR
-75.8
-+4.1
-6.7
-+0.5
-91.1
-66
-Isiah PachecoIsiah Pacheco
-Isiah Pacheco
+22.3
+0.0
+33.2
+0.0
+99.2
+21
+Kenneth Walker IIIKenneth Walker III
+Kenneth Walker III
 KC
 RB
-75.9
-+8.6
-8.6
-+2.7
-90.4
-67
-Jameson WilliamsJameson Williams
-Jameson Williams
-Det
-WR
-76.2
-+3.4
-8.3
-+1.3
-90.6
-68
-Bo NixBo Nix
-Bo Nix
-Den
-QB
-76.2
-+2.9
-7.0
-+1.8
-92.1
-69
-Aaron Jones Sr.Aaron Jones Sr.
-Aaron Jones Sr.
-Min
-RB
-77.7
-+5.0
-7.2
-+1.0
-89.9
-70
-David NjokuDavid Njoku
-David Njoku
-Cle
-TE
-79.1
-+1.8
-3.9
-+0.5
-92.8
-71
-Mark AndrewsMark Andrews
-Mark Andrews
-Bal
-TE
-79.6
-+1.3
-4.4
-+0.4
-92.4
-72
-Travis HunterTravis Hunter
-Travis Hunter
-Jax
-WR
-80.2
--4.4
-7.0
+23.4
 +0.2
-93.2
-73
-Tony PollardTony Pollard
-Tony Pollard
-Ten
-RB
-82.5
-+8.3
-6.9
-+1.9
-87.8
-74
-Tetairoa McMillanTetairoa McMillan
-Tetairoa McMillan
-Car
-WR
-83.5
-+0.7
-7.1
-+0.9
-88.6
-75
-RJ HarveyRJ Harvey
-RJ Harvey
-Den
-RB
-85.1
-+7.0
-7.7
-+1.8
-87.7
-76
-Rome OdunzeRome Odunze
-Rome Odunze
-Chi
-WR
-86.6
-+4.1
-5.6
-+0.9
-87.5
-77
-Kyler MurrayKyler Murray
-Kyler Murray
-Ari
-QB
-89.3
-+3.3
-4.9
-+1.4
-88.3
-78
-Evan EngramEvan Engram
-Evan Engram
-Den
-TE
-89.9
-+3.2
-3.7
-+0.6
-88.6
-79
-Brock PurdyBrock Purdy
-Brock Purdy
-SF
-QB
-91.3
-+3.4
-4.2
-+1.0
-87.5
-80
-Cooper KuppCooper Kupp
-Cooper Kupp
-Sea
-WR
-92.6
-+0.8
-4.3
-+0.1
-88.4
-81
-Jakobi MeyersJakobi Meyers
-Jakobi Meyers
+32.0
++0.2
+99.3
+22
+Brock BowersBrock Bowers
+Brock Bowers
 LV
-WR
-94.3
-+4.0
-4.1
-+0.6
-85.8
-82
-Tyrone Tracy Jr.Tyrone Tracy Jr.
-Tyrone Tracy Jr.
-NYG
+TE
+24.0
+0.0
+30.5
+-0.2
+99.8
+23
+Chase BrownChase Brown
+Chase Brown
+CIN
 RB
-94.9
-+7.7
-4.5
-+1.2
-85.3
-83
-Matthew GoldenMatthew Golden
-Matthew Golden
-GB
+24.0
++0.2
+33.2
+0.0
+98.9
+24
+A.J. BrownA.J. Brown
+A.J. Brown
+NE
 WR
-96.0
-+4.4
-4.6
-+1.3
-86.3
-84
+27.2
+-0.1
+28.5
+-0.1
+99.4
+25
+Nico CollinsNico Collins
+Nico Collins
+HOU
+WR
+27.7
+0.0
+28.1
+0.0
+99.4
+26
+Omarion HamptonOmarion Hampton
+Omarion Hampton
+LAC
+RB
+27.8
+-0.4
+31.8
+-0.4
+99.0
+27
+George PickensGeorge Pickens
+George Pickens
+DAL
+WR
+29.6
+-0.2
+25.9
+-0.4
+99.6
+28
+Breece HallBreece Hall
+Breece Hall
+Q
+NYJ
+RB
+31.7
++0.4
+25.9
++0.2
+98.2
+29
+Josh JacobsJosh Jacobs
+Josh Jacobs
+Q
+GB
+RB
+34.0
+-0.7
+24.4
+-0.4
+98.9
+30
 Chris OlaveChris Olave
 Chris Olave
 NO
 WR
-98.0
-+6.4
-3.8
-+0.7
-85.1
-85
-Stefon DiggsStefon Diggs
-Stefon Diggs
-NE
-WR
-98.2
-+0.3
-3.9
-+0.2
-86.5
-86
-Steelers D/STSteelers D/ST
-Steelers D/ST
-Pit
-D/ST
-100.3
--3.3
-2.6
-0.0
-98.4
-87
-Joe MixonJoe Mixon
-Joe Mixon
-O
-Hou
-RB
-100.9
--20.4
-4.3
--3.6
-90.0
-88
-Jaylen WarrenJaylen Warren
-Jaylen Warren
-Pit
-RB
-101.0
-+8.6
-3.3
-+1.0
-83.2
-89
-Chris GodwinChris Godwin
-Chris Godwin
-O
-TB
-WR
-102.0
-+0.5
-3.4
-0.0
-83.7
-90
-Justin HerbertJustin Herbert
-Justin Herbert
-LAC
-QB
-103.6
-+3.3
-3.5
-+1.1
-84.6
-91
-Texans D/STTexans D/ST
-Texans D/ST
-Hou
-D/ST
-103.7
--5.0
-2.1
--0.1
-97.5
-92
-Broncos D/STBroncos D/ST
-Broncos D/ST
-Den
-D/ST
-104.3
--3.8
-3.0
--0.1
-98.5
-93
-Kaleb JohnsonKaleb Johnson
-Kaleb Johnson
-Pit
-RB
-105.2
--4.8
-4.0
--0.5
-84.6
-94
-Deebo SamuelDeebo Samuel
-Deebo Samuel
-Wsh
-WR
-107.3
-+2.6
-3.5
-+0.8
-84.2
-95
-Tyler WarrenTyler Warren
-Tyler Warren
-Ind
-TE
-108.0
-+20.2
-3.3
-+1.5
-80.1
-96
-Michael Pittman Jr.Michael Pittman Jr.
-Michael Pittman Jr.
-Ind
-WR
-110.2
-+15.4
-2.6
-+1.2
-79.5
-97
-Jake BatesJake Bates
-Jake Bates
-Det
-K
-110.6
--3.8
-2.1
-+0.2
-98.7
-98
-J.K. DobbinsJ.K. Dobbins
-J.K. Dobbins
-Den
-RB
-111.6
-+4.8
-2.4
+34.8
 +0.4
-78.5
-99
-Dak PrescottDak Prescott
-Dak Prescott
-Dal
-QB
-112.5
-+4.0
-4.1
-+1.5
-78.3
-100
-Emeka EgbukaEmeka Egbuka
-Emeka Egbuka
-TB
-WR
-112.5
-+15.3
-4.5
-+2.4
-82.0
-101
-Brandon AubreyBrandon Aubrey
-Brandon Aubrey
-Dal
-K
-113.9
--3.0
-2.7
-+0.3
-97.4
-102
-Quinshon JudkinsQuinshon Judkins
-Quinshon Judkins
-Cle
-RB
-115.2
-+17.6
-2.6
-+0.8
-76.6
-103
-Ricky PearsallRicky Pearsall
-Ricky Pearsall
-SF
-WR
-115.9
-+4.7
-3.3
-+1.4
-79.7
-104
-Tucker KraftTucker Kraft
-Tucker Kraft
-GB
-TE
-116.2
--5.1
-1.8
+24.4
 +0.1
-82.3
-105
-Jordan AddisonJordan Addison
-Jordan Addison
-Min
+98.4
+31
+Malik NabersMalik Nabers
+Malik Nabers
+Q
+NYG
 WR
-117.1
--5.5
-2.6
-+0.1
-80.6
-106
-Khalil ShakirKhalil Shakir
-Khalil Shakir
-Buf
+36.1
++0.2
+24.0
++0.2
+98.3
+32
+Garrett WilsonGarrett Wilson
+Garrett Wilson
+NYJ
 WR
-118.0
-+1.4
-1.8
-+0.2
-80.1
-107
-Chase McLaughlinChase McLaughlin
-Chase McLaughlin
-TB
-K
-119.0
--2.4
-1.6
-+0.2
-96.8
-108
+36.2
+-0.1
+23.4
+-0.2
+98.2
+33
 Javonte WilliamsJavonte Williams
 Javonte Williams
-Dal
+DAL
 RB
-119.1
--0.1
-2.0
+38.0
 +0.2
-78.5
-109
-Austin EkelerAustin Ekeler
-Austin Ekeler
-Wsh
-RB
-119.8
-+14.9
-2.0
-+0.9
-76.2
-110
-Caleb WilliamsCaleb Williams
-Caleb Williams
-Chi
-QB
-120.1
-+4.9
-2.7
-+1.1
-75.1
-111
-Ravens D/STRavens D/ST
-Ravens D/ST
-Bal
-D/ST
-121.0
--2.4
-2.0
-+0.2
-89.4
-112
-Rhamondre StevensonRhamondre Stevenson
-Rhamondre Stevenson
-NE
-RB
-121.1
-+0.9
-1.7
-+0.2
-77.8
-113
-Colston LovelandColston Loveland
-Colston Loveland
-Chi
-TE
-121.1
-+4.8
-1.9
-+0.5
-78.3
-114
-Keon ColemanKeon Coleman
-Keon Coleman
-Buf
-WR
-122.1
-+0.6
-1.8
-+0.3
-79.0
-115
-Jauan JenningsJauan Jennings
-Jauan Jennings
-SF
-WR
-122.9
--0.7
-1.8
-+0.2
-79.1
-116
-Vikings D/STVikings D/ST
-Vikings D/ST
-Min
-D/ST
-123.7
--3.5
-1.7
+23.3
 0.0
-94.0
-117
-Cameron DickerCameron Dicker
-Cameron Dicker
-LAC
-K
-123.9
--2.3
-1.8
+97.8
+34
+Lamar JacksonLamar Jackson
+Lamar Jackson
+BAL
+QB
+38.8
+0.0
+15.9
+0.0
+99.6
+35
+DeVonta SmithDeVonta Smith
+DeVonta Smith
+Q
+PHI
+WR
+39.4
+-0.2
+19.6
+-0.1
+98.6
+36
+Zay FlowersZay Flowers
+Zay Flowers
+BAL
+WR
+42.1
 +0.1
-96.4
-118
-Justin FieldsJustin Fields
-Justin Fields
-NYJ
-QB
-124.1
--0.3
-2.4
-+0.5
-73.6
-119
-Jared GoffJared Goff
-Jared Goff
-Det
-QB
-125.6
-+1.9
-2.7
-+0.8
-71.5
-120
-Travis Etienne Jr.Travis Etienne Jr.
-Travis Etienne Jr.
-Jax
+18.9
+-0.1
+97.9
+37
+Tetairoa McMillanTetairoa McMillan
+Tetairoa McMillan
+CAR
+WR
+42.5
+0.0
+19.1
+-0.1
+97.9
+38
+Kyren WilliamsKyren Williams
+Kyren Williams
+LAR
 RB
-126.2
-+2.9
-2.1
-+0.5
-76.6
-121
+43.2
+-0.1
+20.5
+-0.1
+97.4
+39
 Cam SkatteboCam Skattebo
 Cam Skattebo
 NYG
 RB
-126.5
--4.1
-1.9
-0.0
-77.3
-122
-Keenan AllenKeenan Allen
-Keenan Allen
-LAC
+43.5
+-0.2
+18.4
+-0.1
+98.0
+40
+Emeka EgbukaEmeka Egbuka
+Emeka Egbuka
+Q
+TB
 WR
-128.1
-+1.0
-1.5
-+0.2
-66.5
-123
-Brian Robinson Jr.Brian Robinson Jr.
-Brian Robinson Jr.
-SF
-RB
-130.6
--25.0
-2.0
--1.2
-74.7
-124
-Eagles D/STEagles D/ST
-Eagles D/ST
-Phi
-D/ST
-132.3
--3.4
-1.6
-+0.1
-85.9
-125
-Dallas GoedertDallas Goedert
-Dallas Goedert
-Phi
+45.0
+-0.3
+18.2
+-0.1
+97.3
+41
+Colston LovelandColston Loveland
+Colston Loveland
+CHI
 TE
-133.8
--8.3
-1.1
+45.3
 0.0
-73.8
-126
-Jayden ReedJayden Reed
-Jayden Reed
-GB
-WR
-134.1
--2.2
-1.3
-+0.2
-72.0
-127
-Dalton KincaidDalton Kincaid
-Dalton Kincaid
-Buf
+13.6
+0.0
+99.2
+42
+Tyler WarrenTyler Warren
+Tyler Warren
+Q
+IND
 TE
-136.3
-+0.2
-1.2
-+0.1
-70.1
-128
-Jacory Croskey-MerrittJacory Croskey-Merritt
-Jacory Croskey-Merritt
-Wsh
-RB
-137.1
-+33.1
-2.7
-+2.6
-47.8
-129
-Jordan MasonJordan Mason
-Jordan Mason
-Min
-RB
-137.8
-+4.3
-2.1
-+0.6
-65.9
-130
-Rashid ShaheedRashid Shaheed
-Rashid Shaheed
-NO
-WR
-138.0
-+0.5
-1.1
-+0.1
-69.4
-131
+47.2
+-0.2
+13.0
+0.0
+99.0
+43
 Drake MayeDrake Maye
 Drake Maye
 NE
 QB
-138.2
-+1.2
-2.2
-+0.7
-62.3
-132
-Tank BigsbyTank Bigsby
-Tank Bigsby
-Jax
+47.4
+0.0
+12.1
+0.0
+99.0
+44
+Davante AdamsDavante Adams
+Davante Adams
+LAR
+WR
+47.5
++0.1
+15.7
+0.0
+97.8
+45
+Travis Etienne Jr.Travis Etienne Jr.
+Travis Etienne Jr.
+NO
 RB
-139.1
-+2.4
-1.5
-+0.3
-68.5
-133
-J.J. McCarthyJ.J. McCarthy
-J.J. McCarthy
-Min
+48.3
++0.4
+17.1
++0.2
+95.9
+46
+Jayden DanielsJayden Daniels
+Jayden Daniels
+WSH
 QB
-139.3
-+0.6
-2.1
-+0.6
-64.5
-134
+50.8
+0.0
+11.1
+-0.1
+98.5
+47
+Jalen HurtsJalen Hurts
+Jalen Hurts
+PHI
+QB
+52.3
++0.1
+10.4
+0.0
+97.4
+48
+Ladd McConkeyLadd McConkey
+Ladd McConkey
+LAC
+WR
+52.7
++0.1
+15.2
++0.1
+95.5
+49
+Quinshon JudkinsQuinshon Judkins
+Quinshon Judkins
+Q
+CLE
+RB
+54.7
+0.0
+15.9
+0.0
+94.5
+50
+Bucky IrvingBucky Irving
+Bucky Irving
+TB
+RB
+56.0
++0.1
+14.6
+-0.2
+94.6
+51
+Tee HigginsTee Higgins
+Tee Higgins
+CIN
+WR
+58.0
++0.1
+12.6
+0.0
+95.4
+52
+Joe BurrowJoe Burrow
+Joe Burrow
+CIN
+QB
+60.0
+0.0
+9.0
+0.0
+96.2
+53
+Jaylen WaddleJaylen Waddle
+Jaylen Waddle
+DEN
+WR
+60.4
++0.1
+11.7
+0.0
+94.3
+54
+Terry McLaurinTerry McLaurin
+Terry McLaurin
+WSH
+WR
+61.9
++0.1
+11.8
+0.0
+93.9
+55
+Sam LaPortaSam LaPorta
+Sam LaPorta
+DET
+TE
+65.6
++0.1
+6.1
++0.1
+94.6
+56
 Kyle Pitts Sr.Kyle Pitts Sr.
 Kyle Pitts Sr.
-Atl
+ATL
 TE
-139.4
--0.8
-1.3
-+0.2
-63.0
-135
-Seahawks D/STSeahawks D/ST
-Seahawks D/ST
-Sea
-D/ST
-139.4
--0.7
-1.1
-+0.1
-78.3
-136
-Lions D/STLions D/ST
-Lions D/ST
-Det
-D/ST
-139.5
--2.2
-1.2
-+0.1
-80.0
-137
-Darnell MooneyDarnell Mooney
-Darnell Mooney
-Atl
-WR
-140.2
--1.5
-1.0
+65.9
+-0.1
+6.2
 0.0
-65.3
-138
-Jordan LoveJordan Love
-Jordan Love
-GB
-QB
-140.4
--1.3
-2.1
-+0.6
-59.5
-139
-Jake FergusonJake Ferguson
-Jake Ferguson
-Dal
-TE
-140.9
-+4.8
-1.0
-+0.1
-60.2
-140
-Jayden HigginsJayden Higgins
-Jayden Higgins
-Hou
+95.0
+57
+DJ MooreDJ Moore
+DJ Moore
+Q
+BUF
 WR
-141.2
+67.2
++0.5
+9.5
++0.2
+91.9
+58
+Jameson WilliamsJameson Williams
+Jameson Williams
+DET
+WR
+68.5
 -0.2
-1.1
-+0.1
-65.1
-141
-Josh DownsJosh Downs
-Josh Downs
-Ind
-WR
-141.3
--1.9
-1.1
-+0.1
-58.1
-142
-C.J. StroudC.J. Stroud
-C.J. Stroud
-Hou
-QB
-141.6
-+2.0
-2.3
-+0.9
-56.8
-143
-Jake ElliottJake Elliott
-Jake Elliott
-Phi
-K
-143.1
--1.2
-1.2
-+0.1
-83.7
-144
-Tyjae SpearsTyjae Spears
-Tyjae Spears
-Ten
-RB
-145.4
-+0.5
-1.0
-+0.1
-61.7
-145
-Zach CharbonnetZach Charbonnet
-Zach Charbonnet
-Sea
-RB
-145.5
-+7.3
-1.7
-+0.7
-61.2
-146
-Chris BoswellChris Boswell
-Chris Boswell
-Pit
-K
-147.1
--3.1
-1.0
+9.5
 -0.1
-76.9
-147
-Jason SandersJason Sanders
-Jason Sanders
-Mia
-K
-149.5
--1.9
-0.9
-0.0
-78.7
-148
-Harrison ButkerHarrison Butker
-Harrison Butker
-KC
-K
-150.2
--1.5
-1.1
-+0.2
-69.6
-149
-Patriots D/STPatriots D/ST
-Patriots D/ST
-NE
-D/ST
-150.5
--1.4
-0.9
-0.0
-75.5
-150
-Rachaad WhiteRachaad White
-Rachaad White
-TB
+93.0
+59
+D'Andre SwiftD'Andre Swift
+D'Andre Swift
+CHI
 RB
-151.1
--2.3
-0.9
-0.0
-59.9
-151
-Bills D/STBills D/ST
-Bills D/ST
-Buf
-D/ST
-151.6
--1.7
-1.0
-+0.1
-59.6
-152
-Tyler BassTyler Bass
-Tyler Bass
-Buf
-K
-152.8
--1.2
-0.9
-+0.1
+69.3
++0.5
+9.1
++0.2
+91.0
+60
+Rome OdunzeRome Odunze
+Rome Odunze
+CHI
+WR
+69.4
++0.6
+9.1
++0.2
+91.7
+61
+Carnell TateCarnell Tate
+Carnell Tate
+Q
+TEN
+WR
 74.2
-153
-Adam ThielenAdam Thielen
-Adam Thielen
-Car
-WR
-153.2
-+1.6
-0.7
-+0.1
-49.6
-154
-Nick ChubbNick Chubb
-Nick Chubb
-Hou
-RB
-154.0
-+9.1
-1.0
-+0.6
-53.7
-155
-Trey BensonTrey Benson
-Trey Benson
-Ari
-RB
-155.7
-+1.1
-0.9
-+0.1
-43.3
-156
-Cam LittleCam Little
-Cam Little
-Jax
-K
-156.6
--3.4
-0.7
-0.0
-36.3
-157
-Hunter HenryHunter Henry
-Hunter Henry
-NE
-TE
-157.5
-+1.8
-0.5
-+0.1
-33.0
-158
-Jaydon BlueJaydon Blue
-Jaydon Blue
-Dal
-RB
-158.1
-+4.9
-0.9
-+0.4
-37.4
-159
-Zach ErtzZach Ertz
-Zach Ertz
-Wsh
-TE
-158.3
-+1.9
-0.4
-+0.1
-30.6
-160
-Xavier LegetteXavier Legette
-Xavier Legette
-Car
-WR
-158.3
-+0.9
-0.6
-0.0
-39.4
-161
-Brandon AiyukBrandon Aiyuk
-Brandon Aiyuk
-O
-SF
-WR
-159.7
-+0.7
-0.7
-+0.2
-39.5
-162
-Braelon AllenBraelon Allen
-Braelon Allen
-NYJ
-RB
-160.7
-+3.7
-0.8
-+0.4
-26.8
-163
-Tua TagovailoaTua Tagovailoa
-Tua Tagovailoa
-Mia
-QB
-160.9
-+1.5
-0.9
-+0.4
-25.6
-164
-Tyler AllgeierTyler Allgeier
-Tyler Allgeier
-Atl
-RB
-161.4
-+1.5
-0.7
-+0.1
-33.2
-165
-Matthew StaffordMatthew Stafford
-Matthew Stafford
-LAR
-QB
-162.8
-+0.8
-0.7
-+0.4
-23.3
-166
-Marvin Mims Jr.Marvin Mims Jr.
-Marvin Mims Jr.
-Den
-WR
-163.1
-+2.0
-0.6
-+0.3
-31.5
-167
-Cedric TillmanCedric Tillman
-Cedric Tillman
-Cle
-WR
-163.1
-+0.3
-0.5
-+0.1
-29.6
-168
-Cam WardCam Ward
-Cam Ward
-Ten
-QB
-163.5
--0.9
-0.8
-+0.4
-24.5
-169
-Trevor LawrenceTrevor Lawrence
-Trevor Lawrence
-Jax
-QB
-163.6
-+1.4
-1.0
-+0.6
-28.1
-170
-Jerome FordJerome Ford
-Jerome Ford
-Cle
-RB
-164.1
--10.6
-0.5
--0.3
-50.2
-171
-Hollywood BrownHollywood Brown
-Hollywood Brown
-KC
-WR
-164.2
-+0.5
-0.5
-+0.1
-35.0
-172
-Najee HarrisNajee Harris
-Najee Harris
-O
-LAC
-RB
-164.4
--1.3
-0.5
-0.0
-39.9
-173
-Jaylen WrightJaylen Wright
-Jaylen Wright
-Mia
-RB
-165.1
-+1.8
-0.5
-+0.3
-18.7
-174
-Tyler LoopTyler Loop
-Tyler Loop
-Bal
-K
-165.9
--0.7
-0.5
-+0.1
-41.0
-175
-Matt GayMatt Gay
-Matt Gay
-Wsh
-K
-165.9
--0.8
-0.4
-+0.1
-28.2
-176
-Michael Penix Jr.Michael Penix Jr.
-Michael Penix Jr.
-Atl
-QB
-166.2
-+0.2
-0.8
-+0.4
-16.4
-177
-Rashod BatemanRashod Bateman
-Rashod Bateman
-Bal
-WR
-166.3
-+0.2
-0.3
-+0.2
-21.7
-178
-Christian KirkChristian Kirk
-Christian Kirk
-Hou
-WR
-166.5
-+2.3
-0.4
-+0.2
-19.0
-179
-Colts D/STColts D/ST
-Colts D/ST
-Ind
-D/ST
-166.5
--1.5
-0.4
-0.0
-27.4
-180
-Wan'Dale RobinsonWan'Dale Robinson
-Wan'Dale Robinson
-NYG
-WR
-166.6
-+0.7
-0.3
-+0.1
-19.9
-181
-Jonnu SmithJonnu Smith
-Jonnu Smith
-Pit
-TE
-166.8
--1.2
-0.2
-+0.1
-29.0
-182
-Ka'imi FairbairnKa'imi Fairbairn
-Ka'imi Fairbairn
-Hou
-K
-166.8
 -1.0
-0.4
-+0.1
-33.9
-183
-Chiefs D/STChiefs D/ST
-Chiefs D/ST
-KC
-D/ST
-166.9
--0.8
-0.2
-0.0
-16.5
-184
-49ers D/ST49ers D/ST
-49ers D/ST
-SF
-D/ST
-167.0
--0.6
-0.2
-+0.1
-15.7
-185
-Luther Burden IIILuther Burden III
-Luther Burden III
-Chi
-WR
-167.2
-+0.4
-0.3
-+0.2
-20.3
-186
-Cairo SantosCairo Santos
-Cairo Santos
-Chi
-K
-167.3
--1.3
-0.4
-0.0
-33.8
-187
-Darren WallerDarren Waller
-Darren Waller
-Mia
-TE
-167.5
-+1.4
-0.2
-+0.1
-15.7
-188
-Giants D/STGiants D/ST
-Giants D/ST
-NYG
-D/ST
-167.6
--1.2
-0.2
-0.0
-17.6
-189
-Bryce YoungBryce Young
-Bryce Young
-Car
-QB
-167.8
--0.9
-0.5
-+0.3
-13.6
-190
-Evan McPhersonEvan McPherson
-Evan McPherson
-Cin
-K
-167.9
--0.6
-0.2
-+0.1
-15.9
-191
-Isaac GuerendoIsaac Guerendo
-Isaac Guerendo
-SF
+7.9
+-0.2
+92.1
+62
+David MontgomeryDavid Montgomery
+David Montgomery
+HOU
 RB
-168.0
--0.3
-0.4
+74.5
++0.3
+8.1
 +0.1
-20.6
-192
-Cade OttonCade Otton
-Cade Otton
-TB
-TE
-168.0
-+1.6
-0.2
-+0.1
-16.1
-193
-Jets D/STJets D/ST
-Jets D/ST
-NYJ
-D/ST
-168.0
--1.8
-0.3
-0.0
-26.2
-194
-Younghoe KooYounghoe Koo
-Younghoe Koo
-Atl
-K
-168.1
--0.5
-0.1
-0.0
-7.4
-195
-Aaron RodgersAaron Rodgers
-Aaron Rodgers
-Pit
-QB
-168.2
-0.0
-0.3
-+0.1
-7.0
-196
-Shedeur SandersShedeur Sanders
-Shedeur Sanders
-Cle
-QB
-168.5
--1.7
-0.2
--0.1
-6.1
-197
-Cowboys D/STCowboys D/ST
-Cowboys D/ST
-Dal
-D/ST
-168.5
--0.5
-0.1
-0.0
-5.8
-198
-Pat FreiermuthPat Freiermuth
-Pat Freiermuth
-Pit
-TE
-168.6
--0.4
-0.1
-0.0
-12.6
-199
-Isaiah LikelyIsaiah Likely
-Isaiah Likely
-Bal
-TE
-168.7
--0.5
-0.1
-0.0
-8.3
-200
-Packers D/STPackers D/ST
-Packers D/ST
-GB
-D/ST
-168.7
--0.7
-0.2
-+0.1
-201
-Sam DarnoldSam Darnold
-Sam Darnold
-Sea
-QB
-168.7
-+0.2
-0.3
-+0.1
-8.2
-202
-Buccaneers D/STBuccaneers D/ST
-Buccaneers D/ST
-TB
-D/ST
-168.7
--0.7
-0.2
-+0.1
-15.6
-203
+90.4
+63
 Jaxson DartJaxson Dart
 Jaxson Dart
 NYG
 QB
-168.8
-+0.1
-0.2
-+0.1
-4.7
-204
-Ray DavisRay Davis
-Ray Davis
-Buf
-RB
-168.9
+76.3
+-0.1
+5.5
 0.0
-0.3
+92.8
+64
+Harold Fannin Jr.Harold Fannin Jr.
+Harold Fannin Jr.
+CLE
+TE
+77.1
 +0.1
-16.9
-205
+5.0
+0.0
+92.0
+65
+Luther Burden IIILuther Burden III
+Luther Burden III
+Q
+CHI
+WR
+77.3
+0.0
+7.8
+0.0
+90.0
+66
 Bhayshul TutenBhayshul Tuten
 Bhayshul Tuten
-Jax
+JAX
 RB
-169.0
-+0.2
-0.4
-+0.3
-22.9
-206
-Bears D/STBears D/ST
-Bears D/ST
-Chi
-D/ST
-169.0
--0.4
-0.1
-0.0
-10.2
-207
-Geno SmithGeno Smith
-Geno Smith
-LV
+77.3
++0.4
+8.4
++0.1
+88.3
+67
+TreVeyon HendersonTreVeyon Henderson
+TreVeyon Henderson
+NE
+RB
+77.4
+-0.7
+7.2
+-0.2
+90.6
+68
+Matthew StaffordMatthew Stafford
+Matthew Stafford
+LAR
 QB
-169.1
-+0.3
-0.4
-+0.2
-7.1
-208
-Jake MoodyJake Moody
-Jake Moody
-SF
-K
-169.2
-+0.1
-0.0
-0.0
-2.5
-209
-Browns D/STBrowns D/ST
-Browns D/ST
-Cle
-D/ST
-169.2
+79.7
 -0.2
-0.0
-0.0
-2.3
-210
-Wil LutzWil Lutz
-Wil Lutz
-Den
-K
-169.2
--0.2
-0.2
-+0.1
-11.6
-211
-Commanders D/STCommanders D/ST
-Commanders D/ST
-Wsh
-D/ST
-169.2
--0.2
-0.1
-+0.1
-11.5
-212
-Daniel CarlsonDaniel Carlson
-Daniel Carlson
-LV
-K
-169.3
-0.0
-0.1
-0.0
-4.3
-213
-Chig OkonkwoChig Okonkwo
-Chig Okonkwo
-Ten
-TE
-169.3
--2.1
-0.1
-0.0
-11.9
-214
-Justin TuckerJustin Tucker
-Justin Tucker
-FA
-K
-169.3
--0.2
-0.1
-+0.1
-1.6
-215
-Will ReichardWill Reichard
-Will Reichard
-Min
-K
-169.3
+4.9
 -0.1
-0.1
-+0.1
-4.7
-216
-Brandon McManusBrandon McManus
-Brandon McManus
-GB
-K
-169.4
--0.4
-0.1
-0.0
-7.3
-217
-Brenton StrangeBrenton Strange
-Brenton Strange
-Jax
-TE
-169.4
+92.3
+69
+Jadarian PriceJadarian Price
+Jadarian Price
+SEA
+RB
+80.6
 +0.3
-0.2
+8.6
 +0.1
-11.5
-218
-Cardinals D/STCardinals D/ST
-Cardinals D/ST
-Ari
-D/ST
-169.5
--0.5
-0.2
-+0.1
-40.0
-219
-Bengals D/STBengals D/ST
-Bengals D/ST
-Cin
-D/ST
-169.5
--0.2
-0.1
-+0.1
-2.8
-220
-Isaac TeSlaaIsaac TeSlaa
-Isaac TeSlaa
-Det
+89.1
+70
+Courtland SuttonCourtland Sutton
+Courtland Sutton
+DEN
 WR
-169.6
+84.3
++0.3
+5.0
 +0.1
-0.1
+88.4
+71
+Brandon AubreyBrandon Aubrey
+Brandon Aubrey
+DAL
+K
+84.7
+-0.1
+5.1
 0.0
-2.3
-221
+99.7
+72
+Texans D/STTexans D/ST
+Texans D/ST
+HOU
+D/ST
+86.2
++0.3
+3.7
+0.0
+98.7
+73
+Dak PrescottDak Prescott
+Dak Prescott
+DAL
+QB
+87.0
++0.1
+5.2
++0.1
+89.0
+74
+DK MetcalfDK Metcalf
+DK Metcalf
+Q
+PIT
+WR
+87.5
+0.0
+4.7
+0.0
+88.9
+75
+Bo NixBo Nix
+Bo Nix
+DEN
+QB
+89.6
++0.1
+4.1
+-0.1
+87.4
+76
+Michael Pittman Jr.Michael Pittman Jr.
+Michael Pittman Jr.
+Q
+PIT
+WR
+90.8
+-0.1
+4.2
+0.0
+87.3
+77
+Marvin Harrison Jr.Marvin Harrison Jr.
+Marvin Harrison Jr.
+ARI
+WR
+90.9
++0.3
+4.6
++0.1
+87.2
+78
+Caleb WilliamsCaleb Williams
+Caleb Williams
+CHI
+QB
+92.3
+0.0
+4.4
+-0.1
+88.2
+79
+Broncos D/STBroncos D/ST
+Broncos D/ST
+DEN
+D/ST
+94.6
+-0.4
+3.1
+-0.1
+98.4
+80
+Mike EvansMike Evans
+Mike Evans
+Q
+SF
+WR
+94.7
++0.3
+4.5
++0.1
+86.5
+81
+Trevor LawrenceTrevor Lawrence
+Trevor Lawrence
+JAX
+QB
+94.9
++0.1
+4.0
+0.0
+86.1
+82
+Tucker KraftTucker Kraft
+Tucker Kraft
+Q
+GB
+TE
+97.2
++0.8
+3.1
++0.1
+86.4
+83
+Alec PierceAlec Pierce
+Alec Pierce
+O
+IND
+WR
+98.6
+-0.4
+4.0
+0.0
+83.8
+84
+Rhamondre StevensonRhamondre Stevenson
+Rhamondre Stevenson
+NE
+RB
+99.0
++2.4
+3.5
++0.3
+83.0
+85
+Parker WashingtonParker Washington
+Parker Washington
+Q
+JAX
+WR
+99.6
++0.5
+3.7
++0.1
+83.1
+86
+George KittleGeorge Kittle
+George Kittle
+O
+SF
+TE
+99.7
+-0.3
+2.8
+-0.1
+87.6
+87
+Travis KelceTravis Kelce
+Travis Kelce
+KC
+TE
+100.2
++0.3
+2.5
++0.1
+87.2
+88
+Tony PollardTony Pollard
+Tony Pollard
+TEN
+RB
+100.4
+-1.8
+3.9
+-0.2
+85.2
+89
+Dallas GoedertDallas Goedert
+Dallas Goedert
+PHI
+TE
+100.9
++0.1
+1.9
+0.0
+87.6
+90
 Rams D/STRams D/ST
 Rams D/ST
 LAR
 D/ST
-169.6
+101.1
+-0.5
+3.4
+-0.1
+94.9
+91
+Christian WatsonChristian Watson
+Christian Watson
+GB
+WR
+101.3
++0.4
+3.4
++0.1
+84.0
+92
+Jaylen WarrenJaylen Warren
+Jaylen Warren
+PIT
+RB
+103.3
++0.3
+3.0
++0.1
+84.5
+93
+Brock PurdyBrock Purdy
+Brock Purdy
+SF
+QB
+104.8
++0.1
+3.3
++0.1
+83.5
+94
+Cameron DickerCameron Dicker
+Cameron Dicker
+LAC
+K
+105.1
+0.0
+2.2
+0.0
+99.2
+95
+Brian Thomas Jr.Brian Thomas Jr.
+Brian Thomas Jr.
+JAX
+WR
+106.5
++0.2
+2.7
+0.0
+83.0
+96
+Michael WilsonMichael Wilson
+Michael Wilson
+ARI
+WR
+106.9
++0.2
+2.6
+0.0
+82.1
+97
+Matthew GoldenMatthew Golden
+Matthew Golden
+GB
+WR
+107.1
++0.3
+2.3
+0.0
+81.9
+98
+Seahawks D/STSeahawks D/ST
+Seahawks D/ST
+SEA
+D/ST
+107.5
+-0.1
+2.4
+0.0
+97.2
+99
+Justin HerbertJustin Herbert
+Justin Herbert
+LAC
+QB
+109.0
++0.1
+3.5
+0.0
+85.8
+100
+Rico DowdleRico Dowdle
+Rico Dowdle
+PIT
+RB
+109.1
++0.4
+2.3
+0.0
+83.6
+101
+Patrick MahomesPatrick Mahomes
+Patrick Mahomes
+Q
+KC
+QB
+109.3
++0.1
+3.8
+0.0
+84.3
+102
+Jake FergusonJake Ferguson
+Jake Ferguson
+DAL
+TE
+112.5
+0.0
+1.9
+0.0
+84.5
+103
+Steelers D/STSteelers D/ST
+Steelers D/ST
+PIT
+D/ST
+115.1
+0.0
+1.5
+0.0
+94.5
+104
+Jakobi MeyersJakobi Meyers
+Jakobi Meyers
+JAX
+WR
+115.8
++0.7
+1.7
++0.1
+79.8
+105
+Jason MyersJason Myers
+Jason Myers
+SEA
+K
+116.0
+-0.1
+1.7
+0.0
+97.4
+106
+Jordyn TysonJordyn Tyson
+Jordyn Tyson
+D
+NO
+WR
+116.7
+-6.7
+2.5
 -0.4
+76.0
+107
+Wan'Dale RobinsonWan'Dale Robinson
+Wan'Dale Robinson
+TEN
+WR
+117.9
++0.3
+1.8
+0.0
+79.5
+108
+Chuba HubbardChuba Hubbard
+Chuba Hubbard
+Q
+CAR
+RB
+118.4
+-0.7
+1.8
+0.0
+82.1
+109
+Travis HunterTravis Hunter
+Travis Hunter
+JAX
+WR, CB
+119.3
+-0.3
+1.5
+0.0
+72.3
+110
+Jordan AddisonJordan Addison
+Jordan Addison
+MIN
+WR
+121.6
++0.7
+1.7
+0.0
+77.6
+111
+Josh DownsJosh Downs
+Josh Downs
+IND
+WR
+121.8
+-0.7
+1.7
+0.0
+75.8
+112
+Kenny GainwellKenny Gainwell
+Kenny Gainwell
+TB
+RB
+122.3
++0.4
+1.6
++0.1
+79.0
+113
+J.K. DobbinsJ.K. Dobbins
+J.K. Dobbins
+DEN
+RB
+122.7
++0.5
+1.9
++0.1
+79.1
+114
+Mark AndrewsMark Andrews
+Mark Andrews
+BAL
+TE
+123.1
+0.0
+1.3
+0.0
+79.4
+115
+Jonathon BrooksJonathon Brooks
+Jonathon Brooks
+CAR
+RB
+125.3
++0.9
+2.1
++0.1
+75.0
+116
+Khalil ShakirKhalil Shakir
+Khalil Shakir
+BUF
+WR
+127.1
++1.3
+1.3
++0.1
+72.4
+117
+Aaron Jones Sr.Aaron Jones Sr.
+Aaron Jones Sr.
+MIN
+RB
+129.7
+-1.0
+1.4
+0.0
+78.0
+118
+Isaiah LikelyIsaiah Likely
+Isaiah Likely
+NYG
+TE
+130.0
++0.1
+1.5
+0.0
+77.4
+119
+Harrison MevisHarrison Mevis
+Harrison Mevis
+LAR
+K
+130.4
+0.0
+1.3
+0.0
+92.0
+120
+Kyle MonangaiKyle Monangai
+Kyle Monangai
+Q
+CHI
+RB
+130.5
++0.5
+1.5
+0.0
+76.1
+121
+Stefon DiggsStefon Diggs
+Stefon Diggs
+WSH
+WR
+131.0
++0.3
+1.8
+0.0
+66.2
+122
+Ravens D/STRavens D/ST
+Ravens D/ST
+BAL
+D/ST
+131.7
+-0.1
+1.2
+0.0
+86.3
+123
+Rachaad WhiteRachaad White
+Rachaad White
+Q
+WSH
+RB
+132.7
+-0.7
+1.3
+0.0
+74.7
+124
+Ka'imi FairbairnKa'imi Fairbairn
+Ka'imi Fairbairn
+HOU
+K
+133.2
+0.0
+1.5
+0.0
+91.4
+125
+T.J. HockensonT.J. Hockenson
+T.J. Hockenson
+MIN
+TE
+133.6
+0.0
+1.0
+0.0
+70.1
+126
+Eagles D/STEagles D/ST
+Eagles D/ST
+PHI
+D/ST
+134.8
+0.0
+1.2
+0.0
+84.7
+127
+Dalton KincaidDalton Kincaid
+Dalton Kincaid
+BUF
+TE
+135.2
++0.4
+1.2
+0.0
+65.8
+128
+RJ HarveyRJ Harvey
+RJ Harvey
+DEN
+RB
+135.7
+-1.0
+1.4
+0.0
+75.0
+129
+Xavier WorthyXavier Worthy
+Xavier Worthy
+Q
+KC
+WR
+136.5
++0.9
+1.2
+0.0
+71.4
+130
+Jayden ReedJayden Reed
+Jayden Reed
+GB
+WR
+137.0
++1.4
+1.2
+0.0
+68.2
+131
+Deebo Samuel Sr.Deebo Samuel Sr.
+Deebo Samuel Sr.
+SF
+WR
+137.1
++0.5
+1.2
+0.0
+66.6
+132
+Cam LittleCam Little
+Cam Little
+JAX
+K
+137.3
+-0.3
+1.2
+0.0
+86.7
+133
+Jacory Croskey-MerrittJacory Croskey-Merritt
+Jacory Croskey-Merritt
+WSH
+RB
+137.4
++1.1
+1.3
++0.1
+68.6
+134
+Makai LemonMakai Lemon
+Makai Lemon
+Q
+PHI
+WR
+138.0
+-2.2
+1.5
+-0.1
+76.1
+135
+Jared GoffJared Goff
+Jared Goff
+DET
+QB
+138.9
++0.1
+1.8
++0.1
+62.7
+136
+Blake CorumBlake Corum
+Blake Corum
+LAR
+RB
+140.8
++0.3
+1.5
+0.0
+72.1
+137
+Kenyon SadiqKenyon Sadiq
+Kenyon Sadiq
+Q
+NYJ
+TE
+140.9
+-0.7
+1.0
+0.0
+68.4
+138
+Quentin JohnstonQuentin Johnston
+Quentin Johnston
+Q
+LAC
+WR
+141.6
++0.7
+1.3
+0.0
+70.4
+139
+Hunter HenryHunter Henry
+Hunter Henry
+NE
+TE
+143.0
+-0.1
+0.9
+0.0
+57.9
+140
+Kyler MurrayKyler Murray
+Kyler Murray
+MIN
+QB
+147.6
++0.2
+1.6
+0.0
+54.9
+141
+Harrison ButkerHarrison Butker
+Harrison Butker
+KC
+K
+147.6
+0.0
+0.9
+0.0
+74.3
+142
+Chris Godwin Jr.Chris Godwin Jr.
+Chris Godwin Jr.
+TB
+WR
+147.7
++0.4
+1.3
+0.0
+68.7
+143
+Eddy PineiroEddy Pineiro
+Eddy Pineiro
+SF
+K
+148.8
+0.0
+0.9
+0.0
+79.6
+144
+Baker MayfieldBaker Mayfield
+Baker Mayfield
+TB
+QB
+148.9
+0.0
+1.2
+0.0
+46.8
+145
+Patriots D/STPatriots D/ST
+Patriots D/ST
+NE
+D/ST
+149.3
+-0.2
+0.9
+0.0
+72.2
+146
+Jordan MasonJordan Mason
+Jordan Mason
+MIN
+RB
+149.5
++1.5
+1.1
++0.1
+53.8
+147
+KC ConcepcionKC Concepcion
+KC Concepcion
+CLE
+WR
+150.4
++0.4
+1.1
+0.0
+62.3
+148
+Lions D/STLions D/ST
+Lions D/ST
+DET
+D/ST
+151.6
+-0.1
+0.8
+0.0
+65.4
+149
+Woody MarksWoody Marks
+Woody Marks
+HOU
+RB
+152.7
+0.0
+0.9
+0.0
+58.0
+150
+Romeo DoubsRomeo Doubs
+Romeo Doubs
+NE
+WR
+153.2
++0.1
+0.9
+0.0
+151
+Browns D/STBrowns D/ST
+Browns D/ST
+CLE
+D/ST
+153.4
+-0.1
+0.8
+0.0
+58.8
+152
+Zach CharbonnetZach Charbonnet
+Zach Charbonnet
+O
+SEA
+RB
+154.4
+-0.7
+1.0
+0.0
+56.9
+153
+Jake BatesJake Bates
+Jake Bates
+DET
+K
+155.1
+-0.1
+0.8
+0.0
+70.2
+154
+Tyler ShoughTyler Shough
+Tyler Shough
+NO
+QB
+155.7
+-0.1
+1.1
+0.0
+40.9
+155
+Alvin KamaraAlvin Kamara
+Alvin Kamara
+Q
+NO
+RB
+157.0
+-0.4
+0.6
+0.0
+46.3
+156
+Rashid ShaheedRashid Shaheed
+Rashid Shaheed
+SEA
+WR
+158.8
++0.5
+0.5
++0.1
+37.6
+157
+Jordan LoveJordan Love
+Jordan Love
+GB
+QB
+159.3
+0.0
+0.8
+0.0
+28.0
+158
+Daniel JonesDaniel Jones
+Daniel Jones
+IND
+QB
+159.5
+0.0
+0.8
+0.0
+29.7
+159
+Isiah PachecoIsiah Pacheco
+Isiah Pacheco
+Q
+DET
+RB
+160.2
+-0.5
+0.6
+0.0
+43.0
+160
+Jayden HigginsJayden Higgins
+Jayden Higgins
+D
+HOU
+WR
+160.2
+-0.5
+0.7
+0.0
+32.7
+161
+Jalen CokerJalen Coker
+Jalen Coker
+CAR
+WR
+161.2
+0.0
+0.7
+0.0
+36.8
+162
+De'Zhaun StriblingDe'Zhaun Stribling
+De'Zhaun Stribling
+SF
+WR
+161.5
++1.5
+0.7
++0.1
+25.1
+163
+Chris BoswellChris Boswell
+Chris Boswell
+PIT
+K
+162.4
+-0.1
+0.3
+0.0
+38.2
+164
+Sam DarnoldSam Darnold
+Sam Darnold
+SEA
+QB
+162.5
+0.0
+0.6
+0.0
+19.1
+165
+Chiefs D/STChiefs D/ST
+Chiefs D/ST
+KC
+D/ST
+163.0
+-0.1
+0.5
+0.0
+34.6
+166
+Chargers D/STChargers D/ST
+Chargers D/ST
+LAC
+D/ST
+163.3
+0.0
+0.5
+0.0
+47.2
+167
+Tyler LoopTyler Loop
+Tyler Loop
+BAL
+K
+163.7
+-0.1
+0.6
+0.0
+49.1
+168
+Jerry JeudyJerry Jeudy
+Jerry Jeudy
+CLE
+WR
+164.1
+-0.4
+0.4
+0.0
+27.8
+169
+Juwan JohnsonJuwan Johnson
+Juwan Johnson
+NO
+TE
+164.2
++0.1
+0.3
+0.0
+26.3
+170
+Tyjae SpearsTyjae Spears
+Tyjae Spears
+TEN
+RB
+165.5
++0.6
+0.3
+0.0
+32.9
+171
+C.J. StroudC.J. Stroud
+C.J. Stroud
+HOU
+QB
+166.1
+0.0
+0.4
+0.0
+17.1
+172
+Terrance FergusonTerrance Ferguson
+Terrance Ferguson
+LAR
+TE
+166.1
++0.1
+0.2
+0.0
+17.6
+173
+Will ReichardWill Reichard
+Will Reichard
+MIN
+K
+166.2
+0.0
+0.4
+0.0
+29.7
+174
+Cowboys D/STCowboys D/ST
+Cowboys D/ST
+DAL
+D/ST
+166.3
++0.1
 0.1
 0.0
-6.0
-222
-Panthers D/STPanthers D/ST
-Panthers D/ST
-Car
+10.0
+175
+Brian Robinson Jr.Brian Robinson Jr.
+Brian Robinson Jr.
+ATL
+RB
+166.4
++0.1
+0.8
+0.0
+17.3
+176
+Tyrone Tracy Jr.Tyrone Tracy Jr.
+Tyrone Tracy Jr.
+NYG
+RB
+166.4
+0.0
+0.2
+0.0
+16.9
+177
+Denzel BostonDenzel Boston
+Denzel Boston
+CLE
+WR
+166.6
++0.1
+0.2
+0.0
+18.8
+178
+Ja'Kobi LaneJa'Kobi Lane
+Ja'Kobi Lane
+BAL
+WR
+166.6
++0.2
+0.2
+0.0
+14.6
+179
+Fernando MendozaFernando Mendoza
+Fernando Mendoza
+LV
+QB
+166.7
+0.0
+0.2
+0.0
+11.9
+180
+Malik WillisMalik Willis
+Malik Willis
+MIA
+QB
+166.9
++0.1
+0.4
+0.0
+14.9
+181
+Chris Rodriguez Jr.Chris Rodriguez Jr.
+Chris Rodriguez Jr.
+JAX
+RB
+167.3
++0.1
+0.4
+0.0
+17.5
+182
+Cairo SantosCairo Santos
+Cairo Santos
+CHI
+K
+167.4
+-0.1
+0.4
+0.0
+32.0
+183
+Jaguars D/STJaguars D/ST
+Jaguars D/ST
+JAX
 D/ST
-169.6
+167.4
+0.0
+0.3
+0.0
+52.5
+184
+Brenton StrangeBrenton Strange
+Brenton Strange
+JAX
+TE
+167.8
+0.0
+0.2
+0.0
+15.8
+185
+Dalton SchultzDalton Schultz
+Dalton Schultz
+HOU
+TE
+167.9
 -0.1
 0.2
 +0.1
-0.7
-223
-Cole KmetCole Kmet
-Cole Kmet
-Chi
+13.4
+186
+Calvin RidleyCalvin Ridley
+Calvin Ridley
+TEN
+WR
+167.9
+0.0
+0.2
+0.0
+20.2
+187
+Jalen McMillanJalen McMillan
+Jalen McMillan
+Q
+TB
+WR
+168.0
+-0.1
+0.2
+0.0
+18.3
+188
+Packers D/STPackers D/ST
+Packers D/ST
+GB
+D/ST
+168.2
+0.0
+0.1
+0.0
+14.8
+189
+Tre TuckerTre Tucker
+Tre Tucker
+LV
+WR
+168.3
+0.0
+0.2
+0.0
+17.3
+190
+Tank BigsbyTank Bigsby
+Tank Bigsby
+PHI
+RB
+168.4
+-0.2
+0.2
+0.0
+15.3
+191
+Vikings D/STVikings D/ST
+Vikings D/ST
+MIN
+D/ST
+168.5
+0.0
+0.2
+0.0
+19.2
+192
+Cam WardCam Ward
+Cam Ward
+TEN
+QB
+168.6
+-0.1
+0.4
+0.0
+10.2
+193
+49ers D/ST49ers D/ST
+49ers D/ST
+SF
+D/ST
+168.6
+0.0
+0.1
+0.0
+7.3
+194
+Tyler AllgeierTyler Allgeier
+Tyler Allgeier
+ARI
+RB
+168.6
++0.3
+0.2
+0.0
+19.4
+195
+Jake ElliottJake Elliott
+Jake Elliott
+PHI
+K
+168.7
+0.0
+0.1
+0.0
+8.2
+196
+Trey SmackTrey Smack
+Trey Smack
+GB
+K
+168.7
++0.1
+0.1
+0.0
+6.8
+197
+Evan McPhersonEvan McPherson
+Evan McPherson
+CIN
+K
+168.8
+0.0
+0.1
+0.0
+14.4
+198
+Tank DellTank Dell
+Tank Dell
+Q
+HOU
+WR
+168.8
++0.5
+0.2
++0.1
+17.6
+199
+Bryce YoungBryce Young
+Bryce Young
+CAR
+QB
+168.8
+-0.1
+0.3
+0.0
+8.3
+200
+Bills D/STBills D/ST
+Bills D/ST
+BUF
+D/ST
+168.8
+0.0
+0.1
+0.0
+201
+Pat FreiermuthPat Freiermuth
+Pat Freiermuth
+PIT
 TE
+168.8
+0.0
+0.2
+0.0
+10.9
+202
+Cooper KuppCooper Kupp
+Cooper Kupp
+SEA
+WR
+168.9
+0.0
+0.2
+0.0
+9.6
+203
+Bears D/STBears D/ST
+Bears D/ST
+CHI
+D/ST
+169.0
+0.0
+0.1
+0.0
+10.2
+204
+AJ BarnerAJ Barner
+AJ Barner
+SEA
+TE
+169.1
+0.0
+0.1
+0.0
+6.3
+205
+Aaron RodgersAaron Rodgers
+Aaron Rodgers
+PIT
+QB
+169.1
+0.0
+0.4
+-0.1
+5.4
+206
+Odell Beckham Jr.Odell Beckham Jr.
+Odell Beckham Jr.
+NYG
+WR
+169.2
+0.0
+0.0
+0.0
+3.1
+207
+Chase McLaughlinChase McLaughlin
+Chase McLaughlin
+TB
+K
+169.3
+0.0
+0.1
+0.0
+16.0
+208
+Giants D/STGiants D/ST
+Giants D/ST
+NYG
+D/ST
+169.4
+0.0
+0.0
+0.0
+3.0
+209
+Matt GayMatt Gay
+Matt Gay
+LV
+K
+169.4
+0.0
+0.0
+0.0
+1.4
+210
+Darnell WashingtonDarnell Washington
+Darnell Washington
+PIT
+TE
+169.4
+0.0
+0.0
+0.0
+1.8
+211
+Dolphins D/STDolphins D/ST
+Dolphins D/ST
+MIA
+D/ST
+169.4
+0.0
+0.0
+0.0
+0.9
+212
+Justin TuckerJustin Tucker
+Justin Tucker
+FA
+K
+169.5
+0.0
+0.0
+0.0
+0.6
+213
+Chig OkonkwoChig Okonkwo
+Chig Okonkwo
+WSH
+TE
+169.5
+0.0
+0.1
+0.0
+8.3
+214
+Shedeur SandersShedeur Sanders
+Shedeur Sanders
+CLE
+QB
+169.5
+0.0
+0.1
+0.0
+2.5
+215
+Tyler BassTyler Bass
+Tyler Bass
+BUF
+K
+169.5
+0.0
+0.0
+0.0
+3.6
+216
+Cyrus AllenCyrus Allen
+Cyrus Allen
+KC
+WR
+169.6
+0.0
+0.1
+0.0
+4.5
+217
+J.J. McCarthyJ.J. McCarthy
+J.J. McCarthy
+MIN
+QB
+169.6
+0.0
+0.1
+0.0
+1.2
+218
+Buccaneers D/STBuccaneers D/ST
+Buccaneers D/ST
+TB
+D/ST
+169.6
+0.0
+0.1
+0.0
+9.9
+219
+Philip RiversPhilip Rivers
+Philip Rivers
+IND
+QB
+169.6
+0.0
+0.0
+0.0
+0.4
+220
+Keenan AllenKeenan Allen
+Keenan Allen
+IND
+WR
+169.6
++0.2
+0.1
+0.0
+10.0
+221
+Commanders D/STCommanders D/ST
+Commanders D/ST
+WSH
+D/ST
 169.6
 0.0
 0.0
 0.0
 1.2
+222
+Wil LutzWil Lutz
+Wil Lutz
+DEN
+K
+169.7
+0.0
+0.1
+0.0
+4.8
+223
+Younghoe KooYounghoe Koo
+Younghoe Koo
+FA
+K
+169.7
+0.0
+0.1
+0.0
+0.4
 224
-Jermar JeffersonJermar Jefferson
-Jermar Jefferson
-Ten
-RB
-169.6
-+0.1
+Cole KmetCole Kmet
+Cole Kmet
+CHI
+TE
+169.7
 0.0
 0.0
-0.2
+0.0
+0.8
 225
 Raiders D/STRaiders D/ST
 Raiders D/ST
@@ -2249,712 +2279,372 @@ LV
 D/ST
 169.7
 0.0
-0.1
 0.0
-1.2
+0.0
+1.8
 226
-Chargers D/STChargers D/ST
-Chargers D/ST
-LAC
-D/ST
-169.7
--0.3
-0.1
-0.0
-3.8
-227
-Dawson KnoxDawson Knox
-Dawson Knox
-Buf
-TE
-169.7
--0.1
-0.0
-0.0
-0.8
-228
-Falcons D/STFalcons D/ST
-Falcons D/ST
-Atl
-D/ST
-169.7
--0.2
-0.1
-+0.1
-1.2
-229
-Graham GanoGraham Gano
-Graham Gano
+Ben SaulsBen Sauls
+Ben Sauls
 NYG
 K
 169.7
--0.1
-0.1
-0.0
-0.8
-230
-Harrison MevisHarrison Mevis
-Harrison Mevis
-NYJ
-K
-169.7
 0.0
 0.0
 0.0
-0.2
-231
-Dalton SchultzDalton Schultz
-Dalton Schultz
-Hou
+0.4
+227
+David NjokuDavid Njoku
+David Njoku
+LAC
 TE
 169.7
--0.4
-0.1
 0.0
-5.1
-232
-Efton Chism IIIEfton Chism III
-Efton Chism III
-NE
+0.0
+0.0
+4.1
+228
+Caleb DouglasCaleb Douglas
+Caleb Douglas
+MIA
 WR
 169.7
 +0.1
+0.1
+0.0
+5.9
+229
+Panthers D/STPanthers D/ST
+Panthers D/ST
+CAR
+D/ST
+169.7
+0.0
+0.1
+0.0
+1.5
+230
+Cardinals D/STCardinals D/ST
+Cardinals D/ST
+ARI
+D/ST
+169.7
 0.0
 0.0
-1.3
+0.0
+0.5
+231
+Lil'Jordan HumphreyLil'Jordan Humphrey
+Lil'Jordan Humphrey
+DEN
+WR
+169.7
+0.0
+0.0
+0.0
+0.3
+232
+Dawson KnoxDawson Knox
+Dawson Knox
+BUF
+TE
+169.7
+0.0
+0.0
+0.0
+0.9
 233
-Kirk CousinsKirk Cousins
-Kirk Cousins
-Atl
-QB
-169.8
+Ryan FitzgeraldRyan Fitzgerald
+Ryan Fitzgerald
+CAR
+K
+169.7
 0.0
 0.0
 0.0
 0.7
 234
-Titans D/STTitans D/ST
-Titans D/ST
-Ten
-D/ST
+Mike Washington Jr.Mike Washington Jr.
+Mike Washington Jr.
+LV
+RB
 169.8
++0.1
+0.1
 0.0
-0.0
-0.0
-0.6
+9.6
 235
-Saints D/STSaints D/ST
-Saints D/ST
-NO
+Bengals D/STBengals D/ST
+Bengals D/ST
+CIN
 D/ST
 169.8
--0.1
 0.0
 0.0
-0.7
+0.0
+2.9
 236
-Russell WilsonRussell Wilson
-Russell Wilson
-NYG
+Carson BeckCarson Beck
+Carson Beck
+Q
+ARI
 QB
 169.8
 0.0
 0.1
-+0.1
-3.2
+0.0
+1.4
 237
-Dustin HopkinsDustin Hopkins
-Dustin Hopkins
-Cle
-K
-169.8
-0.0
-0.0
-0.0
-0.5
-238
-Jahan DotsonJahan Dotson
-Jahan Dotson
-Phi
+Tyreek HillTyreek Hill
+Tyreek Hill
+Q
+FA
 WR
 169.8
 0.0
 0.0
 0.0
-0.5
-239
-Zamir WhiteZamir White
-Zamir White
-LV
-RB
+6.5
+238
+Dominic ZvadaDominic Zvada
+Dominic Zvada
+NYG
+K
 169.8
-+0.1
 0.0
 0.0
-0.3
-240
-Nick FolkNick Folk
-Nick Folk
+0.0
+1.1
+239
+Jason SandersJason Sanders
+Jason Sanders
 NYJ
 K
 169.8
 0.0
 0.0
 0.0
-0.7
-241
-Blake GrupeBlake Grupe
-Blake Grupe
-NO
-K
-169.8
-0.0
-0.0
-0.0
-0.6
-242
-Taysom HillTaysom Hill
-Taysom Hill
-O
-NO
-TE
-169.8
-0.0
-0.0
-0.0
-0.8
-243
-Noah GrayNoah Gray
-Noah Gray
-KC
-TE
-169.8
-0.0
-0.0
-0.0
-0.7
-244
-Andy BorregalesAndy Borregales
-Andy Borregales
-NE
-K
-169.8
--0.1
-0.0
-0.0
 0.9
-245
-Hunter RenfrowHunter Renfrow
-Hunter Renfrow
-Car
-WR
-169.8
--0.1
-0.0
-0.0
-0.9
-246
-Joe FlaccoJoe Flacco
-Joe Flacco
-Cle
+240
+Drew AllarDrew Allar
+Drew Allar
+PIT
 QB
 169.8
 0.0
-0.1
-+0.1
-1.5
-247
-Luke McCaffreyLuke McCaffrey
-Luke McCaffrey
-Wsh
+0.0
+0.0
+0.5
+241
+Jake MoodyJake Moody
+Jake Moody
+FA
+K
+169.8
+0.0
+0.0
+0.0
+0.7
+242
+Andre SzmytAndre Szmyt
+Andre Szmyt
+CLE
+K
+169.8
+0.0
+0.0
+0.0
+0.5
+243
+Keaton MitchellKeaton Mitchell
+Keaton Mitchell
+LAC
+RB
+169.8
++0.2
+0.2
+0.0
+9.7
+244
+Tyler HigbeeTyler Higbee
+Tyler Higbee
+LAR
+TE
+169.8
+0.0
+0.0
+0.0
+0.5
+245
+Joey SlyeJoey Slye
+Joey Slye
+TEN
+K
+169.8
+0.0
+0.0
+0.0
+0.5
+246
+Malachi FieldsMalachi Fields
+Malachi Fields
+NYG
 WR
 169.9
 0.0
 0.0
 0.0
-0.6
-248
-Ryan FitzgeraldRyan Fitzgerald
-Ryan Fitzgerald
-Car
+1.9
+247
+Chad RylandChad Ryland
+Chad Ryland
+ARI
 K
 169.9
--0.1
 0.0
 0.0
-0.6
-249
-DeWayne McBrideDeWayne McBride
-DeWayne McBride
-FA
-RB
+0.0
+0.4
+248
+Spencer ShraderSpencer Shrader
+Spencer Shrader
+IND
+K
 169.9
-+0.1
 0.0
 0.0
-0.1
-250
-Tank DellTank Dell
-Tank Dell
-O
-Hou
+0.0
+0.2
+249
+KaVontae TurpinKaVontae Turpin
+KaVontae Turpin
+DAL
 WR
 169.9
--0.1
+0.0
+0.0
+0.0
+1.1
+250
+Elijah ArroyoElijah Arroyo
+Elijah Arroyo
+SEA
+TE
+169.9
+0.0
 0.0
 0.0
 251
-Jordan TravisJordan Travis
-Jordan Travis
+Caden Davis
+Caden Davis
 FA
-QB
+K
 169.9
 0.0
 0.0
 0.0
 0.1
 252
-Anthony Richardson Sr.Anthony Richardson Sr.
-Anthony Richardson Sr.
-Ind
-QB
+Sal Cannella
+Sal Cannella
+FA
+TE
 169.9
 0.0
 0.1
-0.0
-5.6
++0.1
+0.1
 253
-Jameis WinstonJameis Winston
-Jameis Winston
-NYG
-QB
+Eli StowersEli Stowers
+Eli Stowers
+PHI
+TE
 169.9
 0.0
 0.0
 0.0
-0.4
+1.1
 254
-Caden Davis
-Caden Davis
-FA
-K
-169.9
-0.0
-0.0
-0.0
-0.1
-255
-Isaiah Bond
-Isaiah Bond
-Cle
-WR
-169.9
-+0.1
-0.0
-0.0
-1.0
-256
-Deshaun WatsonDeshaun Watson
-Deshaun Watson
-O
-Cle
-QB
-169.9
-0.0
-0.0
-0.0
-0.3
-257
-Odell Beckham Jr.Odell Beckham Jr.
-Odell Beckham Jr.
-FA
-WR
-169.9
-0.0
-0.0
-0.0
-0.2
-258
-Jalen MilroeJalen Milroe
-Jalen Milroe
-Sea
-QB
-169.9
--0.1
-0.0
-0.0
-0.8
-259
-JuJu Smith-SchusterJuJu Smith-Schuster
-JuJu Smith-Schuster
+Justin FieldsJustin Fields
+Justin Fields
 KC
-WR
-169.9
-0.0
-0.0
-0.0
-0.5
-260
-J.J. TaylorJ.J. Taylor
-J.J. Taylor
-FA
-RB
-169.9
-0.0
-0.0
-0.0
-0.1
-261
-Scott MatlockScott Matlock
-Scott Matlock
-LAC
-RB
-169.9
-0.0
-0.0
-0.0
-0.4
-262
-Luke MusgraveLuke Musgrave
-Luke Musgrave
-GB
-TE
-169.9
-0.0
-0.0
-0.0
-0.4
-263
-Darnell WashingtonDarnell Washington
-Darnell Washington
-Pit
-TE
-169.9
--0.1
-0.0
-0.0
-0.3
-264
-John Samuel ShenkerJohn Samuel Shenker
-John Samuel Shenker
-FA
-TE
-169.9
-0.0
-0.1
-+0.1
-0.1
-265
-Jake BoboJake Bobo
-Jake Bobo
-Sea
-WR
-169.9
-0.0
-0.0
-0.0
-0.3
-266
-Matt BarkleyMatt Barkley
-Matt Barkley
-FA
 QB
-169.9
-0.0
-0.0
-0.0
-0.0
-267
-Jaguars D/STJaguars D/ST
-Jaguars D/ST
-Jax
-D/ST
-169.9
--0.2
-0.0
-0.0
-1.7
-268
-Joey SlyeJoey Slye
-Joey Slye
-Ten
-K
-169.9
-0.0
-0.0
-0.0
-0.3
-269
-Mitchell TinsleyMitchell Tinsley
-Mitchell Tinsley
-Cin
-WR
-169.9
-+0.1
-0.0
-0.0
-0.8
-270
-Mason CrosbyMason Crosby
-Mason Crosby
-FA
-K
-169.9
-0.0
-0.0
-0.0
-0.1
-271
-Jude McAtamneyJude McAtamney
-Jude McAtamney
-NYG
-K
-169.9
-0.0
-0.0
-0.0
-0.1
-272
-Ollie Gordon IIOllie Gordon II
-Ollie Gordon II
-Mia
-RB
-169.9
-+0.3
-0.2
-+0.1
-7.1
-273
-Troy FranklinTroy Franklin
-Troy Franklin
-Den
-WR
-169.9
-0.0
-0.0
-0.0
-1.0
-274
-Dolphins D/STDolphins D/ST
-Dolphins D/ST
-Mia
-D/ST
-169.9
--0.1
-0.1
-+0.1
-5.1
-275
-Elijah MooreElijah Moore
-Elijah Moore
-Buf
-WR
-169.9
-0.0
-0.0
-0.0
-0.3
-276
-Mitchell EvansMitchell Evans
-Mitchell Evans
-Car
-TE
-169.9
-0.0
-0.0
-0.0
-0.1
-277
-Jimmy Horn Jr.Jimmy Horn Jr.
-Jimmy Horn Jr.
-Car
-WR
-169.9
-0.0
-0.0
-0.0
-0.5
-278
-KeAndre Lambert-SmithKeAndre Lambert-Smith
-KeAndre Lambert-Smith
-LAC
-WR
-169.9
-0.0
-0.0
-0.0
-0.5
-279
-Braxton BerriosBraxton Berrios
-Braxton Berrios
-Hou
-WR
-169.9
-0.0
-0.0
-0.0
-0.1
-280
-Equanimeous St. BrownEquanimeous St. Brown
-Equanimeous St. Brown
-FA
-WR
-169.9
-0.0
-0.0
-0.0
-0.1
-281
-Brock WrightBrock Wright
-Brock Wright
-Det
-TE
-169.9
-0.0
-0.0
-0.0
-0.1
-282
-Terrance FergusonTerrance Ferguson
-Terrance Ferguson
-LAR
-TE
-169.9
-0.0
-0.0
-0.0
-0.7
-283
-Roman WilsonRoman Wilson
-Roman Wilson
-Pit
-WR
-169.9
-0.0
-0.0
-0.0
-0.8
-284
-Austin HooperAustin Hooper
-Austin Hooper
-NE
-TE
-169.9
-0.0
-0.0
-0.0
-0.2
-285
-Olamide ZaccheausOlamide Zaccheaus
-Olamide Zaccheaus
-Chi
-WR
-169.9
-0.0
-0.0
-0.0
-0.4
-286
-Tim PatrickTim Patrick
-Tim Patrick
-Det
-WR
-169.9
-0.0
-0.0
-0.0
-0.3
-287
-Gunnar HelmGunnar Helm
-Gunnar Helm
-Ten
-TE
-169.9
-0.0
-0.0
-0.0
-0.3
-288
-Zack MossZack Moss
-Zack Moss
-FA
-RB
-169.9
-0.0
-0.0
-0.0
-0.5
-289
-Parker RomoParker Romo
-Parker Romo
-NE
-K
-169.9
-0.0
-0.0
-0.0
-0.1
-290
-Joshua DobbsJoshua Dobbs
-Joshua Dobbs
-NE
-QB
-169.9
-0.0
-0.0
-0.0
-0.1
-291
-Chad RylandChad Ryland
-Chad Ryland
-Ari
-K
 169.9
 0.0
 0.0
 0.0
 0.6
-292
-Tory HortonTory Horton
-Tory Horton
-Sea
-WR
-169.9
--0.1
-0.0
-0.0
-1.1
-293
-Mason RudolphMason Rudolph
-Mason Rudolph
-Pit
-QB
-169.9
-0.0
-0.0
-0.0
-0.2
-294
-Grant CalcaterraGrant Calcaterra
-Grant Calcaterra
-Phi
+255
+Brock WrightBrock Wright
+Brock Wright
+DET
 TE
 169.9
 0.0
 0.0
 0.0
 0.2
-295
-Tommy DeVitoTommy DeVito
-Tommy DeVito
-NYG
-QB
+256
+JuJu Smith-SchusterJuJu Smith-Schuster
+JuJu Smith-Schuster
+Q
+FA
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+257
+Kadarius ToneyKadarius Toney
+Kadarius Toney
+FA
+WR
 169.9
 0.0
 0.0
 0.0
 0.1
-296
+258
+Noah GrayNoah Gray
+Noah Gray
+KC
+TE
+169.9
+0.0
+0.0
+0.0
+0.3
+259
+Riley PattersonRiley Patterson
+Riley Patterson
+MIA
+K
+169.9
+0.0
+0.0
+0.0
+0.3
+260
+Titans D/STTitans D/ST
+Titans D/ST
+TEN
+D/ST
+169.9
+0.0
+0.0
+0.0
+4.8
+261
+Luke SchoonmakerLuke Schoonmaker
+Luke Schoonmaker
+DAL
+TE
+169.9
+0.0
+0.0
+0.0
+0.2
+262
 Ezekiel ElliottEzekiel Elliott
 Ezekiel Elliott
 FA
@@ -2964,42 +2654,1899 @@ RB
 0.0
 0.0
 0.1
-297
-John Metchie IIIJohn Metchie III
-John Metchie III
-Phi
+263
+Kirk CousinsKirk Cousins
+Kirk Cousins
+LV
+QB
+169.9
+0.0
+0.1
+0.0
+2.0
+264
+Joe FlaccoJoe Flacco
+Joe Flacco
+CIN
+QB
+169.9
+0.0
+0.0
+0.0
+0.4
+265
+Tommy DeVitoTommy DeVito
+Tommy DeVito
+NE
+QB
+169.9
+0.0
+0.0
+0.0
+0.2
+266
+Luke McCaffreyLuke McCaffrey
+Luke McCaffrey
+WSH
+WR
+169.9
+0.0
+0.0
+0.0
+0.4
+267
+Jermar JeffersonJermar Jefferson
+Jermar Jefferson
+MIN
+RB
+169.9
+0.0
+0.0
+0.0
+0.1
+268
+Israel AbanikandaIsrael Abanikanda
+Israel Abanikanda
+DAL
+RB
+169.9
+0.0
+0.0
+0.0
+0.2
+269
+Nick ChubbNick Chubb
+Nick Chubb
+FA
+RB
+169.9
+0.0
+0.0
+0.0
+0.3
+270
+Ty SimpsonTy Simpson
+Ty Simpson
+LAR
+QB
+169.9
+0.0
+0.0
+0.0
+0.6
+271
+Jameis WinstonJameis Winston
+Jameis Winston
+NYG
+QB
+169.9
+0.0
+0.0
+0.0
+0.4
+272
+Kyle JuszczykKyle Juszczyk
+Kyle Juszczyk
+Q
+SF
+RB
+169.9
+0.0
+0.0
+0.0
+0.6
+273
+Kaden WetjenKaden Wetjen
+Kaden Wetjen
+PIT
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+274
+Brandon McManusBrandon McManus
+Brandon McManus
+FA
+K
+169.9
+0.0
+0.0
+0.0
+0.2
+275
+Jude McAtamneyJude McAtamney
+Jude McAtamney
+FA
+K
+169.9
+0.0
+0.0
+0.0
+0.1
+276
+Adonai MitchellAdonai Mitchell
+Adonai Mitchell
+NYJ
+WR
+169.9
+0.0
+0.2
+0.0
+9.7
+277
+Kalif RaymondKalif Raymond
+Kalif Raymond
+CHI
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+278
+Joshua PalmerJoshua Palmer
+Joshua Palmer
+BUF
 WR
 169.9
 0.0
 0.0
 0.0
 0.3
-298
-Julian HillJulian Hill
-Julian Hill
-Mia
+279
+Josh OliverJosh Oliver
+Josh Oliver
+MIN
+TE
+169.9
+0.0
+0.0
+0.0
+0.2
+280
+Zavion ThomasZavion Thomas
+Zavion Thomas
+CHI
+WR
+169.9
+0.0
+0.0
+0.0
+0.3
+281
+Jordan WhittingtonJordan Whittington
+Jordan Whittington
+LAR
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+282
+Roman WilsonRoman Wilson
+Roman Wilson
+PIT
+WR
+169.9
+0.0
+0.0
+0.0
+0.3
+283
+Mack HollinsMack Hollins
+Mack Hollins
+NE
+WR
+169.9
+0.0
+0.0
+0.0
+0.3
+284
+Luke MusgraveLuke Musgrave
+Luke Musgrave
+O
+GB
+TE
+169.9
+0.0
+0.0
+0.0
+0.2
+285
+Jahdae WalkerJahdae Walker
+Jahdae Walker
+CHI
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+286
+Joshua DobbsJoshua Dobbs
+Joshua Dobbs
+DET
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+287
+Cade KlubnikCade Klubnik
+Cade Klubnik
+NYJ
+QB
+169.9
+0.0
+0.0
+0.0
+0.2
+288
+Ricky PearsallRicky Pearsall
+Ricky Pearsall
+IR
+SF
+WR
+169.9
+0.0
+0.0
+0.0
+20.0
+289
+Joe Milton IIIJoe Milton III
+Joe Milton III
+DAL
+QB
+169.9
+0.0
+0.0
+0.0
+0.2
+290
+Will HowardWill Howard
+Will Howard
+PIT
+QB
+169.9
+0.0
+0.0
+0.0
+0.2
+291
+Russell WilsonRussell Wilson
+Russell Wilson
+FA
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+292
+John Samuel ShenkerJohn Samuel Shenker
+John Samuel Shenker
+FA
 TE
 169.9
 0.0
 0.0
 0.0
 0.1
-299
-Harold Fannin Jr.Harold Fannin Jr.
-Harold Fannin Jr.
-Cle
+293
+Jets D/STJets D/ST
+Jets D/ST
+NYJ
+D/ST
+169.9
+0.0
+0.0
+0.0
+1.6
+294
+Mac JonesMac Jones
+Mac Jones
+SF
+QB
+169.9
+0.0
+0.0
+0.0
+0.3
+295
+Ja'Tavion SandersJa'Tavion Sanders
+Ja'Tavion Sanders
+CAR
 TE
 169.9
 0.0
 0.0
 0.0
-0.6
+0.4
+296
+Tommy TrembleTommy Tremble
+Tommy Tremble
+CAR
+TE
+169.9
+0.0
+0.0
+0.0
+0.2
+297
+Elijah HigginsElijah Higgins
+Elijah Higgins
+Q
+ARI
+TE
+169.9
+0.0
+0.0
+0.0
+0.2
+298
+Hollywood BrownHollywood Brown
+Hollywood Brown
+PHI
+WR
+169.9
+0.0
+0.0
+0.0
+0.7
+299
+Adam TrautmanAdam Trautman
+Adam Trautman
+DEN
+TE
+169.9
+0.0
+0.0
+0.0
+0.1
 300
+Skyler BellSkyler Bell
+Skyler Bell
+Q
+BUF
+WR
+169.9
+0.0
+0.0
+0.0
+301
+Kyle WilliamsKyle Williams
+Kyle Williams
+NE
+WR
+169.9
+0.0
+0.0
+0.0
+0.3
+302
+Brevyn Spann-FordBrevyn Spann-Ford
+Brevyn Spann-Ford
+DAL
+TE
+169.9
+0.0
+0.0
+0.0
+0.1
+303
+Kenny PickettKenny Pickett
+Kenny Pickett
+CAR
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+304
+Kyle AllenKyle Allen
+Kyle Allen
+BUF
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+305
+Myles PriceMyles Price
+Myles Price
+MIN
+WR
+169.9
+0.0
+0.0
+0.0
+0.1
+306
+Ray-Ray McCloud IIIRay-Ray McCloud III
+Ray-Ray McCloud III
+CHI
+WR
+169.9
+0.0
+0.1
+0.0
+0.1
+307
+Stetson Bennett IVStetson Bennett IV
+Stetson Bennett IV
+LAR
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+308
+Jake BoboJake Bobo
+Jake Bobo
+SEA
+WR
+169.9
+0.0
+0.0
+0.0
+0.2
+309
+Trey BensonTrey Benson
+Trey Benson
+Q
+ARI
+RB
+169.9
+0.0
+0.0
+0.0
+0.5
+310
+Teddy BridgewaterTeddy Bridgewater
+Teddy Bridgewater
+DET
+QB
+169.9
+0.0
+0.0
+0.0
+0.1
+311
+Matt PraterMatt Prater
+Matt Prater
+FA
+K
+169.9
+0.0
+0.0
+0.0
+0.2
+312
+Cade YorkCade York
+Cade York
+NYJ
+K
+169.9
+0.0
+0.0
+0.0
+0.1
+313
+Jordan TravisJordan Travis
+Jordan Travis
+FA
+QB
+169.9
+0.0
+0.0
+0.0
+0.0
+314
+Michael PrattMichael Pratt
+Michael Pratt
+FA
+QB
+169.9
+0.0
+0.0
+0.0
+0.0
+315
+Parker RomoParker Romo
+Parker Romo
+FA
+K
+169.9
+0.0
+0.0
+0.0
+0.1
+316
+Luke LacheyLuke Lachey
+Luke Lachey
+GB
+TE
+169.9
+0.0
+0.0
+0.0
+0.0
+317
+Najee HarrisNajee Harris
+Najee Harris
+Q
+NYG
+RB
+170.0
+0.0
+0.0
+0.0
+2.3
+318
+Josh WilliamsJosh Williams
+Josh Williams
+TB
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+319
+Tyson BagentTyson Bagent
+Tyson Bagent
+Q
+CHI
+QB
+170.0
+0.0
+0.0
+0.0
+0.2
+320
+Drew StevensDrew Stevens
+Drew Stevens
+WSH
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+321
+Colbie YoungColbie Young
+Colbie Young
+CIN
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+322
+Eli RaridonEli Raridon
+Eli Raridon
+NE
+TE
+170.0
+0.0
+0.0
+0.0
+0.4
+323
+Noah FantNoah Fant
+Noah Fant
+NO
+TE
+170.0
+0.0
+0.0
+0.0
+0.2
+324
+Isaiah Bond
+Isaiah Bond
+CLE
+WR
+170.0
+0.0
+0.0
+0.0
+0.3
+325
+Jimmy Horn Jr.Jimmy Horn Jr.
+Jimmy Horn Jr.
+CAR
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+326
+Calvin Austin IIICalvin Austin III
+Calvin Austin III
+NYG
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+327
+Xavier SmithXavier Smith
+Xavier Smith
+LAR
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+328
+Tyrod TaylorTyrod Taylor
+Tyrod Taylor
+GB
+QB
+170.0
+0.0
+0.0
+0.0
+0.2
+329
+Spencer RattlerSpencer Rattler
+Spencer Rattler
+NO
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+330
+Tyler HuntleyTyler Huntley
+Tyler Huntley
+BAL
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+331
+Darius CooperDarius Cooper
+Darius Cooper
+PHI
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+332
+Jonathan MingoJonathan Mingo
+Jonathan Mingo
+DAL
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+333
+Drew LockDrew Lock
+Drew Lock
+SEA
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+334
+Patrick RicardPatrick Ricard
+Patrick Ricard
+NYG
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+335
+Quinn EwersQuinn Ewers
+Quinn Ewers
+Q
+MIA
+QB
+170.0
+0.0
+0.0
+0.0
+0.2
+336
+Ben SkowronekBen Skowronek
+Ben Skowronek
+PIT
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+337
+Efton Chism IIIEfton Chism III
+Efton Chism III
+NE
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+338
+Tim PatrickTim Patrick
+Tim Patrick
+NYJ
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+339
+Bub MeansBub Means
+Bub Means
+NO
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+340
+Austin SeibertAustin Seibert
+Austin Seibert
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+341
+Dalvin CookDalvin Cook
+Dalvin Cook
+FA
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+342
+Zane GonzalezZane Gonzalez
+Zane Gonzalez
+Q
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.3
+343
+Daniel CarlsonDaniel Carlson
+Daniel Carlson
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+344
+Dustin HopkinsDustin Hopkins
+Dustin Hopkins
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+345
+DeWayne McBrideDeWayne McBride
+DeWayne McBride
+FA
+RB
+170.0
+0.0
+0.0
+0.0
+0.0
+346
+Tanner BrownTanner Brown
+Tanner Brown
+NO
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+347
+Tommy MellottTommy Mellott
+Tommy Mellott
+FA
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+348
+Junior BergenJunior Bergen
+Junior Bergen
+NYJ
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+349
+Ja'Corey BrooksJa'Corey Brooks
+Ja'Corey Brooks
+Q
+FA
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+350
+Austin HooperAustin Hooper
+Austin Hooper
+ATL
+TE
+170.0
+0.0
+0.0
+0.0
+351
+Anthony Richardson Sr.Anthony Richardson Sr.
+Anthony Richardson Sr.
+IND
+QB
+170.0
+0.0
+0.0
+0.0
+0.3
+352
+Jarrett StidhamJarrett Stidham
+Jarrett Stidham
+DEN
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+353
+Sam HowellSam Howell
+Sam Howell
+DAL
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+354
+Konata MumpfieldKonata Mumpfield
+Konata Mumpfield
+LAR
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+355
+Mo Alie-CoxMo Alie-Cox
+Mo Alie-Cox
+IND
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+356
+Jackson HawesJackson Hawes
+Jackson Hawes
+BUF
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+357
+Hunter LuepkeHunter Luepke
+Hunter Luepke
+DAL
+RB
+170.0
+0.0
+0.0
+0.0
+0.2
+358
+Tez JohnsonTez Johnson
+Tez Johnson
+Q
+TB
+WR
+170.0
+0.0
+0.0
+0.0
+0.3
+359
+KeAndre Lambert-SmithKeAndre Lambert-Smith
+KeAndre Lambert-Smith
+LAC
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+360
+Greg DortchGreg Dortch
+Greg Dortch
+DET
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+361
+Barion BrownBarion Brown
+Barion Brown
+NO
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+362
+Bo MeltonBo Melton
+Bo Melton
+GB
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+363
+CJ DanielsCJ Daniels
+CJ Daniels
+LAR
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+364
+Tanner McKeeTanner McKee
+Tanner McKee
+PHI
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+365
+Tai FeltonTai Felton
+Tai Felton
+MIN
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+366
+Tyler ConklinTyler Conklin
+Tyler Conklin
+DET
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+367
+Sam RoushSam Roush
+Sam Roush
+CHI
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+368
+Riley NowakowskiRiley Nowakowski
+Riley Nowakowski
+PIT
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+369
+Mitchell TrubiskyMitchell Trubisky
+Mitchell Trubisky
+TEN
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+370
+Cedric TillmanCedric Tillman
+Cedric Tillman
+Q
+CLE
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+371
+Braxton BerriosBraxton Berrios
+Braxton Berrios
+NYG
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+372
+Skyy MooreSkyy Moore
+Skyy Moore
+GB
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+373
+Mason RudolphMason Rudolph
+Mason Rudolph
+PIT
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+374
+Dante PettisDante Pettis
+Dante Pettis
+BUF
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+375
+Marquez Valdes-ScantlingMarquez Valdes-Scantling
+Marquez Valdes-Scantling
+DAL
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+376
+AJ DillonAJ Dillon
+AJ Dillon
+CAR
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+377
+Van JeffersonVan Jefferson
+Van Jefferson
+WSH
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+378
+Albert Okwuegbunam Jr.Albert Okwuegbunam Jr.
+Albert Okwuegbunam Jr.
+LV
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+379
+Roschon JohnsonRoschon Johnson
+Roschon Johnson
+CHI
+RB
+170.0
+0.0
+0.0
+0.0
+0.2
+380
+Will LevisWill Levis
+Will Levis
+TEN
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+381
+Frank Gore Jr.Frank Gore Jr.
+Frank Gore Jr.
+BUF
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+382
+Jalen MilroeJalen Milroe
+Jalen Milroe
+SEA
+QB
+170.0
+0.0
+0.0
+0.0
+0.2
+383
+Ulysses Bentley IVUlysses Bentley IV
+Ulysses Bentley IV
+IND
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+384
+Eli HeidenreichEli Heidenreich
+Eli Heidenreich
+PIT
+RB
+170.0
+0.0
+0.0
+0.0
+0.2
+385
+Taysom HillTaysom Hill
+Taysom Hill
+FA
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+386
+Joe MixonJoe Mixon
+Joe Mixon
+Q
+FA
+RB
+170.0
+0.0
+0.0
+0.0
+0.3
+387
+John RossJohn Ross
+John Ross
+FA
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+388
+Michael BadgleyMichael Badgley
+Michael Badgley
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+389
+DeAndre HopkinsDeAndre Hopkins
+DeAndre Hopkins
+FA
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+390
+Derek CarrDerek Carr
+Derek Carr
+NO
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+391
 Jimmy GaroppoloJimmy Garoppolo
 Jimmy Garoppolo
 LAR
 QB
-169.9
+170.0
+0.0
+0.0
+0.0
+0.1
+392
+Greg ZuerleinGreg Zuerlein
+Greg Zuerlein
+Q
+FA
+K
+170.0
+0.0
+0.0
+0.0
+0.1
+393
+Max DugganMax Duggan
+Max Duggan
+FA
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+394
+Jacob KibodiJacob Kibodi
+Jacob Kibodi
+FA
+RB
+170.0
+0.0
+0.0
+0.0
+0.0
+395
+Jermaine JacksonJermaine Jackson
+Jermaine Jackson
+FA
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+396
+Evan EngramEvan Engram
+Evan Engram
+DEN
+TE
+170.0
+0.0
+0.1
+0.0
+3.2
+397
+Jacob SaylorsJacob Saylors
+Jacob Saylors
+Q
+DET
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+398
+Max KlareMax Klare
+Max Klare
+LAR
+TE
+170.0
+0.0
+0.0
+0.0
+0.3
+399
+Isaiah WilliamsIsaiah Williams
+Isaiah Williams
+NYJ
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+400
+Devontez WalkerDevontez Walker
+Devontez Walker
+BAL
+WR
+170.0
+0.0
+0.0
+0.0
+401
+Bryce LanceBryce Lance
+Bryce Lance
+NO
+WR
+170.0
+0.0
+0.0
+0.0
+0.3
+402
+Drew SampleDrew Sample
+Drew Sample
+CIN
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+403
+Cade StoverCade Stover
+Cade Stover
+HOU
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+404
+Brenen ThompsonBrenen Thompson
+Brenen Thompson
+LAC
+WR
+170.0
+0.0
+0.0
+0.0
+0.3
+405
+Justin WatsonJustin Watson
+Justin Watson
+HOU
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+406
+Durham SmytheDurham Smythe
+Durham Smythe
+BAL
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+407
+Jalen RoyalsJalen Royals
+Jalen Royals
+KC
+WR
+170.0
+0.0
+0.0
+0.0
+0.2
+408
+Oscar DelpOscar Delp
+Oscar Delp
+NO
+TE
+170.0
+0.0
+0.0
+0.0
+0.2
+409
+Joe RoyerJoe Royer
+Joe Royer
+Q
+CLE
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+410
+Mitchell TinsleyMitchell Tinsley
+Mitchell Tinsley
+CIN
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+411
+Justin JolyJustin Joly
+Justin Joly
+DEN
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+412
+Demarcus RobinsonDemarcus Robinson
+Demarcus Robinson
+SF
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+413
+Trey LanceTrey Lance
+Trey Lance
+LAC
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+414
+Riley LeonardRiley Leonard
+Riley Leonard
+IND
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+415
+Josh WhyleJosh Whyle
+Josh Whyle
+GB
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+416
+Matthew HibnerMatthew Hibner
+Matthew Hibner
+BAL
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+417
+Davis MillsDavis Mills
+Davis Mills
+HOU
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+418
+Reggie VirgilReggie Virgil
+Reggie Virgil
+ARI
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+419
+Reggie GilliamReggie Gilliam
+Reggie Gilliam
+NE
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+420
+Gardner Minshew IIGardner Minshew II
+Gardner Minshew II
+ARI
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+421
+Arian SmithArian Smith
+Arian Smith
+NYJ
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+422
+British BrooksBritish Brooks
+British Brooks
+Q
+HOU
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+423
+LaJohntay WesterLaJohntay Wester
+LaJohntay Wester
+BAL
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+424
+Robert TonyanRobert Tonyan
+Robert Tonyan
+PIT
+TE
+170.0
+0.0
+0.0
+0.0
+0.1
+425
+Cooper RushCooper Rush
+Cooper Rush
+ATL
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+426
+Mecole Hardman Jr.Mecole Hardman Jr.
+Mecole Hardman Jr.
+BUF
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+427
+Travis HomerTravis Homer
+Travis Homer
+PIT
+RB
+170.0
+0.0
+0.0
+0.0
+0.0
+428
+David MooreDavid Moore
+David Moore
+CAR
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+429
+Carson WentzCarson Wentz
+Carson Wentz
+MIN
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+430
+Andy DaltonAndy Dalton
+Andy Dalton
+PHI
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+431
+Gunner OlszewskiGunner Olszewski
+Gunner Olszewski
+IR
+NYG
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+432
+D'Ernest JohnsonD'Ernest Johnson
+D'Ernest Johnson
+TEN
+RB
+170.0
+0.0
+0.0
+0.0
+0.0
+433
+Tom KennedyTom Kennedy
+Tom Kennedy
+DET
+WR
+170.0
+0.0
+0.0
+0.0
+0.1
+434
+D.J. MontgomeryD.J. Montgomery
+D.J. Montgomery
+IND
+WR
+170.0
+0.0
+0.0
+0.0
+0.0
+435
+Bailey ZappeBailey Zappe
+Bailey Zappe
+NYJ
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+436
+Ronnie RiversRonnie Rivers
+Ronnie Rivers
+LAR
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+437
+Aidan O'ConnellAidan O'Connell
+Aidan O'Connell
+LV
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+438
+Jaleel McLaughlinJaleel McLaughlin
+Jaleel McLaughlin
+DEN
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+439
+Colson YankoffColson Yankoff
+Colson Yankoff
+WSH
+TE
+170.0
+0.0
+0.0
+0.0
+0.0
+440
+Baylor CuppBaylor Cupp
+Baylor Cupp
+ARI
+TE
+170.0
+0.0
+0.0
+0.0
+0.0
+441
+Dillon GabrielDillon Gabriel
+Dillon Gabriel
+CLE
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+442
+Gavin BartholomewGavin Bartholomew
+Gavin Bartholomew
+MIN
+TE
+170.0
+0.0
+0.0
+0.0
+0.0
+443
+Devin NealDevin Neal
+Devin Neal
+NO
+RB
+170.0
+0.0
+0.0
+0.0
+0.2
+444
+Raheim SandersRaheim Sanders
+Raheim Sanders
+CLE
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+445
+Beaux CollinsBeaux Collins
+Beaux Collins
+ATL
+WR
+170.0
+0.0
+0.3
++0.3
+0.0
+446
+Max BrosmerMax Brosmer
+Max Brosmer
+Q
+MIN
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+447
+Jam MillerJam Miller
+Jam Miller
+NE
+RB
+170.0
+0.0
+0.0
+0.0
+0.1
+448
+Taylen GreenTaylen Green
+Taylen Green
+CLE
+QB
+170.0
+0.0
+0.0
+0.0
+0.1
+449
+Athan KaliakmanisAthan Kaliakmanis
+Athan Kaliakmanis
+WSH
+QB
+170.0
+0.0
+0.0
+0.0
+0.0
+450
+Garrett NussmeierGarrett Nussmeier
+Garrett Nussmeier
+KC
+QB
+170.0
 0.0
 0.0
 0.0

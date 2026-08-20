@@ -1,6 +1,6 @@
 ﻿import string
 
-file = open('data.txt', "r")
+file = open('Fantasy_Football_26/adp/data.txt', "r")
 abbrs = { "ARI":"Arizona Cardinals", "ATL":"Atlanta Falcons", "BAL":"Baltimore Ravens", "BUF":"Buffalo Bills", "CAR":"Carolina Panthers", "CHI":"Chicago Bears", "CIN":"Cincinnati Bengals", "CLE":"Cleveland Browns", "DAL":"Dallas Cowboys", "DEN":"Denver Broncos", "DET":"Detroit Lions", "GB":"Green Bay Packers", "HOU":"Houston Texans", "IND":"Indianapolis Colts", "JAX":"Jacksonville Jaguars", "KC":"Kansas City Chiefs", "LAC":"Los Angeles Chargers", "LAR":"Los Angeles Rams", "LV":"Las Vegas Raiders", "MIA":"Miami Dolphins", "MIN":"Minnesota Vikings", "NE":"New England Patriots", "NO":"New Orleans Saints", "NYG":"New York Giants", "NYJ":"New York Jets", "PHI":"Philadelphia Eagles", "PIT":"Pittsburgh Steelers", "SEA":"Seattle Seahawks", "SF":"San Francisco 49ers", "TB":"Tampa Bay Buccaneers", "TEN":"Tennessee Titans", "WAS":"Washington Commanders" }
 
 lineNum=0
@@ -16,12 +16,12 @@ for line in file:
         continue
     
     if(count == 0):
-        count=count
+        player.append(line)
     elif(count == 1):
         count=count
     elif(count == 2):
         player.append(line)
-    elif(count == 3 and ((line == 'Q' or line == 'O') or line == 'D')):
+    elif(count == 3 and (line == 'Q' or line == 'O' or line == 'D' or line == 'IR' or line == 'PUP')):
         count-=1
     elif(count == 3):
         player.append(line.upper())
@@ -32,13 +32,14 @@ for line in file:
     elif(count == 6):
         count=count
     elif(count == 7):
-        count=count
+        player.append(line)
     elif(count == 8):
         count=count
     elif(count == 9):
         players.append(player)
         player = []
         if not line.__contains__("."):
+            player.append(line)
             count=0
         else:
             count=-1
@@ -46,18 +47,18 @@ for line in file:
     count+=1
 
 
-newFile = "Name,Pos,Team,ADP\n"
+newFile = "Rank,Name,Pos,Team,ADP,Sal\n"
 for player in players:
-
+    print(player)
     #Hollywood Handling
     if(player[0] == "Hollywood Brown"):
         player[0] = "Marquise Brown"
     
-    newFile += player[0] + "," + player[2] + "," + player[1] + ',' + player[3]
+    newFile += player[0] + "," + player[1] + "," + player[2] + ',' + player[3] + ',' + player[4] + ',' + player[5]
     newFile += "\n"
 
 file.close()
-file = open('data.csv', "w")
+file = open('Fantasy_Football_26/adp/data.csv', "w")
 # file = open('data/cbs/e_data.csv', "w")
 # file = open('data/cbs/r_data.csv', "w")
 file.write(newFile)
