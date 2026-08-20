@@ -7,7 +7,7 @@ def JustGetLetters(text):
             new += char
     return new
 
-file = open('yates.txt', "r")
+file = open('Fantasy_Football_26/data/espn/yates.txt', "r")
 
 newFile = []
 for line in file:
@@ -76,5 +76,5 @@ for player in players:
     newFile += "\n"
 
 file.close()
-file = open('y_data.csv', "w")
+file = open('Fantasy_Football_26/data/espn/y_data.csv', "w")
 file.write(newFile)
