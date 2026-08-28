@@ -69,18 +69,8 @@ Coach Bust rating
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+5
++3
 8		
-Justin Jefferson (MIN)
-WR6	6	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+5
-9		
 Christian McCaffrey (SF)
 RB3	8	Coach Upside rating
 Coach Bust rating
@@ -89,18 +79,18 @@ Coach Bust rating
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--4
-10		
-Drake London (ATL)
-WR7	11	
+-3
+9		
+Justin Jefferson (MIN)
+WR6	6	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+7
-11		
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++3
+10		
 Jonathan Taylor (IND)
 RB4	13	Coach Upside rating
 Coach Bust rating
@@ -109,7 +99,17 @@ Coach Bust rating
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--4
+-3
+11		
+Drake London (ATL)
+WR7	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++8
 Tier 3	 	Customize Tiers
 12		
 A.J. Brown (NE)
@@ -122,15 +122,15 @@ WR8	11
 2 out of 5 stars
 +8
 13		
-Ashton Jeanty (LV)
-RB5	13	Coach Upside rating
+James Cook III (BUF)
+RB5	7	Coach Upside rating
 Coach Bust rating
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--3
+-4
 14		
 Nico Collins (HOU)
 WR9	8	
@@ -140,20 +140,10 @@ WR9	8
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+11
++10
 15		
-James Cook III (BUF)
-RB6	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--6
-16		
 Chase Brown (CIN)
-RB7	6	
+RB6	6	
 
 2 out of 5 stars
 2 out of 5 stars
@@ -161,8 +151,18 @@ RB7	6
 2 out of 5 stars
 2 out of 5 stars
 -1
+16		
+Chris Olave (NO)
+WR10	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++11
 17		
-Brock Bowers (LV) 
+Brock Bowers (LV)
 TE1	13	Coach Upside rating
 Coach Bust rating
 3 out of 5 stars
@@ -172,16 +172,6 @@ Coach Bust rating
 3 out of 5 stars
 +5
 18		
-Chris Olave (NO)
-WR10	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+10
-19		
 George Pickens (DAL)
 WR11	14	
 
@@ -190,9 +180,19 @@ WR11	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+5
++7
+19		
+De'Von Achane (MIA)
+RB7	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-8
 20		
-Trey McBride (ARI) 
+Trey McBride (ARI)
 TE2	14	Coach Upside rating
 Coach Bust rating
 2 out of 5 stars
@@ -201,37 +201,37 @@ Coach Bust rating
 2 out of 5 stars
 2 out of 5 stars
 +1
-21		
-De'Von Achane (MIA)
-RB8	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--10
-22		
-Rashee Rice (KC)
-WR12	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+4
 Tier 4	 	Customize Tiers
-23		
+21		
 DeVonta Smith (PHI)
-WR13	10	
+WR12	10	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+11
++13
+22		
+Saquon Barkley (PHI)
+RB8	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-9
+23		
+Rashee Rice (KC)
+WR13	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++3
 24		
 Malik Nabers (NYG)
 WR14	8	
@@ -241,29 +241,18 @@ WR14	8
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+5
++4
 25		
-Saquon Barkley (PHI)
-RB9	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--11
-26		
 Omarion Hampton (LAC)
-RB10	7	
+RB9	7	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--10
-
-27		
+-8
+26		
 Josh Allen (BUF)
 QB1	7	Coach Upside rating
 Coach Bust rating
@@ -272,10 +261,11 @@ Coach Bust rating
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--4
-28		
+-3
+
+27		
 Kenneth Walker III (KC)
-RB11	5	
+RB10	5	
 
 3 out of 5 stars
 3 out of 5 stars
@@ -283,8 +273,18 @@ RB11	5
 3 out of 5 stars
 3 out of 5 stars
 -9
+28		
+Ashton Jeanty (LV) 
+RB11	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-13
 29		
-Zay Flowers (BAL)
+Garrett Wilson (NYJ)
 WR15	13	
 
 4 out of 5 stars
@@ -292,9 +292,9 @@ WR15	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+6
++9
 30		
-Garrett Wilson (NYJ)
+Zay Flowers (BAL)
 WR16	13	
 
 4 out of 5 stars
@@ -302,7 +302,7 @@ WR16	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+9
++5
 31		
 Lamar Jackson (BAL)
 QB2	13	Coach Upside rating
@@ -312,17 +312,17 @@ Coach Bust rating
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+11
++10
 32		
-Tetairoa McMillan (CAR)
-WR17	5	
+Jaylen Waddle (DEN)
+WR17	10	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+6
++16
 33		
 Ladd McConkey (LAC)
 WR18	7	
@@ -332,17 +332,17 @@ WR18	7
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+12
++11
 34		
-Jaylen Waddle (DEN) 
-WR19	10	
+Tetairoa McMillan (CAR)
+WR19	5	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+14
++5
 Tier 5	 	Customize Tiers
 35		
 Tee Higgins (CIN)
@@ -353,7 +353,7 @@ WR20	6
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+5
++7
 36		
 Colston Loveland (CHI)
 TE3	10	Coach Upside rating
@@ -383,8 +383,18 @@ RB12	13
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--20
+-22
 39		
+Breece Hall (NYJ)
+RB13	13	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-6
+40		
 Emeka Egbuka (TB)
 WR21	10	
 
@@ -393,27 +403,17 @@ WR21	10
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--2
-40		
-Jeremiyah Love (ARI)
-RB13	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--13
+0
 41		
-Breece Hall (NYJ)
-RB14	13	
+Jeremiyah Love (ARI)
+RB14	14	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--10
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-12
 42		
 Kyren Williams (LAR)
 RB15	11	
@@ -425,18 +425,8 @@ RB15	11
 5 out of 5 stars
 -12
 43		
-Josh Jacobs (GB)
-RB16	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--10
-44		
 Javonte Williams (DAL)
-RB17	14	
+RB16	14	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -444,7 +434,7 @@ RB17	14
 4 out of 5 stars
 4 out of 5 stars
 -12
-45		
+44		
 Joe Burrow (CIN)
 QB4	6	Coach Upside rating
 Coach Bust rating
@@ -453,7 +443,17 @@ Coach Bust rating
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+11
++10
+45		
+Josh Jacobs (GB)
+RB17	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-13
 46		
 Terry McLaurin (WAS)
 WR22	7	
@@ -473,7 +473,7 @@ WR23	10
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+7
++9
 48		
 Travis Etienne Jr. (NO)
 RB18	8	
@@ -483,7 +483,7 @@ RB18	8
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--7
+-12
 49		
 Davante Adams (LAR)
 WR24	11	
@@ -493,7 +493,7 @@ WR24	11
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
-+1
++2
 50		
 DJ Moore (BUF)
 WR25	7	
@@ -503,7 +503,7 @@ WR25	7
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+2
+0
 Tier 6	 	Customize Tiers
 51		
 Tyler Warren (IND)
@@ -514,18 +514,8 @@ Coach Bust rating
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--4
++1
 52		
-Mike Evans (SF)
-WR26	8	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+12
-53		
 Jayden Daniels (WAS)
 QB5	7	Coach Upside rating
 Coach Bust rating
@@ -534,10 +524,20 @@ Coach Bust rating
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+7
++10
+53		
+D'Andre Swift (CHI)
+RB19	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-7
 54		
 Jameson Williams (DET)
-WR27	6	
+WR26	6	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -546,36 +546,16 @@ WR27	6
 4 out of 5 stars
 +4
 55		
-Cam Skattebo (NYG)
-RB19	8	
+Mike Evans (SF)
+WR27	8	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--19
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++9
 56		
-Rome Odunze (CHI)
-WR28	10	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+5
-57		
-D'Andre Swift (CHI)
-RB20	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--8
-58		
 Jalen Hurts (PHI)
 QB6	10	
 
@@ -584,7 +564,27 @@ QB6	10
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
-+5
++7
+57		
+Cam Skattebo (NYG)
+RB20	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-20
+58		
+Rome Odunze (CHI)
+WR28	10	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++3
 59		
 Christian Watson (GB)
 WR29	11	
@@ -594,7 +594,7 @@ WR29	11
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
-+10
++7
 60		
 Bucky Irving (TB)
 RB21	10	
@@ -604,10 +604,20 @@ RB21	10
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--16
+-15
 61		
+David Montgomery (HOU)
+RB22	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-12
+62		
 Quinshon Judkins (CLE)
-RB22	11	
+RB23	11	
 
 3 out of 5 stars
 3 out of 5 stars
@@ -615,16 +625,6 @@ RB22	11
 3 out of 5 stars
 3 out of 5 stars
 -15
-62		
-David Montgomery (HOU)
-RB23	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--11
 63		
 Parker Washington (JAC)
 WR30	7	
@@ -634,18 +634,8 @@ WR30	7
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+10
++7
 64		
-Carnell Tate (TEN)
-WR31	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+3
-65		
 Caleb Williams (CHI)
 QB7	10	
 
@@ -654,20 +644,10 @@ QB7	10
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+10
-66		
-TreVeyon Henderson (NE)
-RB24	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--9
-67		
++13
+65		
 Bhayshul Tuten (JAC)
-RB25	7	
+RB24	7	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -675,7 +655,17 @@ RB25	7
 4 out of 5 stars
 4 out of 5 stars
 -8
-68		
+66		
+Carnell Tate (TEN)
+WR31	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++8
+67		
 Marvin Harrison Jr. (ARI)
 WR32	14	
 
@@ -684,7 +674,17 @@ WR32	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+4
++5
+68		
+TreVeyon Henderson (NE)
+RB25	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-9
 69		
 Justin Herbert (LAC)
 QB8	7	
@@ -695,18 +695,7 @@ QB8	7
 2 out of 5 stars
 2 out of 5 stars
 +17
-Tier 7	 	Customize Tiers
 70		
-Harold Fannin Jr. (CLE)
-TE5	11	Coach Upside rating
-Coach Bust rating
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--5
-71		
 Jadarian Price (SEA)
 RB26	11	
 
@@ -715,37 +704,48 @@ RB26	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--9
+-10
+71		
+Harold Fannin Jr. (CLE)
+TE5	11	Coach Upside rating
+Coach Bust rating
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-4
+Tier 7	 	Customize Tiers
 72		
-Brian Thomas Jr. (JAC)
-WR33	7	
+Chris Godwin Jr. (TB)
+WR33	10	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+5
++21
 73		
-Tucker Kraft (GB)
-TE6	11	
+Rhamondre Stevenson (NE)
+RB27	11	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--3
+-8
 74		
 Jaylen Warren (PIT)
-RB27	9	
+RB28	9	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--3
+-5
 75		
 Trevor Lawrence (JAC)
 QB9	7	
@@ -755,38 +755,8 @@ QB9	7
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+10
++8
 76		
-Chris Godwin Jr. (TB)
-WR34	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+22
-77		
-Rhamondre Stevenson (NE)
-RB28	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+3
-78		
-Kyle Pitts Sr. (ATL)
-TE7	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--10
-79		
 Dak Prescott (DAL)
 QB10	14	
 
@@ -795,18 +765,38 @@ QB10	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--5
-80		
-DK Metcalf (PIT)
-WR35	9	
+-1
+77		
+Kyle Pitts Sr. (ATL)
+TE6	11	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--1
-81		
+-9
+78		
+DK Metcalf (PIT)
+WR34	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++3
+79		
+Brian Thomas Jr. (JAC)
+WR35	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++1
+80		
 Michael Pittman Jr. (PIT)
 WR36	9	
 
@@ -815,17 +805,27 @@ WR36	9
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+12
-82		
-Sam LaPorta (DET)
-TE8	6	
++14
+81		
+Tucker Kraft (GB)
+TE7	11	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--16
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-10
+82		
+Courtland Sutton (DEN)
+WR37	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-6
 83		
 Tony Pollard (TEN)
 RB29	9	
@@ -837,35 +837,35 @@ RB29	9
 3 out of 5 stars
 -5
 84		
-Courtland Sutton (DEN)
-WR37	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--8
-85		
-Josh Downs (IND)
-WR38	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+15
-86		
 Wan'Dale Robinson (TEN)
-WR39	9	
+WR38	9	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+8
++12
+85		
+Sam LaPorta (DET)
+TE8	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-12
+86		
+Josh Downs (IND)
+WR39	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++26
 87		
 Michael Wilson (ARI)
 WR40	14	
@@ -875,7 +875,7 @@ WR40	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--3
+-2
 88		
 Rico Dowdle (PIT)
 RB30	9	
@@ -885,18 +885,29 @@ RB30	9
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--7
+-9
 89		
-RJ Harvey (DEN)
-RB31	10	
+Jonathon Brooks (CAR)
+RB31	5	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-7
+90		
+Quentin Johnston (LAC)
+WR41	7	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--7
-90		
++20
+
+91		
 Brock Purdy (SF)
 QB11	8	
 
@@ -905,28 +916,17 @@ QB11	8
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
-+14
-
-91		
-Chuba Hubbard (CAR)
-RB32	5	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--8
++17
 92		
-Alec Pierce (IND)
-WR41	13	
+RJ Harvey (DEN)
+RB32	10	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--4
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-8
 93		
 Jaxson Dart (NYG)
 QB12	8	
@@ -936,19 +936,9 @@ QB12	8
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--6
+-2
 Tier 8	 	Customize Tiers
 94		
-Jonathon Brooks (CAR) 
-RB33	5	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--5
-95		
 Travis Kelce (KC)
 TE9	5	
 
@@ -958,57 +948,7 @@ TE9	5
 4 out of 5 stars
 4 out of 5 stars
 +1
-96		
-Quentin Johnston (LAC)
-WR42	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+9
-97		
-Kenny Gainwell (TB)
-RB34	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+4
-98		
-Patrick Mahomes II (KC)
-QB13	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+4
-99		
-Bo Nix (DEN)
-QB14	10	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+14
-100		
-Jakobi Meyers (JAC)
-WR43	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+12
-101		
+95		
 George Kittle (SF)
 TE10	8	
 
@@ -1017,8 +957,48 @@ TE10	8
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--9
-102		
+-7
+96		
+Chuba Hubbard (CAR)
+RB33	5	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-7
+97		
+Bo Nix (DEN)
+QB13	10	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++12
+98		
+Kenny Gainwell (TB)
+RB34	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+0
+99		
+Alec Pierce (IND)
+WR42	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-7
+100		
 J.K. Dobbins (DEN)
 RB35	10	
 
@@ -1027,8 +1007,38 @@ RB35	10
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--12
+-13
+101		
+Patrick Mahomes II (KC)
+QB14	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++2
+102		
+Stefon Diggs (WAS)
+WR43	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++2
 103		
+Jayden Reed (GB)
+WR44	11	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++16
+104		
 Matthew Stafford (LAR)
 QB15	11	
 
@@ -1037,18 +1047,28 @@ QB15	11
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--12
-104		
-Makai Lemon (PHI)
-WR44	10	
+-14
+105		
+Jakobi Meyers (JAC)
+WR45	7	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+4
-105		
++13
+106		
+Jordan Addison (MIN)
+WR46	6	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+0
+107		
 Jared Goff (DET)
 QB16	6	
 
@@ -1057,18 +1077,18 @@ QB16	6
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
-+19
-106		
-Jordan Addison (MIN)
-WR45	6	
++18
+108		
+Makai Lemon (PHI)
+WR47	10	
 
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+3
-107		
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++6
+109		
 Rachaad White (WAS)
 RB36	7	
 
@@ -1077,27 +1097,7 @@ RB36	7
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+7
-108		
-Jayden Reed (GB)
-WR46	11	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+13
-109		
-Stefon Diggs (WAS)
-WR47	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--2
++8
 110		
 Blake Corum (LAR)
 RB37	11	
@@ -1107,17 +1107,17 @@ RB37	11
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--4
+-9
 111		
-Kyle Monangai (CHI)
-RB38	10	
+Dalton Kincaid (BUF)
+TE11	7	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--12
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++11
 112		
 Kyler Murray (MIN)
 QB17	6	
@@ -1127,30 +1127,30 @@ QB17	6
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
-+26
++24
 113		
-Dalton Kincaid (BUF) 
-TE11	7	
+Jacory Croskey-Merritt (WAS)
+RB38	7	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+9
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-8
 114		
-Jake Ferguson (DAL) 
-TE12	14	
+Jordan Mason (MIN)
+RB39	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--3
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-12
 115		
 Aaron Jones Sr. (MIN)
-RB39	6	
+RB40	6	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -1159,16 +1159,36 @@ RB39	6
 4 out of 5 stars
 +5
 116		
-Isaiah Likely (NYG)
-TE13	8	
+Kyle Monangai (CHI)
+RB41	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-16
+117		
+Dallas Goedert (PHI)
+TE12	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-6
+118		
+KC Concepcion (CLE)
+WR48	11	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--6
-117		
++8
+119		
 Baker Mayfield (TB)
 QB18	10	
 
@@ -1178,17 +1198,17 @@ QB18	10
 2 out of 5 stars
 2 out of 5 stars
 +16
-118		
-Jacory Croskey-Merritt (WAS)
-RB40	7	
+120		
+Jake Ferguson (DAL)
+TE13	14	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-0
-119		
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-7
+121		
 Jordan Love (GB)
 QB19	11	
 
@@ -1198,46 +1218,26 @@ QB19	11
 4 out of 5 stars
 4 out of 5 stars
 +26
-120		
-Khalil Shakir (BUF)
-WR48	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+16
-121		
-Jordan Mason (MIN)
-RB41	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--5
 122		
-Dallas Goedert (PHI)
-TE14	10	
+Isaiah Likely (NYG)
+TE14	8	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--3
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-15
 123		
-KC Concepcion (CLE)
-WR49	11	
+Khalil Shakir (BUF)
+WR49	7	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+4
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++17
 124		
 Tyler Shough (NO)
 QB20	8	
@@ -1247,30 +1247,20 @@ QB20	8
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+24
++25
 125		
-Jordyn Tyson (NO) 
-WR50	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--22
-126		
 Jalen Coker (CAR)
-WR51	5	
+WR50	5	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+18
-127		
-Xavier Worthy (KC)
-WR52	5	
++21
+126		
+Romeo Doubs (NE)
+WR51	11	
 
 2 out of 5 stars
 2 out of 5 stars
@@ -1278,38 +1268,28 @@ WR52	5
 2 out of 5 stars
 2 out of 5 stars
 +3
-128		
+127		
 Matthew Golden (GB)
-WR53	11	
+WR52	11	
 
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--2
+-3
 Tier 9	 	Customize Tiers
+128		
+Xavier Worthy (KC)
+WR53	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++2
 129		
-Mark Andrews (BAL)
-TE15	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--4
-130		
-Romeo Doubs (NE)
-WR54	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+1
-131		
 Malik Willis (MIA)
 QB21	6	
 
@@ -1319,7 +1299,17 @@ QB21	6
 3 out of 5 stars
 3 out of 5 stars
 +34
-132		
+130		
+Mark Andrews (BAL)
+TE15	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-3
+131		
 Juwan Johnson (NO)
 TE16	8	
 
@@ -1328,9 +1318,19 @@ TE16	8
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+23
++20
+132		
+Jordyn Tyson (NO) 
+WR54	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++5
 133		
-Tyrone Tracy Jr. (NYG)
+Woody Marks (HOU)
 RB42	8	
 
 4 out of 5 stars
@@ -1338,48 +1338,38 @@ RB42	8
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+8
+-1
 134		
-Woody Marks (HOU)
-RB43	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+6
-135		
-Chris Rodriguez Jr. (JAC)
-RB44	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+8
-136		
 Tyler Allgeier (ARI)
-RB45	14	
+RB43	14	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+14
-137		
++10
+135		
 Tyjae Spears (TEN)
-RB46	9	
+RB44	9	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+12
-138		
++10
+136		
+Chris Rodriguez Jr. (JAC)
+RB45	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++2
+137		
 Sam Darnold (SEA)
 QB22	11	
 
@@ -1388,7 +1378,17 @@ QB22	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+44
++47
+138		
+De'Zhaun Stribling (SF)
+WR55	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-17
 139		
 C.J. Stroud (HOU)
 QB23	8	
@@ -1398,88 +1398,18 @@ QB23	8
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+38
++39
 140		
-Zach Charbonnet (SEA)
-RB47	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--6
-141		
-Dylan Sampson (CLE)
-RB48	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+53
-142		
 Deebo Samuel Sr. (SF)
-WR55	8	
+WR56	8	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--14
-143		
-Denzel Boston (CLE)
-WR56	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+18
-144		
-Alvin Kamara (NO)
-RB49	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--2
-145		
-Rashid Shaheed (SEA)
-WR57	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+1
-146		
-Keaton Mitchell (LAC)
-RB50	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+20
-147		
-De'Zhaun Stribling (SF) 
-WR58	8	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--8
-148		
+-12
+141		
 Daniel Jones (IND)
 QB24	13	
 
@@ -1488,7 +1418,77 @@ QB24	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+27
++33
+142		
+Dylan Sampson (CLE)
+RB46	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++51
+143		
+Denzel Boston (CLE)
+WR57	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++21
+144		
+Rashid Shaheed (SEA)
+WR58	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-2
+145		
+Keaton Mitchell (LAC)
+RB47	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++11
+146		
+Cam Ward (TEN)
+QB25	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++65
+147		
+Zach Charbonnet (SEA)
+RB48	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-6
+148		
+Jonah Coleman (DEN)
+RB49	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++13
 149		
 Brenton Strange (JAC)
 TE17	7	
@@ -1498,7 +1498,7 @@ TE17	7
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+7
++11
 150		
 Chig Okonkwo (WAS)
 TE18	7	
@@ -1508,68 +1508,78 @@ TE18	7
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
-+19
++29
 151		
-Cam Ward (TEN)
-QB25	9	
+Tre Tucker (LV)
+WR59	13	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+56
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++26
 152		
-Isiah Pacheco (DET)
-RB51	6	
+Dalton Schultz (HOU)
+TE19	8	
 
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-0
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++29
 153		
-Jonah Coleman (DEN)
-RB52	10	
+Isiah Pacheco (DET)
+RB50	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+38
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++1
 154		
 Hunter Henry (NE)
-TE19	11	
+TE20	11	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-0
++1
 155		
-Tank Bigsby (PHI)
-RB53	10	
+Tyrone Tracy Jr. (NYG)
+RB51	8	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+12
++30
 156		
-Bryce Young (CAR)
-QB26	5	
+Alvin Kamara (NO)
+RB52	8	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+56
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-6
 157		
+Adonai Mitchell (NYJ)
+WR60	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++59
+158		
 Houston Texans (HOU)
 DST1	8	
 
@@ -1578,89 +1588,59 @@ DST1	8
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--62
+-59
 Tier 10	 	Customize Tiers
-158		
-Jauan Jennings (MIN)
-WR59	6	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+40
 159		
-Jerry Jeudy (CLE)
-WR60	11	
+Tank Bigsby (PHI)
+RB53	10	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+12
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++11
 160		
-Tre Tucker (LV)
-WR61	13	
+Bryce Young (CAR)
+QB26	5	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+16
++69
 161		
-Jalen McMillan (TB)
-WR62	10	
+Jerry Jeudy (CLE)
+WR61	11	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+41
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++14
 162		
-Adonai Mitchell (NYJ)
-WR63	13	
+Jauan Jennings (MIN)
+WR62	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+62
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++38
 163		
-Dalton Schultz (HOU)
-TE20	8	
+Mike Washington Jr. (LV)
+RB54	13	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+17
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-20
 164		
-Brian Robinson Jr. (ATL)
-RB54	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--2
-165		
-Omar Cooper Jr. (NYJ)
-WR64	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+34
-166		
 Braelon Allen (NYJ)
 RB55	13	
 
@@ -1669,8 +1649,18 @@ RB55	13
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
++32
+165		
+Jalen McMillan (TB)
+WR63	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
 +37
-167		
+166		
 Denver Broncos (DEN)
 DST2	10	
 
@@ -1679,28 +1669,28 @@ DST2	10
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--52
+-51
+167		
+MarShawn Lloyd (GB)
+RB56	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++22
 168		
-Tre' Harris (LAC)
-WR65	7	
+Brian Robinson Jr. (ATL)
+RB57	11	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+60
+-6
 169		
-Travis Hunter (JAC)
-WR66	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+47
-170		
 Seattle Seahawks (SEA)
 DST3	11	
 
@@ -1709,8 +1699,8 @@ DST3	11
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--47
-171		
+-46
+170		
 Los Angeles Rams (LAR)
 DST4	11	
 
@@ -1720,37 +1710,57 @@ DST4	11
 2 out of 5 stars
 2 out of 5 stars
 -54
+171		
+Tre' Harris (LAC)
+WR64	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++54
 172		
-Oronde Gadsden II (LAC)
-TE21	7	
+Kayshon Boutte (HOU)
+WR65	8	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+15
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++47
 173		
-T.J. Hockenson (MIN)
-TE22	6	
+Omar Cooper Jr. (NYJ)
+WR66	13	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--14
++48
 174		
-Jacoby Brissett (ARI)
-QB27	14	
+T.J. Hockenson (MIN)
+TE21	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+76
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-15
 175		
+Dontayvion Wicks (PHI)
+WR67	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++80
+176		
 Philadelphia Eagles (PHI)
 DST5	10	
 
@@ -1759,17 +1769,7 @@ DST5	10
 0 out of 5 stars
 0 out of 5 stars
 0 out of 5 stars
--38
-176		
-Jalen Nailor (LV)
-WR67	13	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+16
+-37
 177		
 Ryan Flournoy (DAL)
 WR68	14	
@@ -1779,8 +1779,18 @@ WR68	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+69
++85
 178		
+Jacoby Brissett (ARI)
+QB27	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++66
+179		
 Malik Washington (MIA)
 WR69	6	
 
@@ -1789,27 +1799,17 @@ WR69	6
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+48
-179		
-Dontayvion Wicks (PHI)
++41
+180		
+Pat Bryant (DEN)
 WR70	10	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+90
-180		
-Ray Davis (BUF)
-RB56	7	
-
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+58
++95
 181		
 Brandon Aubrey (DAL)
 K1	14	
@@ -1821,66 +1821,6 @@ K1	14
 2 out of 5 stars
 -84
 182		
-Minnesota Vikings (MIN)
-DST6	6	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--24
-183		
-Pittsburgh Steelers (PIT)
-DST7	9	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--32
-184		
-New England Patriots (NE)
-DST8	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--31
-185		
-Pat Bryant (DEN)
-WR71	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+79
-186		
-MarShawn Lloyd (GB) 
-RB57	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+18
-187		
-Jacksonville Jaguars (JAC)
-DST9	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--17
-188		
 Emmett Johnson (KC)
 RB58	5	
 
@@ -1889,88 +1829,108 @@ RB58	5
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+49
-189		
-Los Angeles Chargers (LAC)
-DST10	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--21
-190		
-Jaylin Noel (HOU)
-WR72	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+94
-191		
-Sean Tucker (TB)
-RB59	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+56
-192		
-Kayshon Boutte (NE)
-WR73	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
 +40
-193		
-AJ Barner (SEA)
-TE23	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--5
-194		
-Ka'imi Fairbairn (HOU)
-K2	8	
+183		
+Jalen Nailor (LV)
+WR71	13	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--59
-195		
++12
+184		
+Ray Davis (BUF)
+RB59	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++39
+185		
+Pittsburgh Steelers (PIT)
+DST6	9	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-33
+186		
+New England Patriots (NE)
+DST7	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-33
+187		
+Minnesota Vikings (MIN)
+DST8	6	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-29
+188		
+Keenan Allen (IND)
+WR72	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-22
+189		
 Cameron Dicker (LAC)
-K3	7	
+K2	7	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--66
-196		
-Kimani Vidal (LAC)
-RB60	7	
+-58
+190		
+Jacksonville Jaguars (JAC)
+DST9	7	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+46
-197		
+-18
+191		
+Ka'imi Fairbairn (HOU)
+K3	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-57
+192		
+Travis Hunter (JAC)
+WR73	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++51
+193		
 Calvin Ridley (TEN)
 WR74	9	
 
@@ -1979,8 +1939,58 @@ WR74	9
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--8
+-2
+194		
+AJ Barner (SEA)
+TE22	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++9
+195		
+Kimani Vidal (LAC)
+RB60	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++39
+196		
+Los Angeles Chargers (LAC)
+DST10	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-23
+197		
+Sean Tucker (TB)
+RB61	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++45
 198		
+Jaylin Noel (HOU)
+WR75	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++73
+199		
 Cam Little (JAC)
 K4	7	
 
@@ -1990,58 +2000,18 @@ K4	7
 4 out of 5 stars
 4 out of 5 stars
 -51
-199		
-Tank Dell (HOU)
-WR75	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--27
-200		
-James Conner (ARI)
-RB61	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+13
-201		
-Mike Washington Jr. (LV)
-RB62	13	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--17
 Tier 11	 	Customize Tiers
-202		
-Nicholas Singleton (TEN)
-RB63	9	
+200		
+Oronde Gadsden II (LAC)
+TE23	7	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+34
-203		
-Baltimore Ravens (BAL)
-DST11	13	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--46
-204		
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++45
+201		
 Jason Myers (SEA)
 K5	11	
 
@@ -2050,67 +2020,97 @@ K5	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--72
-205		
-Gunnar Helm (TEN)
-TE24	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+53
-206		
-Troy Franklin (DEN)
-WR76	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+72
-207		
-Kenyon Sadiq (NYJ)
-TE25	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--44
-208		
-Isaac TeSlaa (DET)
-WR77	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+31
-209		
-Eddy Pineiro (SF)
-K6	8	
+-68
+202		
+Baltimore Ravens (BAL)
+DST11	13	
 
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--35
-210		
+-45
+203		
+Terrance Ferguson (LAR)
+TE24	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-4
+204		
 Tyler Loop (BAL)
-K7	13	
+K6	13	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--37
+-22
+205		
+Aaron Rodgers (PIT)
+QB28	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++30
+206		
+Gunnar Helm (TEN)
+TE25	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++63
+207		
+Eddy Pineiro (SF)
+K7	8	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-24
+208		
+Tank Dell (HOU)
+WR76	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-39
+209		
+Nicholas Singleton (TEN)
+RB62	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++27
+210		
+Geno Smith (NYJ)
+QB29	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++164
 211		
 Kansas City Chiefs (KC)
 DST12	5	
@@ -2120,8 +2120,18 @@ DST12	5
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--18
+-4
 212		
+Kenyon Sadiq (NYJ)
+TE26	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-47
+213		
 Green Bay Packers (GB)
 DST13	11	
 
@@ -2130,78 +2140,18 @@ DST13	11
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--29
-213		
-Emanuel Wilson (SEA)
-RB64	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+52
+-27
 214		
-Rashod Bateman (BAL)
-WR78	13	
+James Conner (ARI)
+RB63	14	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+30
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-9
 215		
-Darnell Mooney (NYG)
-WR79	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+42
-216		
-Aaron Rodgers (PIT)
-QB28	9	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+6
-217		
-Terrance Ferguson (LAR)
-TE26	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--11
-218		
-Geno Smith (NYJ)
-QB29	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+152
-219		
-Jaydon Blue (DAL)
-RB65	14	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+16
-220		
 Jake Bates (DET)
 K8	6	
 
@@ -2210,8 +2160,8 @@ K8	6
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--60
-221		
+-48
+216		
 Cairo Santos (CHI)
 K9	10	
 
@@ -2220,18 +2170,58 @@ K9	10
 0 out of 5 stars
 0 out of 5 stars
 0 out of 5 stars
--24
-222		
-Kaytron Allen (WAS)
-RB66	7	
+-22
+217		
+Isaac TeSlaa (DET)
+WR77	6	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+29
-223		
++43
+218		
+Cooper Kupp (SEA)
+WR78	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-10
+219		
+Rashod Bateman (BAL)
+WR79	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++55
+220		
+Darnell Mooney (NYG)
+WR80	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++66
+221		
+Troy Franklin (DEN)
+WR81	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++58
+222		
 Evan McPherson (CIN)
 K10	6	
 
@@ -2240,88 +2230,18 @@ K10	6
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--33
+-34
+223		
+Jaydon Blue (DAL)
+RB64	14	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++5
 224		
-Antonio Williams (WAS)
-WR80	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+19
-225		
-Zachariah Branch (ATL)
-WR81	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+6
-226		
-Cooper Kupp (SEA)
-WR82	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--31
-227		
-Pat Freiermuth (PIT)
-TE27	9	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--4
-228		
-Harrison Mevis (LAR)
-K11	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--64
-229		
-Chase McLaughlin (TB)
-K12	10	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--29
-230		
-Keenan Allen (IND) 
-WR83	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--22
-231		
-Andy Borregales (NE)
-K13	11	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-+2
-232		
 Detroit Lions (DET)
 DST14	6	
 
@@ -2330,28 +2250,98 @@ DST14	6
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--54
-233		
+-48
+225		
+Pat Freiermuth (PIT)
+TE27	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++13
+226		
+Harrison Mevis (LAR)
+K11	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-58
+227		
+Andy Borregales (NE)
+K12	11	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-1
+228		
+Kaytron Allen (WAS)
+RB65	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++12
+229		
+Chase McLaughlin (TB)
+K13	10	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-12
+230		
 Germie Bernard (PIT)
-WR84	9	
+WR82	9	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+16
-234		
++42
+231		
+Cleveland Browns (CLE)
+DST15	11	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-34
+232		
+Emanuel Wilson (SEA)
+RB66	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++61
+233		
 Buffalo Bills (BUF)
-DST15	7	
+DST16	7	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--38
-235		
+-41
+234		
 Cade Otton (TB)
 TE28	10	
 
@@ -2360,10 +2350,20 @@ TE28	10
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--16
++5
+235		
+Ja'Kobi Lane (BAL) 
+WR83	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-64
 236		
-Jaylen Wright (MIA)
-RB67	6	
+Zachariah Branch (ATL)
+WR84	11	
 
 3 out of 5 stars
 3 out of 5 stars
@@ -2372,66 +2372,6 @@ RB67	6
 3 out of 5 stars
 +23
 237		
-Cleveland Browns (CLE)
-DST16	11	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--32
-238		
-Jack Bech (LV)
-WR85	13	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+53
-239		
-Ollie Gordon II (MIA)
-RB68	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+63
-240		
-Chimere Dike (TEN)
-WR86	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+78
-241		
-Justice Hill (BAL)
-RB69	13	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--11
-242		
-Chris Boswell (PIT)
-K14	9	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--57
-243		
 Greg Dulcich (MIA)
 TE29	6	
 
@@ -2440,7 +2380,67 @@ TE29	6
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--25
+-24
+238		
+Antonio Williams (WAS)
+WR85	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++29
+239		
+Jaylen Wright (MIA)
+RB67	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++11
+240		
+Justice Hill (BAL)
+RB68	13	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++16
+241		
+George Holani (SEA)
+RB69	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++16
+242		
+Kaelon Black (SF)
+RB70	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-41
+243		
+Jack Bech (LV)
+WR86	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++47
 244		
 Evan Engram (DEN)
 TE30	10	
@@ -2450,69 +2450,8 @@ TE30	10
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+94
++109
 245		
-Fernando Mendoza (LV)
-QB30	13	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--34
-246		
-George Holani (SEA)
-RB70	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+25
-Tier 12	 	Customize Tiers
-247		
-Harrison Butker (KC)
-K15	5	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--66
-248		
-Ted Hurst III (TB) 
-WR87	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+34
-249		
-Keon Coleman (BUF)
-WR88	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+12
-250		
-Malachi Fields (NYG)
-WR89	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--30
-251		
 David Njoku (LAC)
 TE31	7	
 
@@ -2521,28 +2460,119 @@ TE31	7
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--42
-252		
-Elic Ayomanor (TEN)
-WR90	9	
+-35
+246		
+Caleb Douglas (MIA)
+WR87	6	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+54
+-37
+247		
+Harrison Butker (KC)
+K14	5	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-67
+248		
+Malachi Fields (NYG)
+WR88	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-16
+249		
+Keon Coleman (BUF)
+WR89	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++42
+Tier 12	 	Customize Tiers
+250		
+Devaughn Vele (NO)
+WR90	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++2
+251		
+Chris Boswell (PIT)
+K15	9	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-45
+252		
+Fernando Mendoza (LV)
+QB30	13	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-28
 253		
-Demond Claiborne (MIN)
+Chimere Dike (TEN)
+WR91	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++74
+254		
+Ted Hurst III (TB)
+WR92	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++27
+255		
+Ollie Gordon II (MIA)
 RB71	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+10
-254		
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++136
+256		
+Chris Bell (MIA)
+WR93	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-8
+257		
 Isaiah Davis (NYJ)
 RB72	13	
 
@@ -2551,18 +2581,48 @@ RB72	13
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+193
-255		
-Chris Bell (MIA)
-WR91	6	
++301
+258		
+Elic Ayomanor (TEN)
+WR94	9	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+48
-256		
++46
+259		
+Demond Claiborne (MIN)
+RB73	6	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++41
+260		
+Najee Harris (NYG)
+RB74	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-23
+261		
+Samaje Perine (CIN)
+RB75	6	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++111
+262		
 Colby Parkinson (LAR)
 TE32	11	
 
@@ -2571,18 +2631,8 @@ TE32	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+39
-257		
-Tory Horton (SEA)
-WR92	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+36
-258		
++34
+263		
 Tua Tagovailoa (ATL)
 QB31	11	
 
@@ -2591,137 +2641,87 @@ QB31	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+31
-259		
-Ja'Kobi Lane (BAL)
-WR93	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--80
-260		
-Christian Kirk (SF)
-WR94	8	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--6
-261		
-Elijah Sarratt (BAL)
-WR95	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+53
-262		
-LeQuint Allen Jr. (JAC)
-RB73	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+122
-263		
-Ty Johnson (BUF)
-RB74	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+31
++19
 264		
-Devaughn Vele (NO)
-WR96	8	
+LeQuint Allen Jr. (JAC)
+RB76	7	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+8
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++136
 265		
-Jordan James (SF)
-RB75	8	
+Tory Horton (SEA)
+WR95	11	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--31
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++29
 266		
-Kaelon Black (SF)
-RB76	8	
+Ty Johnson (BUF)
+RB77	7	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--25
++201
 267		
-Chris Brooks (GB)
-RB77	11	
+Cyrus Allen (KC)
+WR96	5	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+129
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-69
 268		
-Wil Lutz (DEN)
-K16	10	
+Jordan James (SF)
+RB78	8	
 
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--54
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-37
 269		
-Caleb Douglas (MIA)
-WR97	6	
+Will Reichard (MIN)
+K16	6	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--24
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-79
 270		
-Samaje Perine (CIN)
-RB78	6	
+Wil Lutz (DEN)
+K17	10	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+9
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-66
 271		
-Mason Taylor (NYJ)
-TE33	13	
+Elijah Sarratt (BAL)
+WR97	13	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+14
++68
 272		
 Tyquan Thornton (KC)
 WR98	5	
@@ -2731,90 +2731,30 @@ WR98	5
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+142
-273		
-Xavier Legette (CAR)
-WR99	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
 +144
-274		
-DJ Giddens (IND)
-RB79	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+31
-275		
+273		
 Darius Slayton (NYG)
-WR100	8	
+WR99	8	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+133
-276		
-Will Reichard (MIN)
-K17	6	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--90
-277		
-Eli Stowers (PHI)
-TE34	10	
++162
+274		
+Chris Brooks (GB)
+RB79	11	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--9
-278		
-Marvin Mims Jr. (DEN)
-WR101	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+12
-279		
-Theo Johnson (NYG)
-TE35	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+31
-280		
-Trey Benson (ARI)
-RB80	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+54
-281		
-Michael Penix Jr. (ATL)
-QB32	11	
++124
+275		
+Mason Taylor (NYJ)
+TE33	13	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -2822,47 +2762,47 @@ QB32	11
 4 out of 5 stars
 4 out of 5 stars
 +5
-282		
-Oscar Delp (NO)
-TE36	8	
+276		
+Christian Kirk (SF)
+WR100	8	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+250
-283		
-Devin Neal (NO)
-RB81	8	
+-22
+277		
+Xavier Legette (CAR)
+WR101	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++161
+278		
+Marvin Mims Jr. (DEN)
+WR102	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++9
+279		
+Theo Johnson (NYG)
+TE34	8	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+47
-284		
-Kirk Cousins (LV)
-QB33	13	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-+3
-285		
-Malik Davis (DAL)
-RB82	14	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+121
-286		
++33
+280		
 San Francisco 49ers (SF)
 DST17	8	
 
@@ -2871,18 +2811,48 @@ DST17	8
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--65
-287		
-Atlanta Falcons (ATL)
-DST18	11	
+-50
+281		
+Malik Davis (DAL)
+RB80	14	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--47
-288		
++33
+282		
+Michael Penix Jr. (ATL)
+QB32	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-4
+283		
+Kirk Cousins (LV)
+QB33	13	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++12
+284		
+DJ Giddens (IND)
+RB81	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++138
+285		
 Deshaun Watson (CLE)
 QB34	11	
 
@@ -2891,38 +2861,48 @@ QB34	11
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+87
++95
+286		
+Atlanta Falcons (ATL)
+DST18	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-53
+287		
+Devin Neal (NO)
+RB82	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++51
+288		
+Seth McGowan (IND)
+RB83	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++238
 289		
-Cyrus Allen (KC)
-WR102	5	
+Eli Stowers (PHI)
+TE35	10	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--74
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-31
 290		
-Shedeur Sanders (CLE)
-QB35	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--37
-291		
-Brashard Smith (KC)
-RB83	5	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+10
-292		
 New Orleans Saints (NO)
 DST19	8	
 
@@ -2931,19 +2911,29 @@ DST19	8
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--65
-293		
-Kaleb Johnson (PIT)
-RB84	9	
+-44
+291		
+Shedeur Sanders (CLE)
+QB35	11	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--27
-294		
-Emari Demercado (KC)
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-44
+292		
+Kendre Miller (NO)
+RB84	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++24
+293		
+Brashard Smith (KC)
 RB85	5	
 
 3 out of 5 stars
@@ -2951,28 +2941,8 @@ RB85	5
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+60
-295		
-Devin Singletary (NYG)
-RB86	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+5
-296		
-Najee Harris (NYG)
-RB87	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+3
-297		
++26
+294		
 Kyle Williams (NE)
 WR103	11	
 
@@ -2981,8 +2951,18 @@ WR103	11
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--20
-298		
+-30
+295		
+Adam Randall (BAL)
+RB86	13	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++312
+296		
 Hollywood Brown (PHI)
 WR104	10	
 
@@ -2991,37 +2971,58 @@ WR104	10
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+17
++5
+297		
+Emari Demercado (KC)
+RB87	5	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++72
+298		
+Trey Benson (ARI) 
+RB88	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++12
 299		
-Seth McGowan (IND)
-RB88	13	
+Mike Gesicki (CIN)
+TE36	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+183
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++59
 300		
-Adam Randall (BAL)
-RB89	13	
+Devin Singletary (NYG)
+RB89	8	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+240
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-11
+Tier 13	 	Customize Tiers
 301		
-Brandon Aiyuk (SF)
-WR105	8	
+Mack Hollins (NE)
+WR105	11	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--21
++51
 302		
 Isaiah Bond (CLE)
 WR106	11	
@@ -3031,69 +3032,28 @@ WR106	11
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+59
++267
 303		
-Mack Hollins (NE)
-WR107	11	
+Kaleb Johnson (PIT)
+RB90	9	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+40
++21
 304		
-Kendre Miller (NO)
-RB90	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+37
-305		
-Mike Gesicki (CIN)
-TE37	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+34
-306		
 Skyler Bell (BUF)
-WR108	7	
+WR107	7	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+16
-Tier 13	 	Customize Tiers
-307		
-Trevor Etienne (CAR)
-RB91	5	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-+220
-308		
-Jerome Ford (WAS)
-RB92	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-309		
++46
+305		
 Indianapolis Colts (IND)
 DST20	13	
 
@@ -3102,17 +3062,57 @@ DST20	13
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--33
-310		
-Isaac Guerendo (SF)
-RB93	8	
+-37
+306		
+Trevor Etienne (CAR)
+RB91	5	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++283
+307		
+Darren Waller (CAR)
+TE37	5	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--
++98
+308		
+Chicago Bears (CHI)
+DST21	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-96
+309		
+Jake Tonges (SF)
+TE38	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-12
+310		
+Brandon Aiyuk (SF)
+WR108	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-45
 311		
 Andrei Iosivas (CIN)
 WR109	6	
@@ -3122,7 +3122,7 @@ WR109	6
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+76
++96
 312		
 Charlie Smyth (NO)
 K18	8	
@@ -3132,94 +3132,84 @@ K18	8
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--4
++130
 313		
-Tahj Brooks (CIN)
-RB94	6	
+Jerome Ford (WAS)
+RB92	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++302
+314		
+Jarquez Hunter (MIA)
+RB93	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++72
+315		
+Jaleel McLaughlin (DEN)
+RB94	10	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+202
-314		
++309
+316		
+Isaac Guerendo (SF)
+RB95	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++245
+317		
+Tahj Brooks (CIN)
+RB96	6	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++128
+318		
+Oscar Delp (NO) 
+TE39	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++288
+319		
+Audric Estime (NO)
+RB97	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++59
+320		
 Tyreek Hill (FA)
 WR110	-	
 
 -	
--97
-315		
-Jake Tonges (SF)
-TE38	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--48
-316		
-Jarquez Hunter (LAR)
-RB95	11	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+55
-317		
-Audric Estime (NO)
-RB96	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+46
-318		
-Jaleel McLaughlin (DEN)
-RB97	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+296
-319		
-Chicago Bears (CHI)
-DST21	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--118
-320		
-Will Shipley (PHI)
-RB98	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+179
+-105
 321		
-Darnell Washington (PIT)
-TE39	9	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--33
-322		
 Jahan Dotson (ATL)
 WR111	11	
 
@@ -3228,44 +3218,48 @@ WR111	11
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+107
++201
+322		
+Darnell Washington (PIT)
+TE40	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-38
 323		
-Michael Mayer (LV)
-TE40	13	
+Will Shipley (PHI)
+RB98	10	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+80
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++158
 324		
-Darren Waller (CAR) 
-TE41	5	
+Michael Mayer (LV)
+TE41	13	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+101
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++122
 325		
-Jalen Tolbert (MIA)
-WR112	6	
+DeMario Douglas (NE)
+WR112	11	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--29
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++241
 326		
-Kareem Hunt (FA)
-RB99	-	
-
--	
--10
-327		
 Elijah Arroyo (SEA)
 TE42	11	
 
@@ -3274,8 +3268,38 @@ TE42	11
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--16
++3
+327		
+Jalen Tolbert (MIA)
+WR113	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++184
 328		
+Bryce Lance (NO)
+WR114	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++62
+329		
+Charlie Kolar (LAC) 
+TE43	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++96
+330		
 Dallas Cowboys (DAL)
 DST22	14	
 
@@ -3284,104 +3308,114 @@ DST22	14
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
--118
-329		
-J.J. McCarthy (MIN)
-QB36	6	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--74
-330		
-Joe Mixon (FA)
-RB100	-	
-
--	
--11
+-143
 331		
-DeMario Douglas (NE)
-WR113	11	
+Xavier Hutchinson (HOU)
+WR115	8	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+134
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++281
 332		
 Carson Beck (ARI)
-QB37	14	
+QB36	14	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--34
+-19
 333		
-Tez Johnson (TB)
-WR114	10	
+Cole Kmet (CHI)
+TE44	10	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+177
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-45
 334		
-Konata Mumpfield (LAR)
-WR115	11	
+J.J. McCarthy (MIN)
+QB37	6	
 
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-+64
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-85
 335		
-Cedric Tillman (CLE)
-WR116	11	
+Erick All Jr. (CIN)
+TE45	6	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+201
+-
 336		
-Bryce Lance (NO)
-WR117	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+249
-337		
 Tyler Higbee (LAR)
-TE43	11	
+TE46	11	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--8
+-1
+337		
+Kareem Hunt (FA)
+RB99	-	
+
+-	
++200
 338		
-Chris Brazzell II (CAR)
-WR118	5	
+Tez Johnson (TB)
+WR116	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++259
+339		
+Konata Mumpfield (LAR)
+WR117	11	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++12
+340		
+Bam Knight (ARI)
+RB100	14	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+243
-339		
+-
+341		
+Olamide Zaccheaus (ATL)
+WR118	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++207
+342		
 Jalen Royals (KC)
 WR119	5	
 
@@ -3390,69 +3424,101 @@ WR119	5
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+252
-340		
-Calvin Austin III (NYG)
-WR120	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+113
-341		
-Olamide Zaccheaus (ATL)
-WR121	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+166
-342		
-Max Klare (LAR)
-TE44	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+49
++71
 343		
-Cole Kmet (CHI)
-TE45	10	
+Cedric Tillman (FA)
+WR120	-	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--51
-344		
-Luke McCaffrey (WAS)
-WR122	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--18
-345		
-Erick All Jr. (CIN)
-TE46	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
+-	
 -
+344		
+Joe Mixon (FA)
+RB101	-	
+
+-	
+-74
 Tier 14	 	Customize Tiers
+345		
+Eli Raridon (NE)
+TE47	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-9
 346		
+Luke McCaffrey (WAS)
+WR121	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-38
+347		
+Kendrick Bourne (ARI)
+WR122	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++266
+348		
+Dawson Knox (BUF)
+TE48	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-45
+349		
+Joshua Palmer (BUF)
+WR123	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-15
+350		
+Max Klare (LAR)
+TE49	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-8
+351		
+Chris Brazzell II (CAR)
+WR124	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++280
+352		
+Brenen Thompson (LAC)
+WR125	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++253
+353		
 Mac Jones (SF)
 QB38	8	
 
@@ -3461,40 +3527,10 @@ QB38	8
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
--23
-347		
-Eli Heidenreich (PIT)
-RB101	9	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+218
-348		
-Brenen Thompson (LAC)
-WR123	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+240
-349		
-Bam Knight (ARI)
-RB102	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
-350		
+-25
+354		
 Noah Gray (KC)
-TE47	5	
+TE50	5	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -3502,47 +3538,27 @@ TE47	5
 4 out of 5 stars
 4 out of 5 stars
 0
-351		
-Eli Raridon (NE)
-TE48	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+18
-352		
-Carolina Panthers (CAR)
-DST23	5	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--92
-353		
-Dawson Knox (BUF)
-TE49	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--36
-354		
-New York Giants (NYG)
-DST24	8	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--129
 355		
+Eli Heidenreich (PIT)
+RB102	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+356		
+New York Giants (NYG)
+DST23	8	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-138
+357		
 Jake Elliott (PHI)
 K19	10	
 
@@ -3551,68 +3567,18 @@ K19	10
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
--126
-356		
-Ja'Tavion Sanders (CAR) 
-TE50	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+11
-357		
-Justin Fields (KC)
-QB39	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--50
+-116
 358		
-Charlie Kolar (LAC) 
-TE51	7	
+Carolina Panthers (CAR)
+DST24	5	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+144
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-107
 359		
-Justin Joly (DEN)
-TE52	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+196
-360		
-Joshua Palmer (BUF)
-WR124	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--39
-361		
-Kendrick Bourne (ARI)
-WR125	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+217
-362		
 Treylon Burks (WAS)
 WR126	7	
 
@@ -3621,18 +3587,18 @@ WR126	7
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+194
-363		
-Tampa Bay Buccaneers (TB)
-DST25	10	
++251
+360		
+Ja'Tavion Sanders (CAR)
+TE51	5	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--115
-364		
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-34
+361		
 Tyler Bass (BUF)
 K20	7	
 
@@ -3641,8 +3607,68 @@ K20	7
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--112
+-134
+362		
+Tennessee Titans (TEN)
+DST25	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-85
+363		
+Malik Benson (LV)
+WR127	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++120
+364		
+Trey Smack (GB)
+K21	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-150
 365		
+Justin Fields (KC)
+QB39	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-44
+366		
+Tampa Bay Buccaneers (TB)
+DST26	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-90
+367		
+Justin Joly (DEN)
+TE52	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++51
+368		
 Ty Simpson (LAR)
 QB40	11	
 
@@ -3651,104 +3677,104 @@ QB40	11
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--82
-366		
-Xavier Hutchinson (HOU)
-WR127	8	
+-107
+369		
+Nick Folk (ATL)
+K22	11	
+
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+-103
+370		
+Jawhar Jordan (HOU)
+RB103	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++214
+371		
+Michael Carter (TEN)
+RB104	9	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+205
-367		
+-
+372		
+Cincinnati Bengals (CIN)
+DST27	6	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-119
+373		
+Savion Williams (GB)
+WR128	11	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++254
+374		
 Zane Gonzalez (FA)
-K21	-	
+K23	-	
 
 -	
-+117
-368		
-Michael Carter (TEN)
-RB103	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-369		
-Raheim Sanders (CLE)
-RB104	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+191
-370		
-Kevin Coleman Jr. (MIA)
-WR128	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+151
-371		
-Jawhar Jordan (HOU)
-RB105	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+109
-372		
-Tutu Atwell (MIA)
-WR129	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+123
-373		
-Malik Benson (LV)
-WR130	13	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+266
-374		
-Savion Williams (GB)
-WR131	11	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--
++136
 375		
-Phil Mafah (DAL)
-RB106	14	
+Roman Wilson (PIT)
+WR129	9	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++56
 376		
+Raheim Sanders (CLE)
+RB105	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++160
+377		
+Kevin Coleman Jr. (MIA)
+WR130	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++204
+378		
+Kalif Raymond (CHI)
+WR131	10	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++109
+379		
 KaVontae Turpin (DAL)
 WR132	14	
 
@@ -3757,38 +3783,58 @@ WR132	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--27
-377		
-Cincinnati Bengals (CIN)
-DST26	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--107
-378		
-Anthony Richardson Sr. (IND)
-QB41	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+202
-379		
-Roman Wilson (PIT)
-WR133	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+2
+-31
 380		
+Dont'e Thornton Jr. (LV)
+WR133	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++94
+381		
+Joe Flacco (CIN)
+QB41	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-63
+382		
+Anthony Richardson Sr. (IND)
+QB42	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++67
+383		
+John Metchie III (CAR)
+WR134	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++188
+384		
+Roschon Johnson (CHI)
+RB106	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++281
+385		
 Noah Fant (NO)
 TE53	8	
 
@@ -3797,40 +3843,40 @@ TE53	8
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+68
-381		
-Kalif Raymond (CHI)
-WR134	10	
++11
+386		
+Tutu Atwell (LAR)
+WR135	11	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--4
-382		
-John Metchie III (CAR)
-WR135	5	
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++212
+387		
+Washington Commanders (WAS)
+DST28	7	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+57
-383		
-Nick Westbrook-Ikhine (IND)
-WR136	13	
+-114
+388		
+Colbie Young (CIN)
+WR136	6	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+151
-384		
+-63
+389		
 Blake Grupe (IND)
-K22	13	
+K24	13	
 
 4 out of 5 stars
 4 out of 5 stars
@@ -3838,105 +3884,39 @@ K22	13
 4 out of 5 stars
 4 out of 5 stars
 -87
-385		
-Nick Chubb (FA)
-RB107	-	
-
--	
--17
-386		
-Zavion Thomas (CHI)
-WR137	10	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--21
-387		
-Nick Folk (ATL)
-K23	11	
-
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
--114
-388		
-Tennessee Titans (TEN)
-DST27	9	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--126
-389		
-J'Mari Taylor (JAC)
-RB108	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
 390		
-Joe Flacco (CIN)
-QB42	6	
+Demarcus Robinson (SF)
+WR137	8	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--78
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++29
 391		
-Trey Smack (GB)
-K24	11	
+Kyle Juszczyk (SF)
+RB107	8	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--135
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-9
 392		
-Dont'e Thornton Jr. (LV)
-WR138	13	
+Zavion Thomas (CHI)
+WR138	10	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+176
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-46
 393		
-Jaylin Lane (WAS)
-WR139	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+131
-394		
-Jameis Winston (NYG)
-QB43	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--74
-395		
 CJ Daniels (LAR)
-WR140	11	
+WR139	11	
 
 1 out of 5 stars
 1 out of 5 stars
@@ -3944,38 +3924,48 @@ WR140	11
 1 out of 5 stars
 1 out of 5 stars
 +121
+394		
+Joey Slye (TEN)
+K25	9	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-61
+395		
+Phil Mafah (DAL)
+RB108	14	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
 396		
-Daniel Carlson (LV)
-K25	13	
+Jaylin Lane (WAS)
+WR140	7	
 
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-+90
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++145
 397		
-Kyle Juszczyk (SF)
-RB109	8	
+Ryan Fitzgerald (CAR)
+K26	5	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--19
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+0 out of 5 stars
+-65
 398		
-Miami Dolphins (MIA)
-DST28	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--89
-399		
-Devontez Walker (BAL)
+Nick Westbrook-Ikhine (IND)
 WR141	13	
 
 4 out of 5 stars
@@ -3983,84 +3973,8 @@ WR141	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--19
-400		
-Joey Slye (TEN)
-K26	9	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--58
-401		
-Mitchell Evans (CAR)
-TE54	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
-402		
-Sione Vaki (DET)
-RB110	6	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
--
-403		
-Roschon Johnson (CHI)
-RB111	10	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+154
-404		
-Luke Musgrave (GB)
-TE55	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--49
-405		
-Jam Miller (NE)
-RB112	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+216
-406		
-Tommy Tremble (CAR)
-TE56	5	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--7
-407		
-Austin Ekeler (FA)
-RB113	-	
-
--	
-+218
-408		
++206
+399		
 Chad Ryland (ARI)
 K27	14	
 
@@ -4069,29 +3983,65 @@ K27	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--60
-409		
-Marcus Mariota (WAS)
-QB44	7	
+-88
+400		
+Luke Musgrave (GB)
+TE54	11	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+50
-410		
-Ryan Fitzgerald (CAR)
-K28	5	
+-11
+401		
+Brandon McManus (FA)
+K28	-	
 
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
-0 out of 5 stars
--74
-411		
-Ashton Dulin (IND)
+-	
+-16
+402		
+Miami Dolphins (MIA)
+DST29	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-117
+403		
+J'Mari Taylor (JAC)
+RB109	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+404		
+Daniel Carlson (NO)
+K29	8	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-16
+405		
+Tommy Tremble (CAR)
+TE55	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-48
+406		
+Devontez Walker (BAL)
 WR142	13	
 
 4 out of 5 stars
@@ -4099,75 +4049,99 @@ WR142	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--
+-75
+407		
+Ashton Dulin (IND)
+WR143	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++92
+408		
+Ben Sauls (NYG)
+K30	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-99
+409		
+Marcus Mariota (WAS)
+QB43	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++46
+410		
+Jameis Winston (NYG)
+QB44	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-105
+411		
+Las Vegas Raiders (LV)
+DST30	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-148
 412		
-Rasheen Ali (BAL)
-RB114	13	
+Barion Brown (NO)
+WR144	8	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
--
++29
 413		
 Jordan Whittington (LAR)
-WR143	11	
+WR145	11	
 
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
 1 out of 5 stars
--56
+-69
 414		
-Ben Sauls (NYG)
-K29	8	
+Jam Miller (NE)
+RB110	11	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--89
-415		
-Daniel Bellinger (TEN)
-TE57	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+135
++265
 Tier 15	 	Customize Tiers
+415		
+Rasheen Ali (BAL)
+RB111	13	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
 416		
-Jake Moody (FA)
-K30	-	
-
--	
--81
-417		
-Ben Sinnott (WAS)
-TE58	7	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--
-418		
-John Bates (WAS)
-TE59	7	
-
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--
-419		
 Cade Klubnik (NYJ)
 QB45	13	
 
@@ -4176,120 +4150,28 @@ QB45	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--34
-420		
-Spencer Shrader (IND)
-K31	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
 -75
-421		
-Joe Milton III (DAL)
-QB46	14	
+417		
+Ben Sinnott (WAS)
+TE56	7	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--33
-422		
-Las Vegas Raiders (LV)
-DST29	13	
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++192
+418		
+Sione Vaki (DET)
+RB112	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--147
-423		
-Brandon McManus (FA)
-K32	-	
-
--	
--49
-424		
-Colbie Young (CIN)
-WR144	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+20
-425		
-Dameon Pierce (PHI)
-RB115	10	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-426		
-Washington Commanders (WAS)
-DST30	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--145
-427		
-Austin Hooper (ATL)
-TE60	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+71
-428		
-Demarcus Robinson (SF)
-WR145	8	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+89
-429		
-Jeremy McNichols (WAS)
-RB116	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-430		
-Deion Burks (IND)
-WR146	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-431		
-Tommy Myers (FA)
-TE61	-	
-
--	
--
-432		
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++252
+419		
 New York Jets (NYJ)
 DST31	13	
 
@@ -4298,90 +4180,130 @@ DST31	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--105
-433		
-Zavier Scott (MIN)
-RB117	6	
++83
+420		
+Joe Milton III (DAL)
+QB46	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-41
+421		
+John Bates (WAS)
+TE57	7	
+
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
++180
+422		
+Austin Hooper (ATL)
+TE58	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++30
+423		
+Mitchell Evans (CAR)
+TE59	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+424		
+Isaiah Williams (NYJ)
+WR146	13	
 
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
++178
+425		
+Spencer Shrader (IND)
+K31	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-88
+426		
+Daniel Bellinger (TEN)
+TE60	9	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++127
+427		
+Austin Ekeler (FA)
+RB113	-	
+
+-	
++146
+428		
+Tyler Goodson (ATL)
+RB114	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
 -
-434		
-Khalil Herbert (FA)
-RB118	-	
+429		
+Hunter Luepke (DAL)
+RB115	14	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++78
+430		
+Tommy Myers (FA)
+TE61	-	
 
 -	
 -
-435		
-Ty Chandler (NO)
-RB119	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-436		
-Robert Henry Jr. (WAS)
-RB120	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-437		
-Odell Beckham Jr. (NYG)
-WR147	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--113
-438		
-Greg Dortch (DET)
-WR148	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--15
-439		
-Terrell Jennings (FA)
-RB121	-	
-
--	
--
-440		
-Riley Leonard (IND)
-QB47	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+63
-441		
+431		
 Tai Felton (MIN)
-WR149	6	
+WR147	6	
 
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
 5 out of 5 stars
-+82
-442		
++89
+432		
+Dameon Pierce (PHI)
+RB116	10	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+433		
 Elijah Higgins (ARI)
 TE62	14	
 
@@ -4390,65 +4312,49 @@ TE62	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--42
-443		
-Damien Martinez (GB)
-RB122	11	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-444		
-Tyler Goodson (ATL)
-RB123	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
-445		
-Hunter Luepke (DAL)
-RB124	14	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+64
-446		
+-69
+434		
 Dyami Brown (WAS)
-WR150	7	
+WR148	7	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--
-447		
-Jonnu Smith (FA)
-TE63	-	
++166
+435		
+Odell Beckham Jr. (NYG)
+WR149	8	
 
--	
--
-448		
-Dylan Laube (LV)
-RB125	13	
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-95
+436		
+Greg Dortch (DET)
+WR150	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
-449		
-Isaiah Williams (NYJ) 
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++27
+437		
+Marlin Klein (HOU)
+TE63	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++52
+438		
+Deion Burks (IND)
 WR151	13	
 
 4 out of 5 stars
@@ -4456,8 +4362,180 @@ WR151	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+134
+-
+439		
+Drew Stevens (WAS)
+K32	7	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-141
+440		
+Van Jefferson (WAS)
+WR152	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++212
+441		
+Dylan Laube (LV)
+RB117	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+442		
+Jake Moody (FA)
+K33	-	
+
+-	
+-112
+443		
+Jason Sanders (NYJ)
+K34	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-128
+444		
+Terrell Jennings (FA)
+RB118	-	
+
+-	
+-
+445		
+Damien Martinez (GB)
+RB119	11	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+446		
+Alec Ingold (LAC) 
+RB120	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
+447		
+Reggie Gilliam (NE)
+RB121	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++183
+448		
+Jeremy McNichols (WAS)
+RB122	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+449		
+Jonnu Smith (GB)
+TE64	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
 450		
+Matt Hibner (BAL)
+TE65	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+451		
+Robert Henry Jr. (WAS)
+RB123	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+452		
+Ronnie Rivers (LAR)
+RB124	11	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++212
+453		
+Josh Williams (TB)
+RB125	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-130
+454		
+Mitch Tinsley (CIN)
+WR153	6	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++164
+455		
+Zavier Scott (MIN)
+RB126	6	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+456		
+Khalil Herbert (SF)
+RB127	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++200
+457		
 Arizona Cardinals (ARI)
 DST32	14	
 
@@ -4466,180 +4544,84 @@ DST32	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--146
-451		
-Barion Brown (NO) 
-WR152	8	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+142
-452		
-Zach Ertz (FA) 
-TE64	-	
-
--	
-+175
-453		
-Marlin Klein (HOU)
-TE65	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+110
-454		
-Noah Whittington (HOU)
-RB126	8	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-455		
-Xavier Restrepo (TEN)
-WR153	9	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-456		
-Tanner Koziol (JAC)
-TE66	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+70
-457		
-Quinn Ewers (MIA)
-QB48	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+9
+-158
 458		
-Mitch Tinsley (CIN)
-WR154	6	
+Will Kacmarek (MIA)
+TE66	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+136
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+-102
 459		
-Cash Jones (ATL) 
-RB127	11	
+Jahdae Walker (CHI)
+WR154	10	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-66
 460		
-Roman Hemby (LV)
-RB128	13	
+Josh Oliver (MIN)
+TE67	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-83
 461		
-Jackson Hawes (BUF)
-TE67	7	
+Elijah Moore (PHI)
+WR155	10	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+44
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++193
 462		
-Donovan Edwards (MIA) 
-RB129	6	
+Patrick Ricard (NYG) 
+RB128	8	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++68
 463		
-Antonio Gibson (FA)
-RB130	-	
+Roman Hemby (LV)
+RB129	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+464		
+Tyler Badie (DEN)
+RB130	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+465		
+Isaiah Williams (FA)
+WR156	-	
 
 -	
-+166
-464		
-Ronnie Rivers (LAR)
-RB131	11	
-
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-5 out of 5 stars
-+149
-465		
-Frank Gore Jr. (BUF)
-RB132	7	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+14
+-
 466		
-Theo Wease Jr. (MIA)
-WR155	6	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-467		
-Juice Wells Jr. (ATL)
-WR156	11	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-468		
-Matt Hibner (BAL) 
-TE68	13	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-469		
 DeAndre Hopkins (BAL)
 WR157	13	
 
@@ -4648,118 +4630,142 @@ WR157	13
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
-+103
-470		
-Miles Davis (CAR)
-RB133	5	
+-2
+467		
+Max Bredeson (MIN)
+RB131	6	
 
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++57
+468		
+Ty Chandler (NO) 
+RB132	8	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
+469		
+Antonio Gibson (FA)
+RB133	-	
+
+-	
++117
+470		
+Tyler Lockett (LV) 
+WR158	13	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
 -
 471		
-Jahdae Walker (CHI)
-WR158	10	
+Adam Prentice (DEN) 
+RB134	10	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--59
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++145
 472		
-Jalen Reagor (MIA)
-WR159	6	
+Jordan Watkins (SF)
+WR159	8	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+187
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
 473		
-Reggie Gilliam (NE) 
-RB134	11	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+125
-474		
-Miles Sanders (FA)
-RB135	-	
+Zach Ertz (FA)
+TE68	-	
 
 -	
++106
+474		
+Jacob Cowing (SF)
+WR160	8	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
 -
 475		
-Xavier Smith (LAR)
-WR160	11	
+Tanner Koziol (JAC)
+TE69	7	
 
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
-1 out of 5 stars
--21
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++25
 476		
-Adam Trautman (DEN)
-TE69	10	
+Xavier Smith (LAR)
+WR161	11	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--72
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+1 out of 5 stars
+-79
 477		
-Elijah Mitchell (FA)
-RB136	-	
+Tim Patrick (NYJ)
+WR162	13	
 
--	
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++169
 478		
-Brandin Cooks (FA) 
-WR161	-	
+Riley Leonard (IND)
+QB47	13	
 
--	
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++117
 479		
-Jacob Cowing (SF) 
-WR162	8	
+British Brooks (HOU) 
+RB135	8	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++157
 480		
-Josh Oliver (MIN)
-TE70	6	
+Quinn Ewers (MIA)
+QB48	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--101
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-79
 481		
-Luke Schoonmaker (DAL)
-TE71	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--121
-482		
-Tyler Lockett (LV)
-WR163	13	
+Lew Nichols III (PIT)
+RB136	9	
 
 2 out of 5 stars
 2 out of 5 stars
@@ -4767,8 +4773,49 @@ WR163	13
 2 out of 5 stars
 2 out of 5 stars
 -
+482		
+Jimmy Horn Jr. (CAR)
+WR163	5	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-43
 483		
-Reggie Virgil (ARI)
+Jacob Saylors (DET)
+RB137	6	
+
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
+5 out of 5 stars
++111
+484		
+Jackson Hawes (BUF)
+TE70	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-48
+485		
+Drew Allar (PIT)
+QB49	9	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-179
+Tier 16	 	Customize Tiers
+486		
+Marquez Valdes-Scantling (DAL)
 WR164	14	
 
 2 out of 5 stars
@@ -4776,76 +4823,50 @@ WR164	14
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+114
-484		
-Jaydn Ott (KC)
-RB137	5	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-485		
-Scotty Miller (CHI)
-WR165	10	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--
-486		
-Nate Boerkircher (JAC)
-TE72	7	
-
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+157
+-27
 487		
-Marquez Valdes-Scantling (DAL)
-WR166	14	
+Chris Blair (ATL)
+WR165	11	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+61
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
 488		
-Sam Roush (CHI)
-TE73	10	
+Tyrod Taylor (GB)
+QB50	11	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+41
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-121
 489		
-Taysom Hill (FA) 
-TE74	-	
+Moliki Matavao (NO) 
+TE71	8	
 
--	
-+77
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
 490		
-Tim Patrick (NYJ)
-WR167	13	
+Jake Browning (TB)
+QB51	10	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--16
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-106
 491		
 Michael Woods II (DEN)
-WR168	10	
+WR166	10	
 
 2 out of 5 stars
 2 out of 5 stars
@@ -4853,162 +4874,263 @@ WR168	10
 2 out of 5 stars
 2 out of 5 stars
 -
-Tier 16	 	Customize Tiers
 492		
-Jimmy Horn Jr. (CAR)
-WR169	5	
+Jalen Reagor (MIA)
+WR167	6	
 
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--41
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
 493		
-Jalen Milroe (SEA)
-QB49	11	
+Xavier Restrepo (TEN)
+WR168	9	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-+68
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
 494		
-Elijah Moore (PHI)
-WR170	10	
+Drew Sample (CIN)
+TE72	6	
 
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-1
 495		
-Myles Montgomery (FA)
-RB138	-	
+Adam Trautman (DEN)
+TE73	10	
 
--	
--
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-63
 496		
-Trey Lance (LAC)
-QB50	7	
+Dominic Zvada (NYG)
+K35	8	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
--29
+-134
 497		
-Tyler Conklin (DET)
-TE75	6	
+Cade Stover (HOU)
+TE74	8	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-+28
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-1
 498		
-Drew Sample (CIN) 
-TE76	6	
+Kene Nwangwu (NYJ)
+RB138	13	
 
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
 3 out of 5 stars
-+88
+-
 499		
-Van Jefferson (WAS)
-WR171	7	
+Gardner Minshew II (ARI)
+QB52	14	
 
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
 2 out of 5 stars
-+54
++73
 500		
-Mo Alie-Cox (IND)
+Reggie Virgil (ARI)
+WR169	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++129
+501		
+Noah Whittington (HOU)
+RB139	8	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+-
+502		
+Cash Jones (ATL)
+RB140	11	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-
+503		
+Michael Burton (CLE)
+RB141	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++114
+504		
+Durham Smythe (BAL)
+TE75	13	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++92
+505		
+Tyson Bagent (CHI)
+QB53	10	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++94
+506		
+Nate Boerkircher (JAC)
+TE76	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++102
+507		
+Jeremy Ruckert (NYJ) 
 TE77	13	
 
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
-3 out of 5 stars
--27
-501		
-Michael Trigg (DAL) 
-TE78	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--99
-502		
-Jason Sanders (NYJ)
-K33	13	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
--156
-503		
-Gardner Minshew II (ARI)
-QB51	14	
-
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-2 out of 5 stars
-+96
-504		
-Jermaine Burton (FA)
-WR172	-	
-
--	
--
-505		
-Tyrod Taylor (GB)
-QB52	11	
-
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
 4 out of 5 stars
--123
-506		
-Josh Cameron (JAC)
-WR173	7	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
-507		
-Kendrick Law (DET) 
-WR174	6	
-
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
-4 out of 5 stars
--
+-3
 508		
-JuJu Smith-Schuster (FA)
-WR175	-	
+KeAndre Lambert-Smith (LAC)
+WR170	7	
 
--	
--152
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++1
+509		
+Tanner Hudson (CIN) 
+TE78	6	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
++94
+510		
+Luke Schoonmaker (DAL)
+TE79	14	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-145
+511		
+Frank Gore Jr. (BUF) 
+RB142	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
++45
+512		
+Josh Cameron (JAC)
+WR171	7	
+
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
+4 out of 5 stars
++128
+513		
+Jaret Patterson (LAC)
+RB143	7	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
+514		
+Trey Lance (LAC)
+QB54	7	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-86
+515		
+Velus Jones Jr. (SEA)
+WR172	11	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
+516		
+Jaydn Ott (KC)
+RB144	5	
+
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+3 out of 5 stars
+-
+517		
+Lil'Jordan Humphrey (DEN)
+WR173	10	
+
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+2 out of 5 stars
+-162

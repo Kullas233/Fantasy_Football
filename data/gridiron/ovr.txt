@@ -5,147 +5,147 @@ https://gridironexperts.com/fantasy-football-rankings
 4	Ja'Marr Chase CIN (6)	WR	-3	-1
 5	Jaxon Smith-Njigba SEA (11)	WR	0	+1
 6	Amon-Ra St. Brown DET (6)	WR	0	+2
-7	Christian McCaffrey SF (8)	RB	+2	-2
-8	CeeDee Lamb DAL (14)	WR	-1	+4
-9	Jonathan Taylor IND (13)	RB	+2	-2
-10	Justin Jefferson MIN (6)	WR	-2	+3
-11	James Cook III BUF (7)	RB	+4	-2
-12	Drake London ATL (11)	WR	-2	+5
-13	Saquon Barkley PHI (10)	RB	+12	+1
-14	Ashton Jeanty LV (13)	RB	-1	-4
-15	Kenneth Walker III KC (5)	RB	+13	+4
-16	Rashee Rice KC (5)	WR	+6	+10
-17	Zay Flowers BAL (13)	WR	+12	+18
-18	DeVonta Smith PHI (10)	WR	+5	+16
+7	Christian McCaffrey SF (8)	RB	+1	-2
+8	CeeDee Lamb DAL (14)	WR	-1	+2
+9	Jonathan Taylor IND (13)	RB	+1	-2
+10	Justin Jefferson MIN (6)	WR	-1	+2
+11	James Cook III BUF (7)	RB	+2	-2
+12	Drake London ATL (11)	WR	-1	+7
+13	Ashton Jeanty LV (13)	RB	+15	+2
+14	Saquon Barkley PHI (10)	RB	+8	-1
+15	Chase Brown CIN (6)	RB	0	-1
+16	A.J. Brown NE (11)	WR	-4	+4
+17	Chris Olave NO (8)	WR	-1	+10
+18	Rashee Rice KC (5)	WR	+5	+8
 19	Trey McBride ARI (14)	TE	+1	+2
-20	Chase Brown CIN (6)	RB	-4	-5
-21	A.J. Brown NE (11)	WR	-9	-1
-22	George Pickens DAL (14)	WR	-4	+2
-23	Chris Olave NO (8)	WR	-4	+5
+20	Kenneth Walker III KC (5)	RB	+7	-2
+21	Zay Flowers BAL (13)	WR	+9	+14
+22	George Pickens DAL (14)	WR	-4	+3
+23	Ladd McConkey LAC (7)	WR	+10	+21
 24	Brock Bowers LV (13)	TE	-7	-2
-25	Garrett Wilson NYJ (13)	WR	+5	+14
-26	Ladd McConkey LAC (7)	WR	+7	+19
-27	Omarion Hampton LAC (7)	RB	-1	-11
-28	Nico Collins HOU (8)	WR	-14	-3
-29	De'Von Achane MIA (6)	RB	-8	-18
+25	Nico Collins HOU (8)	WR	-11	-1
+26	DeVonta Smith PHI (10)	WR	-5	+8
+27	Omarion Hampton LAC (7)	RB	-2	-10
+28	Garrett Wilson NYJ (13)	WR	+1	+10
+29	De'Von Achane MIA (6)	RB	-10	-18
 30	Colston Loveland CHI (10)	TE	+6	+13
-31	Josh Allen BUF (7)	QB	-4	-8
-32	Jeremiyah Love ARI (14)	RB	+8	-5
-33	Travis Etienne Jr. NO (8)	RB	+15	+8
-34	Derrick Henry BAL (13)	RB	+4	-16
-35	Emeka Egbuka TB (10)	WR	+4	+2
-36	Lamar Jackson BAL (13)	QB	-5	+6
+31	Josh Allen BUF (7)	QB	-5	-8
+32	Jeremiyah Love ARI (14)	RB	+9	-3
+33	Breece Hall NYJ (13)	RB	+6	0
+34	Kyren Williams LAR (11)	RB	+8	-4
+35	Emeka Egbuka TB (10)	WR	+5	+5
+36	Lamar Jackson BAL (13)	QB	-5	+5
 37	Drake Maye NE (11)	QB	0	+16
-38	Jaylen Waddle DEN (10)	WR	-4	+10
-39	Joe Burrow CIN (6)	QB	+6	+17
-40	Malik Nabers NYG (8)	WR	-16	-11
-41	Kyren Williams LAR (11)	RB	+1	-11
-42	Tetairoa McMillan CAR (5)	WR	-10	-4
-43	Terry McLaurin WAS (7)	WR	+3	+12
-44	Tee Higgins CIN (6)	WR	-9	-4
-45	Luther Burden III CHI (10)	WR	+2	+9
-46	Josh Jacobs GB (11)	RB	-3	-13
-47	Breece Hall NYJ (13)	RB	-6	-16
-48	Carnell Tate TEN (9)	WR	+16	+19
-49	Davante Adams LAR (11)	WR	0	+1
-50	Jadarian Price SEA (11)	RB	+21	+12
-51	Rome Odunze CHI (10)	WR	+5	+10
-52	Mike Evans SF (8)	WR	0	+12
-53	David Montgomery HOU (8)	RB	+9	-2
-54	Jalen Hurts PHI (10)	QB	+4	+9
-55	Jameson Williams DET (6)	WR	-1	+3
-56	Quinshon Judkins CLE (11)	RB	+5	-10
-57	Tyler Warren IND (13)	TE	-6	-10
-58	D'Andre Swift CHI (10)	RB	-1	-9
-59	Jayden Daniels WAS (7)	QB	-6	+1
-60	Christian Watson GB (11)	WR	-1	+9
-61	Javonte Williams DAL (14)	RB	-17	-29
-62	Michael Wilson ARI (14)	WR	+25	+22
+38	Jaylen Waddle DEN (10)	WR	-6	+10
+39	Joe Burrow CIN (6)	QB	+5	+15
+40	Malik Nabers NYG (8)	WR	-16	-12
+41	Travis Etienne Jr. NO (8)	RB	+7	-5
+42	Terry McLaurin WAS (7)	WR	+4	+13
+43	Tetairoa McMillan CAR (5)	WR	-9	-4
+44	Davante Adams LAR (11)	WR	+5	+7
+45	Luther Burden III CHI (10)	WR	+2	+11
+46	Derrick Henry BAL (13)	RB	-8	-30
+47	Jadarian Price SEA (11)	RB	+23	+13
+48	Tee Higgins CIN (6)	WR	-13	-6
+49	Rome Odunze CHI (10)	WR	+9	+12
+50	David Montgomery HOU (8)	RB	+11	-1
+51	Jameson Williams DET (6)	WR	+3	+7
+52	Carnell Tate TEN (9)	WR	+14	+22
+53	Quinshon Judkins CLE (11)	RB	+9	-6
+54	Jalen Hurts PHI (10)	QB	+2	+9
+55	Mike Evans SF (8)	WR	0	+9
+56	Cam Skattebo NYG (8)	RB	+1	-19
+57	Tucker Kraft GB (11)	TE	+24	+14
+58	Josh Jacobs GB (11)	RB	-13	-26
+59	Caleb Williams CHI (10)	QB	+5	+18
+60	Christian Watson GB (11)	WR	-1	+6
+61	D'Andre Swift CHI (10)	RB	-8	-15
+62	Chris Godwin Jr. TB (10)	WR	+10	+31
 63	Justin Herbert LAC (7)	QB	+6	+23
-64	DJ Moore BUF (7)	WR	-14	-12
-65	Cam Skattebo NYG (8)	RB	-10	-29
-66	Tucker Kraft GB (11)	TE	+7	+4
-67	Bhayshul Tuten JAC (7)	RB	0	-8
-68	Brian Thomas Jr. JAC (7)	WR	+4	+9
-69	Marvin Harrison Jr. ARI (14)	WR	-1	+3
-70	Caleb Williams CHI (10)	QB	-5	+5
-71	Wan'Dale Robinson TEN (9)	WR	+15	+23
-72	Jaylen Warren PIT (9)	RB	+2	-1
-73	Sam LaPorta DET (6)	TE	+9	-7
-74	Dak Prescott DAL (14)	QB	+5	0
-75	Bucky Irving TB (10)	RB	-15	-31
-76	Chris Godwin Jr. TB (10)	WR	0	+22
-77	Chuba Hubbard CAR (5)	RB	+14	+6
-78	Rico Dowdle PIT (9)	RB	+10	+3
-79	Tyler Shough NO (8)	QB	+45	+69
-80	Blake Corum LAR (11)	RB	+30	+26
-81	Parker Washington JAC (7)	WR	-18	-8
-82	Courtland Sutton DEN (10)	WR	+2	-6
-83	Josh Downs IND (13)	WR	+2	+17
-84	TreVeyon Henderson NE (11)	RB	-18	-27
-85	Isaiah Likely NYG (8)	TE	+31	+25
+64	Michael Wilson ARI (14)	WR	+23	+21
+65	Javonte Williams DAL (14)	RB	-22	-34
+66	Harold Fannin Jr. CLE (11)	TE	+5	+1
+67	Bhayshul Tuten JAC (7)	RB	-2	-10
+68	DJ Moore BUF (7)	WR	-18	-18
+69	Marvin Harrison Jr. ARI (14)	WR	-2	+3
+70	Dak Prescott DAL (14)	QB	+6	+5
+71	Parker Washington JAC (7)	WR	-8	-1
+72	Jaylen Warren PIT (9)	RB	+2	-3
+73	Tyler Warren IND (13)	TE	-22	-21
+74	Jayden Daniels WAS (7)	QB	-22	-12
+75	Bucky Irving TB (10)	RB	-15	-30
+76	Courtland Sutton DEN (10)	WR	+6	0
+77	Chuba Hubbard CAR (5)	RB	+19	+12
+78	Rico Dowdle PIT (9)	RB	+10	+1
+79	Tyler Shough NO (8)	QB	+45	+70
+80	Blake Corum LAR (11)	RB	+30	+21
+81	Wan'Dale Robinson TEN (9)	WR	+3	+15
+82	Josh Downs IND (13)	WR	+4	+30
+83	Brian Thomas Jr. JAC (7)	WR	-4	-3
+84	TreVeyon Henderson NE (11)	RB	-16	-25
+85	Isaiah Likely NYG (8)	TE	+37	+22
 86	Tony Pollard TEN (9)	RB	-3	-8
 87	Kyle Pitts Sr. ATL (11)	TE	-10	-19
-88	Michael Pittman Jr. PIT (9)	WR	-7	+5
-89	Rhamondre Stevenson NE (11)	RB	-11	-9
-90	Jakobi Meyers JAC (7)	WR	+10	+22
-91	Stefon Diggs WAS (7)	WR	+17	+16
-92	Matthew Stafford LAR (11)	QB	+11	-1
-93	RJ Harvey DEN (10)	RB	-4	-11
-94	DK Metcalf PIT (9)	WR	-14	-15
-95	Jake Ferguson DAL (14)	TE	+19	+16
-96	Khalil Shakir BUF (7)	WR	+24	+40
-97	Dallas Goedert PHI (10)	TE	+25	+22
-98	Brock Purdy SF (8)	QB	-8	+6
-99	Kenny Gainwell TB (10)	RB	-2	+2
-100	Alec Pierce IND (13)	WR	-8	-12
-101	Jaxson Dart NYG (8)	QB	-8	-14
-102	Woody Marks HOU (8)	RB	+32	+38
-103	Kyle Monangai CHI (10)	RB	+8	-4
-104	Trevor Lawrence JAC (7)	QB	-29	-19
-105	Bo Nix DEN (10)	QB	-6	+8
-106	Harold Fannin Jr. CLE (11)	TE	-36	-41
-107	Jayden Higgins HOU (8)	WR		
-108	Jordan Love GB (11)	QB	+11	+37
-109	Jordan Addison MIN (6)	WR	-3	0
-110	Quentin Johnston LAC (7)	WR	-14	-5
-111	Juwan Johnson NO (8)	TE	+21	+44
-112	Dalton Kincaid BUF (7)	TE	+1	+10
-113	Patrick Mahomes II KC (5)	QB	-15	-11
-114	Jared Goff DET (6)	QB	-9	+10
-115	Jayden Reed GB (11)	WR	-6	+6
-116	Makai Lemon PHI (10)	WR	-12	-8
-117	Rachaad White WAS (7)	RB	-10	-3
-118	Jonathon Brooks CAR (5)	RB	-24	-29
-119	Kyler Murray MIN (6)	QB	-7	+19
-120	J.K. Dobbins DEN (10)	RB	-18	-30
-121	Xavier Worthy KC (5)	WR	+6	+9
-122	Aaron Jones Sr. MIN (6)	RB	-7	-2
-123	Jordyn Tyson NO (8)	WR	+2	-20
-124	Travis Kelce KC (5)	TE	-29	-28
-125	Baker Mayfield TB (10)	QB	-8	+8
-126	Jalen Coker CAR (5)	WR	0	+18
-127	Jacory Croskey-Merritt WAS (7)	RB	-9	-9
-128	KC Concepcion CLE (11)	WR	-5	-1
-129	Malik Willis MIA (6)	QB	+2	+36
-130	Dylan Sampson CLE (11)	RB	+11	+64
-131	Mark Andrews BAL (13)	TE	-2	-6
-132	Alvin Kamara NO (8)	RB	+12	+10
-133	Jerry Jeudy CLE (11)	WR	+26	+38
-134	C.J. Stroud HOU (8)	QB	+5	+43
-135	Tyrone Tracy Jr. NYG (8)	RB	-2	+6
-136	Dontayvion Wicks PHI (10)	WR	+43	+133
-137	Matthew Golden GB (11)	WR	-9	-11
-138	Gunnar Helm TEN (9)	TE	+67	+120
-139	Sam Darnold SEA (11)	QB	-1	+43
-140	Romeo Doubs NE (11)	WR	-10	-9
-141	Jordan Mason MIN (6)	RB	-20	-25
-142	Jaylin Noel HOU (8)	WR	+48	+142
-143	Tank Bigsby PHI (10)	RB	+12	+24
-144	Brenton Strange JAC (7)	TE	+5	+12
-145	Jonah Coleman DEN (10)	RB	+8	+46
-146	Tyjae Spears TEN (9)	RB	-9	+3
-147	Cam Ward TEN (9)	QB	+4	+60
-148	Keaton Mitchell LAC (7)	RB	-2	+18
-149	Rashid Shaheed SEA (11)	WR	-4	-3
-150	Adonai Mitchell NYJ (13)	WR	+12	+74
+88	Michael Pittman Jr. PIT (9)	WR	-8	+6
+89	RJ Harvey DEN (10)	RB	+3	-5
+90	Alec Pierce IND (13)	WR	+9	+2
+91	Jakobi Meyers JAC (7)	WR	+14	+27
+92	Matthew Stafford LAR (11)	QB	+12	-2
+93	Rhamondre Stevenson NE (11)	RB	-20	-28
+94	DK Metcalf PIT (9)	WR	-16	-13
+95	Dallas Goedert PHI (10)	TE	+22	+16
+96	Stefon Diggs WAS (7)	WR	+6	+8
+97	Sam LaPorta DET (6)	TE	-12	-24
+98	Brock Purdy SF (8)	QB	-7	+10
+99	Kenny Gainwell TB (10)	RB	-1	-1
+100	Jordan Addison MIN (6)	WR	+6	+6
+101	Jaxson Dart NYG (8)	QB	-8	-10
+102	Kyle Monangai CHI (10)	RB	+14	-2
+103	Rachaad White WAS (7)	RB	+6	+14
+104	Trevor Lawrence JAC (7)	QB	-29	-21
+105	Bo Nix DEN (10)	QB	-8	+4
+106	Dalton Kincaid BUF (7)	TE	+5	+16
+107	Jordan Love GB (11)	QB	+14	+40
+108	Quentin Johnston LAC (7)	WR	-18	+2
+109	Jayden Reed GB (11)	WR	-6	+10
+110	George Kittle SF (8)	TE	-15	-22
+111	Jake Ferguson DAL (14)	TE	+9	+2
+112	Patrick Mahomes II KC (5)	QB	-11	-9
+113	Jared Goff DET (6)	QB	-6	+12
+114	KC Concepcion CLE (11)	WR	+4	+12
+115	Khalil Shakir BUF (7)	WR	+8	+25
+116	Woody Marks HOU (8)	RB	+17	+16
+117	Jonathon Brooks CAR (5)	RB	-28	-35
+118	Kyler Murray MIN (6)	QB	-6	+18
+119	Aaron Jones Sr. MIN (6)	RB	-4	+1
+120	Jalen Coker CAR (5)	WR	+5	+26
+121	J.K. Dobbins DEN (10)	RB	-21	-34
+122	Romeo Doubs NE (11)	WR	+4	+7
+123	Mark Andrews BAL (13)	TE	+7	+4
+124	Baker Mayfield TB (10)	QB	-5	+11
+125	Matthew Golden GB (11)	WR	+2	-1
+126	Jacory Croskey-Merritt WAS (7)	RB	-13	-21
+127	Makai Lemon PHI (10)	WR	-19	-13
+128	Malik Willis MIA (6)	QB	+1	+35
+129	Tyrone Tracy Jr. NYG (8)	RB	+26	+56
+130	Juwan Johnson NO (8)	TE	+1	+21
+131	Alvin Kamara NO (8)	RB	+25	+19
+132	Jordyn Tyson NO (8)	WR	0	+5
+133	C.J. Stroud HOU (8)	QB	+6	+45
+134	Jordan Mason MIN (6)	RB	-20	-32
+135	Xavier Worthy KC (5)	WR	-7	-5
+136	Dontayvion Wicks PHI (10)	WR	+39	+119
+137	Travis Kelce KC (5)	TE	-43	-42
+138	Sam Darnold SEA (11)	QB	-1	+46
+139	Kayshon Boutte HOU (8)	WR	+33	+80
+140	Tank Bigsby PHI (10)	RB	+19	+30
+141	Jerry Jeudy CLE (11)	WR	+20	+34
+142	Dylan Sampson CLE (11)	RB	0	+51
+143	Gunnar Helm TEN (9)	TE	+63	+126
+144	Tyjae Spears TEN (9)	RB	-9	+1
+145	Jonah Coleman DEN (10)	RB	+3	+16
+146	Cam Ward TEN (9)	QB	0	+65
+147	Tyler Allgeier ARI (14)	RB	-13	-3
+148	Jaylin Noel HOU (8)	WR	+50	+123
+149	De'Zhaun Stribling SF (8)	WR	-11	-28
+150	Houston Texans HOU (8)	DST	+8	-51

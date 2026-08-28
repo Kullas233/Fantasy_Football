@@ -2,7 +2,7 @@
 
 # file = open('cummings.txt', "r")
 # file = open('eisenberg.txt', "r")
-file = open('Fantasy_Football_26/data/cbs/eisenberg.txt', "r")
+file = open('Fantasy_Football_26/data/cbs/richard.txt', "r")
 lineNum=0
 players = []
 for line in file:
@@ -50,5 +50,5 @@ for player in players:
 file.close()
 # file = open('c_data.csv', "w")
 # file = open('e_data.csv', "w")
-file = open('Fantasy_Football_26/data/cbs/e_data.csv', "w")
+file = open('Fantasy_Football_26/data/cbs/r_data.csv', "w")
 file.write(newFile)

@@ -54,7 +54,7 @@ for player in players:
     if(player[0] == "Hollywood Brown"):
         player[0] = "Marquise Brown"
     
-    newFile += player[0] + "," + player[1] + "," + player[2] + ',' + player[3] + ',' + player[4] + ',' + player[5]
+    newFile += player[0] + "," + player[1] + "," + player[3] + ',' + player[2] + ',' + player[4] + ',' + player[5]
     newFile += "\n"
 
 file.close()

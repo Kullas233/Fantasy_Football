@@ -14,15 +14,15 @@ Rank,Name,Pos,Team,Cost
 13,CeeDee Lamb,WR,DAL,-1
 14,Chase Brown,RB,CIN,-1
 15,Kenneth Walker III,RB,KC,-1
-16,Trey McBride,TE,ARI,-1
+16,Brock Bowers,TE,LV,-1
 17,Drake London,WR,ATL,-1
-18,Brock Bowers,TE,LV,-1
+18,Trey McBride,TE,ARI,-1
 19,Rashee Rice,WR,KC,-1
-20,Josh Jacobs,RB,GB,-1
-21,Jeremiyah Love,RB,ARI,-1
-22,Saquon Barkley,RB,PHI,-1
-23,Ashton Jeanty,RB,LV,-1
-24,Omarion Hampton,RB,LAC,-1
+20,Jeremiyah Love,RB,ARI,-1
+21,Saquon Barkley,RB,PHI,-1
+22,Josh Jacobs,RB,GB,-1
+23,Omarion Hampton,RB,LAC,-1
+24,Ashton Jeanty,RB,LV,-1
 25,Malik Nabers,WR,NYG,-1
 26,A.J. Brown,WR,NE,-1
 27,Chris Olave,WR,NO,-1
@@ -36,16 +36,16 @@ Rank,Name,Pos,Team,Cost
 35,Colston Loveland,TE,CHI,-1
 36,Lamar Jackson,QB,BAL,-1
 37,Travis Etienne Jr.,RB,NO,-1
-38,Cam Skattebo,RB,NYG,-1
+38,Quinshon Judkins,RB,CLE,-1
 39,Nico Collins,WR,HOU,-1
 40,Jayden Daniels,QB,WAS,-1
 41,Zay Flowers,WR,BAL,-1
 42,Tetairoa McMillan,WR,CAR,-1
 43,DeVonta Smith,WR,PHI,-1
 44,Jaylen Waddle,WR,DEN,-1
-45,Quinshon Judkins,RB,CLE,-1
+45,D'Andre Swift,RB,CHI,-1
 46,Tyler Warren,TE,IND,-1
-47,D'Andre Swift,RB,CHI,-1
+47,Cam Skattebo,RB,NYG,-1
 48,Drake Maye,QB,NE,-1
 49,Bucky Irving,RB,TB,-1
 50,Davante Adams,WR,LAR,-1
@@ -89,9 +89,9 @@ Rank,Name,Pos,Team,Cost
 88,Tucker Kraft,TE,GB,-1
 89,Dak Prescott,QB,DAL,-1
 90,Patrick Mahomes,QB,KC,-1
-91,Jakobi Meyers,WR,JAX,-1
+91,Parker Washington,WR,JAX,-1
 92,Jake Ferguson,TE,DAL,-1
-93,Chris Godwin Jr.,WR,TB,-1
+93,Jakobi Meyers,WR,JAX,-1
 94,Dallas Goedert,TE,PHI,-1
 95,Kyle Monangai,RB,CHI,-1
 96,Brock Purdy,QB,SF,-1
@@ -100,13 +100,13 @@ Rank,Name,Pos,Team,Cost
 99,Travis Kelce,TE,KC,-1
 100,J.K. Dobbins,RB,DEN,-1
 101,RJ Harvey,RB,DEN,-1
-102,Matthew Golden,WR,GB,-1
-103,Alec Pierce,WR,IND,-1
-104,Parker Washington,WR,JAX,-1
+102,Chris Godwin Jr.,WR,TB,-1
+103,Matthew Golden,WR,GB,-1
+104,Alec Pierce,WR,IND,-1
 104,Josh Downs,WR,IND,-1
 105,Caleb Williams,QB,CHI,-1
 106,Brian Thomas Jr.,WR,JAX,-1
-107,Jordyn Tyson,WR,NO,-1
+107,De'Zhaun Stribling,WR,SF,-1
 108,Rico Dowdle,RB,PIT,-1
 109,Blake Corum,RB,LAR,-1
 110,Jonathon Brooks,RB,CAR,-1
@@ -121,24 +121,24 @@ Rank,Name,Pos,Team,Cost
 116,Jalen Coker,WR,CAR,-1
 117,Dalton Schultz,TE,HOU,-1
 118,Tyler Shough,QB,NO,-1
-119,Tyrone Tracy Jr.,RB,NYG,-1
-120,Jacory Croskey-Merritt,RB,WAS,-1
-121,Jordan Mason,RB,MIN,-1
-122,Tyler Allgeier,RB,ARI,-1
-126,Brenton Strange,TE,JAX,-1
+119,Jacory Croskey-Merritt,RB,WAS,-1
+120,Jordan Mason,RB,MIN,-1
+121,Isiah Pacheco,RB,DET,-1
+122,Alvin Kamara,RB,NO,-1
+126,Isaiah Likely,TE,NYG,-1
 128,Kyler Murray,QB,MIN,-1
-129,De'Zhaun Stribling,WR,SF,-1
-130,Khalil Shakir,WR,BUF,-1
-131,Deebo Samuel,WR,SF,-1
+129,Khalil Shakir,WR,BUF,-1
+130,Deebo Samuel,WR,SF,-1
+131,Keenan Allen,WR,FA,-1
 132,Calvin Ridley,WR,TEN,-1
-133,Keaton Mitchell,RB,LAC,-1
+133,Tyler Allgeier,RB,ARI,-1
 134,Quentin Johnston,WR,LAC,-1
 135,Jayden Reed,WR,GB,-1
 136,Xavier Worthy,WR,KC,-1
-137,Jerry Jeudy,WR,CLE,-1
-138,Justice Hill,RB,BAL,-1
-139,Woody Marks,RB,HOU,-1
-140,Mike Washington Jr.,RB,LV,-1
+137,Tank Dell,WR,HOU,-1
+138,Keaton Mitchell,RB,LAC,-1
+139,Justice Hill,RB,BAL,-1
+140,Woody Marks,RB,HOU,-1
 141,Brandon Aubrey,K,DAL,-1
 142,Cameron Dicker,K,LAC,-1
 143,Texans Defense,DST,HOU,-1
